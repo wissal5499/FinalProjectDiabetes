@@ -1,0 +1,947 @@
+0,N,Dont know,female,50,NO,YES,4,3,3,1,NO,NO,much,14,YES,NO,YES,NO,YES,nothing,NO,NO,NO,NO,YES,YES,YES,NO,NO,YES,never,NO,average,little,north,4.7,46,4.9,4.2,0.9,2.4,1.4,0.5,24
+1,N,Dont know,male,26,MOM,YES,1,5,6,1,YES,YES,never,8,NO,NO,YES,NO,NO,nothing,NO,YES,NO,NO,YES,NO,NO,NO,NO,YES,average,YES,never,never,north,4.5,62,4.9,3.7,1.4,1.1,2.1,0.6,23
+2,N,Dont know,female,50,MOM,YES,1,7,5,1,NO,YES,never,8,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,profusely,YES,never,little,north,4.7,46,4.9,4.2,0.9,2.4,1.4,0.5,24
+3,N,Dont know,female,50,MOM,NO,5,3,5,2,NO,YES,little,7,NO,NO,YES,NO,NO,nothing,NO,YES,YES,NO,YES,YES,YES,YES,YES,NO,in the past,YES,never,little,north,4.7,46,4.9,4.2,0.9,2.4,1.4,0.5,24
+4,N,Dont know,male,33,MOM,NO,1,4,7,1,YES,NO,never,3,NO,NO,NO,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,never,YES,never,never,north,7.1,46,4.9,4.9,1,0.8,2,0.4,21
+5,N,Dont know,female,45,MOM,YES,5,7,2,1,NO,YES,middle,7,NO,NO,NO,NO,NO,nothing,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES,never,YES,never,average,north,2.3,24,4,2.9,1,1,1.5,0.4,21
+6,N,Dont know,female,50,MOM,NO,3,4,5,3,YES,YES,middle,10,NO,NO,YES,NO,NO,nothing,NO,YES,YES,NO,YES,NO,NO,NO,NO,YES,little,YES,never,profusely,north,2,50,4,3.6,1.3,0.9,2.1,0.6,24
+7,N,Dont know,male,48,MOM,YES,1,7,2,3,NO,YES,never,4,NO,NO,NO,NO,NO,nothing,NO,YES,YES,NO,YES,YES,NO,NO,NO,NO,little,YES,never,average,north,4.7,47,4,2.9,0.8,0.9,1.6,0.4,24
+8,N,Dont know,male,43,DAD,NO,5,15,20,4,YES,NO,little,7,NO,NO,YES,YES,YES,diabetic foot,NO,YES,YES,NO,YES,YES,YES,YES,YES,NO,profusely,YES,never,little,north,2.6,67,4,3.8,0.9,2.4,3.7,1,21
+9,N,Dont know,female,32,BOTH,NO,3,7,7,3,YES,NO,middle,7,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,in the past,NO,never,average,center,3.6,28,4,3.8,2,2.4,3.8,1,24
+10,N,Dont know,female,31,NO,NO,1,7,2,1,YES,NO,never,4,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,in the past,YES,never,never,north,4.4,55,4.2,3.6,0.7,1.7,1.6,0.3,23
+11,N,Dont know,female,33,NO,NO,5,5,4,4,YES,NO,middle,6,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,little,NO,never,profusely,north,3.3,53,4,4,1.1,0.9,2.7,1,21
+12,N,Dont know,female,30,MOM,YES,2,5,13,2,YES,NO,much,5,NO,NO,NO,YES,YES,Cardiovascular complications,NO,NO,NO,NO,NO,YES,YES,NO,YES,NO,never,NO,never,never,north,3,42,4.1,4.9,1.3,1.2,3.2,0.5,22
+13,N,Dont know,female,45,NO,NO,4,7,7,5,YES,YES,middle,0,NO,NO,YES,NO,YES,nothing,NO,YES,NO,NO,YES,NO,YES,NO,NO,YES,average,NO,little,never,north,4.6,54,5.1,4.2,1.7,1.2,2.2,0.8,23
+14,N,Dont know,female,50,NO,NO,6,c,9,1,YES,YES,little,8,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,profusely,NO,never,profusely,north,3.5,39,4,4,1.5,1.2,2.2,0.7,24
+15,N,Dont know,male,50,NO,NO,7,4,4,2,YES,NO,middle,3,NO,NO,NO,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,profusely,YES,little,little,north,5.5,74,5,3.6,1.1,1,2.1,0.5,21
+16,N,Dont know,female,50,NO,NO,1,2,4,0,NO,NO,never,0,NO,NO,NO,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,average,YES,never,average,north,5.9,53,5.4,5.3,0.8,1.1,4.1,0.3,21
+17,N,Dont know,female,30,NO,NO,6,7,3,2,NO,NO,middle,8,NO,NO,YES,YES,YES,nothing,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,average,YES,never,average,north,3,42,4.1,4.9,1.3,1.2,3.2,0.5,22
+18,N,Dont know,female,49,NO,NO,3,4,4,5,YES,NO,middle,2,NO,NO,NO,NO,NO,nothing,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES,profusely,YES,little,little,north,2.2,28,4.1,5,1.3,1.2,3.3,0.6,24
+19,N,Dont know,female,49,NO,NO,3,1,2,0,NO,YES,little,0,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,never,NO,never,never,north,3.8,55,4,4.4,0.9,1,1.3,0.4,23
+20,N,Dont know,female,49,NO,NO,3,1,2,0,NO,YES,never,0,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,average,NO,never,never,north,13.5,175,5.1,0.5,1.9,1.3,2.8,0.8,24
+21,N,Dont know,female,42,NO,NO,1,5,4,1,NO,NO,middle,2,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,average,NO,never,little,south,5,73,4.5,6.2,1,1.1,4.6,0.4,24
+22,N,Dont know,female,33,NO,NO,4,3,2,2,YES,NO,never,6,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,profusely,NO,never,never,north,5.3,62,5,4.2,1.5,1.2,2.3,0.6,24
+23,N,Dont know,male,50,MOM,YES,3,5,8,1,NO,NO,little,4,NO,NO,YES,NO,NO,nothing,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO,little,YES,never,little,north,4,28,5.3,4.8,1,0.9,3.6,0.4,23
+24,N,Dont know,female,39,NO,NO,5,6,7,4,YES,YES,much,7,NO,NO,YES,YES,YES,nothing,NO,NO,NO,YES,YES,YES,NO,YES,YES,NO,little,NO,never,never,north,3.2,55,5,4.6,1.3,1,3,0.6,21
+25,N,Dont know,female,30,NO,NO,0,7,3,1,NO,NO,middle,4,NO,NO,YES,YES,NO,nothing,NO,NO,NO,NO,NO,YES,YES,YES,NO,NO,never,NO,never,little,north,3,45,4.1,4.9,1.3,1.2,3.2,0.5,22
+26,N,Dont know,male,30,NO,NO,2,14,3,1,YES,YES,much,3,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,little,NO,never,never,north,4.8,80,5.5,5.5,1.8,1.2,3.5,0.8,19
+27,N,Dont know,male,41,MOM,NO,1,1,2,1,NO,NO,much,0,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,profusely,YES,never,little,north,4.2,99,4,2.8,2.9,0.8,3.8,1.3,22
+28,N,Dont know,male,33,MOM,NO,3,4,7,4,YES,YES,much,6,YES,NO,YES,YES,NO,diabetic eye complications,NO,YES,YES,YES,YES,NO,YES,YES,YES,NO,average,NO,never,profusely,north,2,54,5.4,3.7,1.3,0.8,2.4,0.6,22
+29,N,Dont know,female,44,NO,NO,2,4,7,0,NO,NO,much,0,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,never,YES,never,never,north,4.3,49,4,5.6,1.4,1.4,3.6,0.6,22
+30,N,Dont know,female,48,NO,NO,1,1,7,0,NO,NO,middle,0,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,little,NO,never,little,center,7.5,82,5.4,3.2,1.8,1.6,0.9,0.8,23
+31,N,Dont know,male,47,NO,NO,1,3,3,4,YES,NO,much,3,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,profusely,NO,never,never,north,4.6,55,4.3,4.6,0.8,0.9,4.2,4.1,24
+32,N,Dont know,male,36,MOM,NO,2,7,4,3,YES,YES,little,4,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,never,NO,never,little,center,3.8,70,5,3.6,0.7,1.3,1.9,5,22
+33,N,Dont know,female,42,NO,NO,3,7,4,3,NO,YES,never,2,NO,NO,YES,NO,NO,nothing,NO,YES,NO,NO,YES,YES,NO,NO,NO,YES,profusely,YES,never,average,north,5,73,4.5,6.2,1,1.1,4.6,0.4,24
+34,N,Dont know,female,47,MOM,NO,2,4,2,4,YES,YES,much,3,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,never,YES,never,little,north,5.6,67,5.1,6.5,1.5,0.9,4.9,0.7,23
+35,N,Dont know,female,39,NO,NO,20,23,4,6,YES,YES,middle,7,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES,little,NO,little,little,north,6,67,4,4,0.6,1.1,2.6,0.3,22
+36,N,Dont know,female,38,MOM,NO,6,7,1,5,YES,NO,much,3,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,in the past,YES,never,average,north,2,20,5.1,3,1.2,0.6,2,0.5,21
+37,N,Dont know,male,46,BOTH,NO,4,3,3,5,YES,NO,middle,7,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,average,YES,never,average,north,2,54,5.4,3.7,1.3,0.8,2.4,0.6,21
+38,N,Dont know,male,44,NO,NO,0,2,1,0,NO,NO,much,7,NO,NO,YES,YES,YES,nothing,NO,NO,YES,NO,YES,NO,NO,NO,YES,YES,average,YES,never,never,north,3.8,74,5,3.7,1.5,1.1,2,0.7,24
+39,N,Dont know,female,41,NO,NO,4,3,3,1,NO,YES,much,1,NO,NO,NO,NO,NO,nothing,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,little,YES,little,little,north,3.4,48,4,4.4,1.6,0.8,3,0.7,23
+40,N,Dont know,female,45,DAD,NO,2,4,3,2,NO,NO,little,3,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,profusely,NO,never,average,north,4.7,31,4.8,3.8,0.7,1.3,2.2,0.3,24
+41,N,Dont know,female,44,MOM,NO,1,3,1,2,NO,NO,much,7,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,in the past,YES,never,little,north,3,39,5.5,9.5,1.7,1.3,2.5,0.6,21
+42,N,Dont know,male,33,MOM,NO,2,3,1,1,NO,NO,much,1,NO,NO,NO,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,little,YES,never,average,north,2,54,5.4,3.7,1.3,0.8,2.4,0.6,22
+43,N,Dont know,male,43,NO,NO,0,7,4,2,NO,NO,middle,0,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,never,YES,never,little,center,4.1,44,4.3,4.7,1.9,1.4,2.6,0.8,21
+44,N,Dont know,female,33,NO,NO,2,2,30,1,NO,YES,little,1,NO,NO,YES,NO,NO,nothing,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,in the past,NO,never,profusely,north,2.7,47,5,4.2,1.4,1.3,2.6,0.7,24
+45,N,Dont know,male,49,MOM,NO,0,7,3,0,NO,YES,much,0,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,YES,YES,NO,NO,YES,YES,never,NO,never,profusely,center,5.7,74,4.7,5.2,1.1,0.9,1.4,0.7,21
+46,N,Dont know,male,31,DAD,NO,3,5,3,1,NO,NO,middle,7,NO,NO,YES,NO,NO,neuropathy,NO,YES,NO,NO,YES,YES,YES,NO,YES,YES,little,YES,never,average,north,3.6,67,3.7,4.3,2.1,1,2.4,14.5,23
+47,N,Dont know,male,49,DAD,NO,2,3,4,1,NO,NO,middle,2,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,in the past,YES,never,little,north,3.8,60,5,4.7,1.8,0.7,3.3,0.8,24
+48,N,Dont know,female,44,NO,NO,2,3,4,2,NO,NO,middle,5,NO,NO,YES,NO,NO,nothing,NO,YES,NO,NO,YES,YES,YES,NO,NO,YES,little,NO,in the past,little,center,3,39,5.5,9.5,1.7,1.3,2.5,0.6,21
+49,N,Dont know,female,47,BOTH,NO,0,2,2,1,YES,YES,little,14,NO,YES,NO,NO,YES,nothing,YES,YES,YES,YES,NO,NO,NO,NO,YES,YES,never,YES,average,little,center,3.7,48,5,4.7,1.6,1,2.4,0.7,22
+50,N,Dont know,male,44,DAD,NO,17,9,12,6,YES,YES,middle,20,YES,YES,NO,YES,YES,diabetic eye complications,NO,YES,NO,YES,YES,NO,YES,NO,NO,YES,profusely,NO,average,profusely,center,3.1,49,4,4.9,1.7,1.4,2.8,0.8,24
+51,N,Dont know,female,45,BOTH,YES,17,6,5,2,NO,NO,never,25,NO,YES,NO,YES,YES,diabetic eye complications,NO,YES,NO,YES,NO,NO,NO,NO,YES,NO,little,NO,little,little,north,4,57,4,4.3,0.9,1.1,4.2,0.4,22
+52,N,Dont know,male,43,MOM,YES,0,5,13,6,NO,NO,much,15,NO,YES,NO,NO,YES,Cardiovascular complications,YES,NO,NO,NO,YES,YES,YES,YES,NO,NO,in the past,YES,in the past,never,center,2.4,40,5,4.8,1.9,1.1,3,0.8,21
+53,N,Dont know,female,47,BOTH,NO,4,12,2,9,YES,NO,never,13,NO,NO,NO,YES,NO,diabetic foot,YES,NO,YES,NO,YES,NO,YES,NO,YES,NO,in the past,YES,in the past,profusely,south,3.3,53,5.4,4.1,0.7,1.7,2.8,0.7,20
+54,N,Dont know,female,50,DAD,NO,10,15,10,2,NO,YES,little,2,YES,NO,YES,YES,YES,nothing,NO,YES,YES,YES,NO,NO,NO,YES,NO,YES,never,YES,average,average,north,4.4,69,5,3.9,0.7,2.3,0.3,0.4,24
+55,N,Dont know,female,50,DAD,NO,3,5,9,4,YES,YES,little,6,YES,NO,NO,YES,NO,diabetic eye complications,NO,YES,YES,NO,YES,NO,YES,NO,NO,YES,average,YES,never,never,south,5.4,52,4.5,3.2,0.8,1.2,1.7,0.3,23
+56,N,Dont know,female,49,MOM,NO,5,9,11,4,YES,NO,much,6,YES,YES,YES,NO,YES,diabetic foot,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,in the past,YES,average,never,center,2.3,52,5,3.1,1.3,1,2.5,0.7,22
+57,N,Dont know,female,50,MOM,NO,1,13,8,7,NO,YES,middle,9,NO,YES,YES,YES,NO,neuropathy,NO,NO,YES,NO,YES,YES,YES,NO,NO,NO,little,YES,little,little,south,4.5,32,4.5,3.4,0.7,1.1,2,0.3,22
+58,N,Dont know,female,49,MOM,NO,6,5,6,5,NO,YES,much,7,NO,YES,YES,YES,NO,diabetic foot,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES,little,YES,in the past,profusely,north,2.1,38,5,4.2,0.8,0.9,3,0.4,21
+59,N,Dont know,female,44,MOM,YES,16,11,1,6,YES,NO,little,12,NO,YES,NO,YES,YES,Diabetic nephropathy,YES,NO,YES,YES,NO,YES,YES,YES,YES,YES,little,NO,profusely,little,south,3.9,42,4.1,5.2,1.5,1,3.5,0.7,21
+60,N,Dont know,female,48,BOTH,NO,7,4,5,10,YES,NO,little,15,YES,YES,NO,YES,NO,diabetic eye complications,NO,YES,NO,NO,YES,YES,NO,YES,YES,NO,average,YES,little,little,center,2.8,55,5,3.6,0.6,2.1,1.2,0.2,23.5
+61,N,Dont know,male,47,NO,YES,13,6,13,1,YES,YES,middle,11,YES,YES,NO,NO,NO,cerebrovascular disease,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,never,YES,profusely,little,center,4,45,4.2,4,1.3,0.9,2.6,1,23
+62,N,Dont know,male,47,DAD,YES,14,14,9,3,YES,NO,much,22,NO,NO,YES,NO,NO,neuropathy,NO,NO,NO,NO,YES,NO,YES,YES,NO,NO,in the past,YES,in the past,profusely,north,7.6,85,4.3,4.3,2.3,0.9,2.4,1,24
+63,N,Dont know,male,44,DAD,YES,16,17,10,6,NO,NO,much,8,NO,NO,NO,YES,NO,nothing,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES,in the past,YES,little,never,south,6.8,64,4.9,4.9,2.8,2,1.8,1.2,21
+64,N,Dont know,female,35,BOTH,YES,13,6,9,3,NO,YES,much,13,YES,NO,NO,YES,YES,Cardiovascular complications,YES,NO,NO,YES,NO,YES,NO,NO,NO,YES,profusely,NO,average,average,south,3.9,38,5.4,3.8,5.9,0.5,4.3,1,22
+65,N,Dont know,male,40,NO,NO,17,0,2,1,NO,YES,much,4,YES,NO,YES,YES,NO,Diabetic nephropathy,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,average,NO,never,average,south,5,63,4,4.8,2.5,1.1,2.7,1.1,23
+66,N,Dont know,female,35,DAD,YES,10,12,3,1,NO,YES,never,19,NO,NO,NO,NO,YES,diabetic eye complications,NO,NO,YES,YES,NO,NO,YES,NO,YES,YES,never,NO,average,little,north,2.8,50,5,4.7,2.5,1.3,2.4,1.1,20
+67,N,Dont know,female,42,BOTH,YES,9,17,7,7,YES,YES,middle,0,NO,NO,YES,NO,NO,Diabetic nephropathy,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,average,NO,in the past,profusely,south,2.1,45,4.9,3,1.1,1.1,1.4,1.4,21
+68,N,Dont know,male,59,MOM,YES,17,17,10,1,NO,YES,never,14,NO,YES,YES,NO,NO,diabetic eye complications,NO,YES,YES,YES,YES,YES,YES,YES,YES,YES,average,YES,never,little,north,5.2,38,5.4,4.9,1.2,0.9,3.4,0.6,23
+69,N,Dont know,female,31,DAD,NO,0,17,5,5,NO,NO,little,23,NO,NO,YES,YES,YES,diabetic foot,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,in the past,NO,average,little,south,3.9,6,5.4,4.4,1.8,1.1,2.6,0.8,22
+70,N,Dont know,male,40,BOTH,NO,13,1,8,5,NO,NO,middle,19,YES,NO,YES,YES,YES,Diabetic nephropathy,NO,NO,YES,YES,NO,NO,YES,YES,YES,NO,never,YES,little,average,north,4.7,40,5.6,7.6,1.3,0.9,3.4,1.3,22
+71,N,Dont know,male,41,NO,YES,17,5,7,10,YES,NO,much,12,NO,YES,NO,NO,YES,diabetic foot,YES,YES,YES,NO,NO,YES,NO,NO,YES,YES,never,NO,never,profusely,center,3.8,48,4.3,3.2,4.5,1.3,1.8,1.1,21
+72,N,Dont know,female,41,DAD,NO,11,4,6,6,NO,NO,little,25,NO,NO,NO,NO,NO,neuropathy,NO,YES,YES,NO,YES,YES,NO,YES,NO,NO,profusely,YES,profusely,profusely,north,2,39,4,3.4,1.2,1.7,1.1,0.5,21
+73,N,Dont know,female,43,DAD,NO,6,2,3,4,YES,NO,little,0,YES,YES,YES,YES,YES,diabetic foot,NO,YES,NO,NO,YES,NO,YES,NO,NO,YES,average,YES,average,average,north,4,54,4.3,4.1,1.1,1.2,2.4,1.3,24.5
+74,N,Dont know,female,44,NO,YES,15,15,2,6,NO,NO,little,25,NO,NO,NO,YES,NO,diabetic foot,NO,YES,YES,YES,YES,YES,NO,NO,YES,YES,profusely,YES,in the past,never,north,4.4,56,4.2,3.4,1.3,1.3,1.5,0.6,21
+75,N,Dont know,male,59,NO,YES,10,17,5,0,NO,NO,middle,6,YES,YES,YES,YES,NO,neuropathy,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES,profusely,YES,average,average,north,4.7,58,4.1,6.3,0.6,1.1,4.9,1.1,24
+76,N,Dont know,female,35,MOM,YES,1,16,1,3,NO,NO,little,19,NO,NO,NO,NO,YES,nothing,YES,YES,YES,NO,NO,NO,YES,YES,YES,YES,in the past,NO,profusely,average,north,3.3,44,5,4.1,1.9,4,1.3,0.7,23
+77,N,Dont know,male,51,NO,YES,11,4,10,2,NO,YES,never,22,YES,NO,YES,YES,NO,neuropathy,NO,YES,YES,YES,NO,YES,YES,NO,YES,YES,never,NO,in the past,average,north,4.5,88,4,4.1,1.5,0.9,2.7,1.1,20
+78,N,Dont know,female,30,BOTH,YES,6,8,13,4,NO,NO,never,19,NO,YES,NO,NO,YES,Diabetic nephropathy,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,little,YES,never,profusely,south,3.6,61,5.4,6.5,1.8,1.5,4.2,0.8,24
+79,N,Dont know,female,50,BOTH,NO,5,9,2,6,NO,YES,middle,20,NO,YES,YES,YES,NO,diabetic foot,YES,NO,YES,YES,NO,YES,YES,NO,YES,YES,profusely,YES,average,little,center,6,61,5,4.4,2.7,1.3,3.1,1.1,21
+80,N,Dont know,female,57,NO,NO,4,16,7,8,YES,YES,never,19,YES,YES,YES,NO,YES,cerebrovascular disease,NO,NO,NO,YES,YES,NO,YES,YES,YES,YES,profusely,NO,little,average,north,4.6,97,0.9,3.2,1.3,0.9,3,1.1,22
+81,N,Dont know,female,50,BOTH,YES,15,2,14,0,NO,NO,middle,3,YES,YES,YES,YES,NO,neuropathy,NO,YES,NO,NO,YES,YES,YES,YES,YES,NO,average,YES,in the past,profusely,north,6.3,88,4,4.5,1.2,1.8,4.1,1.2,22
+82,N,Dont know,female,35,NO,YES,12,17,8,9,NO,YES,never,1,NO,NO,NO,YES,YES,diabetic eye complications,NO,NO,NO,YES,YES,YES,NO,YES,NO,YES,little,YES,little,profusely,center,3.6,61,5.3,4.3,1.3,0.8,1.3,1,24
+83,N,Dont know,male,63,DAD,YES,13,9,4,9,NO,YES,middle,16,YES,YES,NO,YES,NO,Cardiovascular complications,NO,NO,NO,YES,YES,NO,YES,NO,YES,YES,little,YES,average,average,south,6.6,106,4.3,4.8,1.7,1.1,3,0.7,20
+84,N,Dont know,male,36,MOM,YES,7,0,0,8,NO,NO,little,1,NO,YES,NO,YES,YES,cerebrovascular disease,NO,YES,YES,YES,NO,NO,NO,NO,YES,YES,little,YES,little,little,north,3.3,70,4.2,4.9,2.5,0.9,1.9,0.7,20
+85,N,Dont know,male,50,DAD,NO,8,15,13,4,YES,NO,middle,22,YES,YES,YES,NO,YES,cerebrovascular disease,YES,YES,YES,NO,YES,YES,YES,NO,YES,YES,average,YES,profusely,little,south,5.8,61,4,2,1.2,1.3,3,0.8,21
+86,N,Dont know,female,25,NO,YES,7,17,0,8,NO,YES,much,25,YES,YES,NO,YES,YES,nothing,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,in the past,NO,never,average,south,10,35,4,4.3,3.5,0.8,1.3,0.8,22
+87,N,Dont know,female,40,DAD,YES,7,6,11,6,NO,NO,middle,7,YES,NO,NO,NO,NO,cerebrovascular disease,NO,NO,YES,NO,YES,NO,YES,YES,YES,YES,never,NO,never,little,center,5.8,123,4.5,4.6,1.5,0.7,3,0.6,24
+88,N,Dont know,female,40,MOM,YES,14,14,8,7,YES,NO,little,19,NO,NO,NO,NO,NO,neuropathy,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO,profusely,YES,average,never,south,6.3,79,4.9,4.3,0.8,0.8,1.8,1.2,22
+89,N,Dont know,male,50,MOM,YES,11,1,5,9,YES,NO,much,14,YES,YES,YES,NO,YES,cerebrovascular disease,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,profusely,YES,profusely,little,south,5.5,97,5.4,3.2,1.8,1.6,0.9,0.8,21
+90,N,Dont know,male,30,BOTH,NO,14,2,10,8,YES,NO,middle,22,YES,YES,NO,YES,YES,diabetic eye complications,NO,YES,YES,NO,YES,YES,YES,YES,YES,YES,never,NO,profusely,average,north,5.5,79,5.6,3.9,1.6,0.9,3.3,0.8,24.5
+91,N,Dont know,male,50,DAD,NO,0,13,4,10,YES,NO,much,20,YES,YES,NO,YES,NO,cerebrovascular disease,NO,YES,NO,YES,NO,YES,YES,NO,NO,NO,average,YES,average,profusely,center,9.6,203,5.4,3.8,5.9,0.5,4.3,1.3,22
+92,N,Dont know,female,60,DAD,NO,5,5,1,2,NO,YES,little,6,YES,NO,YES,YES,NO,diabetic eye complications,YES,NO,YES,YES,YES,YES,NO,NO,NO,YES,in the past,YES,in the past,little,center,7.5,70,0.9,3.4,5.3,1.1,3.6,0.8,24
+93,N,Dont know,female,77,BOTH,YES,14,11,4,6,YES,YES,little,3,YES,NO,NO,NO,YES,cerebrovascular disease,NO,NO,NO,NO,YES,YES,YES,NO,NO,YES,little,YES,profusely,never,south,5,106,5.4,3.9,2.1,1.2,4.2,1.1,24
+94,N,Dont know,female,44,MOM,NO,11,12,6,7,NO,YES,never,14,NO,YES,NO,YES,YES,diabetic foot,NO,YES,NO,NO,YES,YES,NO,NO,YES,NO,average,YES,little,average,south,7.3,132,4.3,5.2,1.9,2.5,3,0.7,21
+95,N,Dont know,male,40,NO,YES,3,7,1,6,NO,NO,much,16,NO,YES,NO,NO,YES,diabetic foot,NO,YES,YES,YES,YES,NO,NO,YES,NO,YES,little,YES,in the past,little,center,22,159,5.4,3.1,1.6,1.1,1.3,0.7,24
+96,N,Dont know,female,54,MOM,YES,12,1,12,1,YES,YES,much,19,YES,NO,YES,NO,NO,Diabetic nephropathy,YES,YES,NO,NO,NO,YES,NO,YES,YES,NO,in the past,YES,never,little,south,6.3,106,5.6,4.3,2,1.3,2.2,0.9,20
+97,N,Dont know,female,50,BOTH,YES,9,14,15,10,NO,NO,never,0,YES,NO,YES,NO,NO,diabetic eye complications,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,profusely,NO,never,little,north,3.3,70,4.9,3.7,0.9,1.2,2.7,0.6,24
+98,N,Dont know,male,60,DAD,YES,14,1,2,9,YES,NO,never,6,YES,NO,NO,NO,YES,Cardiovascular complications,NO,YES,YES,NO,NO,YES,YES,YES,YES,NO,never,NO,profusely,average,south,7.5,70,0.9,3.4,5.3,1.1,3.6,0.8,24
+99,N,Dont know,male,77,MOM,YES,15,10,0,2,YES,YES,much,2,NO,NO,NO,YES,NO,diabetic eye complications,YES,YES,NO,YES,YES,NO,YES,NO,NO,YES,average,YES,never,average,south,5,106,5.4,0,2.8,0.8,1.8,0.7,19
+100,N,Dont know,female,59,DAD,YES,16,10,7,4,NO,NO,much,23,YES,NO,NO,YES,NO,diabetic eye complications,YES,NO,NO,YES,YES,YES,YES,NO,NO,YES,average,YES,in the past,profusely,north,4.7,58,4.1,4.5,1.8,1.8,1.8,1.3,22.5
+101,N,Dont know,female,57,BOTH,NO,6,2,9,5,NO,NO,never,0,YES,NO,NO,NO,YES,nothing,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES,never,YES,in the past,never,south,4.6,97,0.9,3.2,1.3,0.9,3,1.1,22
+102,N,Dont know,male,38,DAD,YES,1,4,4,8,NO,NO,little,8,YES,YES,YES,YES,NO,cerebrovascular disease,NO,YES,NO,NO,NO,YES,YES,YES,NO,YES,profusely,NO,never,profusely,center,6.1,83,5.4,4.5,1.7,0.9,2.8,0.8,24.6
+103,Y,Dont know,male,31,BOTH,NO,0,2,13,4,NO,NO,little,16,NO,NO,NO,YES,NO,cerebrovascular disease,NO,YES,NO,NO,YES,YES,NO,NO,NO,YES,never,YES,in the past,profusely,north,3,60,12.3,4.1,2.2,0.7,2.4,15.4,37.2
+104,Y,type 2,male,30,MOM,YES,17,11,6,8,YES,NO,little,10,YES,NO,YES,NO,YES,nothing,NO,NO,YES,YES,YES,YES,YES,NO,YES,YES,in the past,NO,profusely,average,center,7.1,81,6.7,4.1,1.1,1.2,2.4,8.1,27.4
+105,Y,Dont know,male,45,MOM,YES,1,13,15,10,NO,YES,middle,2,YES,NO,NO,NO,NO,cerebrovascular disease,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES,profusely,YES,profusely,never,north,4.1,63,10.2,4.8,1.3,0.9,3.3,9.5,34.3
+106,Y,type 2,male,45,NO,YES,13,7,0,10,NO,YES,middle,1,YES,YES,NO,NO,NO,Diabetic nephropathy,YES,YES,NO,YES,YES,YES,YES,YES,YES,YES,little,NO,little,profusely,center,4.1,63,10.2,4.8,1.3,0.9,3.3,9.5,34.3
+107,Y,type 2,male,45,DAD,YES,10,16,4,9,YES,YES,middle,19,NO,NO,YES,YES,YES,Cardiovascular complications,NO,YES,NO,NO,NO,YES,YES,YES,NO,NO,average,NO,profusely,never,north,5.3,77,11.2,3.9,1.5,1.3,2,10.4,29.5
+108,Y,Dont know,male,31,DAD,YES,8,3,3,4,NO,NO,much,17,YES,YES,YES,YES,YES,diabetic eye complications,NO,NO,NO,YES,YES,NO,YES,YES,NO,NO,little,YES,profusely,profusely,north,3.4,55,6.5,4.9,1.6,1,3.2,0.7,24
+109,Y,type 2,male,45,DAD,YES,0,3,1,2,NO,YES,middle,3,YES,YES,NO,YES,NO,neuropathy,YES,NO,YES,NO,YES,NO,NO,YES,YES,NO,in the past,YES,never,average,south,5.3,77,11.2,3.9,1.5,1.3,2,10.4,29.5
+110,Y,type 2,male,30,DAD,NO,13,2,15,9,YES,NO,much,7,YES,YES,YES,NO,YES,Cardiovascular complications,YES,NO,YES,NO,NO,YES,NO,NO,NO,YES,profusely,YES,in the past,little,center,5,80,6.9,4.5,1.8,1.2,2.6,12.7,34.6
+111,Y,type 2,male,30,DAD,YES,0,3,10,7,YES,NO,little,6,YES,NO,NO,NO,NO,diabetic eye complications,NO,NO,NO,YES,YES,NO,YES,NO,YES,YES,never,YES,never,average,south,5,80,6.9,4.5,1.8,1.2,2.6,12.7,34.6
+112,Y,type 2,male,35,BOTH,NO,5,6,9,1,NO,YES,middle,14,YES,YES,YES,YES,YES,diabetic eye complications,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,average,YES,profusely,profusely,south,4.8,64,7.7,3.7,1,1.2,2,7.2,27.3
+113,Y,type 2,male,35,MOM,YES,1,6,14,4,NO,NO,little,18,NO,YES,NO,YES,NO,diabetic foot,YES,YES,NO,YES,NO,YES,YES,YES,YES,NO,average,YES,profusely,little,center,4.8,64,7.7,3.7,1,1.2,2,7.2,27.3
+114,Y,type 2,male,45,NO,NO,11,8,2,4,NO,YES,little,25,NO,YES,YES,YES,YES,Cardiovascular complications,NO,YES,NO,NO,NO,YES,YES,NO,YES,YES,profusely,YES,never,profusely,south,4.8,82,7.2,4.7,1.8,0.8,3.1,12.7,31.2
+115,Y,type 2,male,45,NO,NO,15,1,2,3,NO,YES,never,22,NO,YES,YES,NO,NO,diabetic foot,YES,YES,NO,NO,YES,NO,YES,YES,YES,NO,in the past,NO,in the past,profusely,north,4.8,82,7.2,4.7,1.8,0.8,3.1,12.7,31.2
+116,Y,Dont know,male,45,DAD,NO,15,11,12,3,NO,NO,little,11,NO,NO,YES,YES,NO,diabetic foot,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,little,YES,profusely,little,center,3.6,80,5,6.1,3.7,0.7,3.9,1.7,22
+117,Y,type 2,female,50,MOM,NO,10,11,8,1,YES,NO,middle,18,NO,NO,NO,NO,YES,neuropathy,YES,NO,NO,NO,YES,YES,YES,NO,NO,NO,in the past,NO,average,little,north,4,56,13.7,4.4,2,1,2.5,0.9,29
+118,Y,type 2,female,50,MOM,NO,7,12,3,9,YES,YES,much,14,NO,NO,NO,YES,NO,Cardiovascular complications,NO,NO,NO,NO,YES,YES,YES,NO,YES,NO,in the past,NO,in the past,profusely,center,4,56,13.7,4.4,2,1,2.5,0.9,29
+119,Y,type 2,female,48,NO,YES,3,15,13,4,NO,YES,never,23,YES,NO,NO,YES,NO,Cardiovascular complications,YES,YES,YES,NO,YES,YES,NO,NO,YES,NO,in the past,YES,in the past,average,south,4,38,6.5,4.4,2.3,1.3,2.2,1,23
+120,Y,Dont know,male,38,BOTH,NO,4,14,6,0,NO,YES,much,24,YES,NO,NO,NO,YES,diabetic foot,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES,profusely,NO,little,average,south,5.8,59,6.7,5.3,2,1.6,2.9,14,40.5
+121,Y,Dont know,female,46,DAD,YES,3,5,11,3,YES,NO,much,7,NO,NO,NO,YES,YES,nothing,YES,NO,NO,YES,YES,NO,YES,NO,YES,YES,average,YES,in the past,profusely,north,3,59,5.1,5.7,3.8,1.3,2.8,1.7,24
+122,Y,type 2,male,45,NO,YES,7,9,15,10,NO,YES,little,8,YES,YES,NO,YES,YES,Cardiovascular complications,NO,YES,YES,YES,NO,YES,NO,YES,YES,YES,average,YES,never,never,north,2.3,42,5.1,4.4,1.5,1,2.8,0.5,25
+123,Y,Dont know,female,54,NO,YES,10,8,1,3,YES,NO,little,11,YES,NO,YES,YES,YES,diabetic foot,YES,NO,YES,YES,NO,NO,NO,NO,NO,YES,average,YES,average,average,north,3,39,7.2,9.5,1.7,1.3,2.5,0.6,22
+124,Y,type 2,female,54,DAD,YES,8,12,9,10,YES,YES,much,4,YES,NO,YES,NO,YES,diabetic foot,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,profusely,YES,little,profusely,center,3,39,7.2,9.5,1.7,1.3,2.5,0.6,22
+125,Y,type 2,male,43,BOTH,YES,17,11,15,4,NO,NO,middle,18,NO,NO,YES,YES,YES,diabetic eye complications,YES,YES,YES,YES,NO,NO,NO,YES,NO,YES,average,NO,average,little,north,5.4,62,4.1,5.9,2,1.1,3.9,0.9,21
+126,Y,type 2,male,49,BOTH,NO,1,2,15,8,YES,NO,middle,1,NO,YES,NO,NO,YES,diabetic eye complications,YES,YES,YES,YES,YES,NO,YES,NO,YES,NO,profusely,YES,profusely,never,south,3.9,65,5.2,5.1,1.7,3.9,0.8,1.6,24
+127,Y,type 2,female,49,DAD,YES,9,14,5,8,NO,NO,middle,22,YES,YES,NO,YES,YES,Diabetic nephropathy,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,average,NO,in the past,little,north,3.8,56,5.1,6,3.5,1.1,3.5,1.6,25
+128,Y,type 2,female,45,DAD,YES,12,16,15,1,NO,NO,never,0,YES,YES,NO,NO,YES,cerebrovascular disease,NO,YES,YES,YES,NO,NO,YES,NO,NO,NO,average,YES,never,little,south,3.1,54,4,5.9,1.8,1.6,3.5,0.8,24
+129,Y,type 2,female,47,MOM,YES,3,6,4,0,NO,NO,never,7,NO,YES,YES,YES,NO,cerebrovascular disease,YES,NO,YES,YES,NO,NO,YES,NO,NO,YES,profusely,YES,in the past,little,south,3.5,65,5,6.3,2.2,1.1,2.8,0.8,23
+130,Y,type 2,male,38,NO,YES,10,0,14,10,NO,YES,much,8,YES,NO,YES,NO,YES,diabetic foot,YES,YES,YES,YES,NO,YES,YES,YES,YES,NO,average,NO,little,never,south,4,67,10.2,5.2,2,1.1,3.2,14,47
+131,Y,type 2,female,42,MOM,YES,8,5,5,8,YES,NO,much,11,YES,NO,YES,NO,YES,Cardiovascular complications,YES,NO,YES,NO,YES,NO,NO,YES,NO,NO,little,YES,never,average,north,2.8,39,4.6,4.7,2.5,1.3,2.4,1.1,25
+132,Y,Dont know,male,39,DAD,YES,3,1,8,2,NO,YES,middle,17,YES,YES,NO,YES,YES,Cardiovascular complications,NO,YES,NO,YES,NO,YES,NO,NO,NO,NO,average,YES,in the past,never,south,4.3,49,5.1,6.7,2.5,1.1,4.5,1.1,25
+133,Y,Dont know,male,30,NO,NO,7,9,9,6,YES,NO,never,19,YES,YES,NO,NO,YES,nothing,YES,YES,NO,NO,YES,YES,YES,NO,NO,NO,little,YES,average,profusely,south,4.8,80,5.5,5.5,1.8,1.2,3.5,0.8,25
+134,Y,Dont know,male,40,NO,YES,11,5,10,10,YES,YES,middle,1,NO,YES,NO,YES,NO,diabetic foot,YES,NO,YES,YES,NO,NO,YES,NO,NO,YES,profusely,NO,average,profusely,north,5.9,76,4,5,2.1,1.6,3,0.9,24
+135,Y,type 2,male,38,MOM,YES,6,10,4,3,NO,NO,much,6,NO,YES,NO,YES,YES,nothing,YES,YES,YES,YES,NO,NO,NO,YES,NO,NO,average,YES,average,little,center,4,67,10.2,5.2,2,1.1,3.2,14,47
+136,Y,Dont know,male,30,NO,YES,8,12,10,10,YES,NO,never,4,NO,NO,NO,NO,NO,diabetic eye complications,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,never,NO,profusely,profusely,center,4.8,80,5.5,5.5,1.8,1.2,3.5,0.8,25
+137,Y,type 2,male,46,BOTH,NO,13,15,15,8,YES,NO,never,25,NO,NO,NO,YES,YES,cerebrovascular disease,NO,YES,NO,YES,YES,NO,YES,YES,YES,YES,never,NO,in the past,little,center,4.4,47,5.2,6.8,0.7,1.7,4.7,0.4,24
+138,Y,Dont know,female,45,BOTH,NO,10,14,14,5,YES,YES,middle,4,NO,NO,NO,NO,NO,Cardiovascular complications,NO,YES,YES,NO,NO,YES,NO,NO,YES,YES,never,YES,little,never,south,3.7,49,5.3,2.5,2.2,1,0.6,1,25
+139,Y,type 1,male,33,MOM,NO,17,13,13,9,YES,NO,little,24,YES,YES,NO,NO,YES,neuropathy,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO,average,NO,profusely,little,south,3.3,76,9.7,2.4,1.9,0.8,2.5,13.1,21.17
+140,Y,Dont know,male,40,DAD,NO,12,12,3,2,NO,YES,never,1,YES,YES,YES,NO,YES,cerebrovascular disease,NO,YES,YES,NO,YES,NO,NO,YES,YES,YES,average,YES,profusely,average,center,4.3,72,7,4,1.8,0.9,2.4,12.2,40
+141,Y,type 2,male,40,BOTH,NO,5,11,7,7,YES,NO,much,16,YES,NO,NO,YES,NO,cerebrovascular disease,YES,YES,YES,NO,NO,YES,YES,NO,YES,YES,in the past,NO,average,profusely,center,7.1,74,7.5,4.4,1.4,1.3,2.5,10,28.3
+142,Y,Dont know,male,50,NO,NO,10,0,4,2,NO,YES,much,23,NO,YES,YES,YES,NO,nothing,NO,YES,YES,NO,YES,YES,NO,YES,NO,NO,profusely,NO,profusely,never,center,7.7,67,4,5.2,2.1,1.1,3.2,0.9,23
+143,Y,type 2,male,33,DAD,NO,8,8,3,6,YES,YES,middle,25,NO,YES,YES,NO,NO,diabetic foot,NO,YES,YES,YES,YES,NO,YES,YES,YES,NO,never,YES,in the past,never,center,3.3,76,9.7,2.4,1.9,0.8,2.5,13.1,21.17
+144,Y,type 2,male,40,NO,YES,17,8,0,0,YES,YES,little,1,YES,NO,YES,NO,NO,neuropathy,NO,YES,NO,NO,YES,NO,NO,YES,YES,YES,average,NO,never,never,center,7.1,74,7.5,4.4,1.4,1.3,2.5,10,28.3
+145,Y,type 2,male,40,DAD,NO,3,2,3,3,NO,YES,little,13,YES,NO,YES,YES,YES,diabetic eye complications,YES,YES,NO,YES,NO,NO,NO,NO,YES,YES,profusely,NO,profusely,average,south,4.3,72,7,4,1.8,0.9,2.4,12.2,40
+146,Y,type 2,female,63,NO,NO,7,2,15,6,NO,NO,never,14,YES,YES,YES,NO,NO,cerebrovascular disease,NO,YES,YES,NO,NO,NO,NO,YES,YES,NO,average,NO,average,little,center,6.6,96,8.9,5.8,1.7,1.7,3.4,0.8,32
+147,Y,type 2,female,63,DAD,NO,16,16,3,0,NO,NO,much,0,YES,YES,YES,NO,NO,cerebrovascular disease,YES,NO,NO,NO,NO,NO,YES,YES,YES,NO,never,NO,little,little,south,6.6,96,8.9,5.8,1.7,1.7,3.4,0.8,32
+148,Y,type 2,female,44,NO,YES,16,14,13,3,YES,YES,much,21,NO,YES,NO,NO,NO,Diabetic nephropathy,NO,NO,YES,NO,YES,NO,YES,NO,NO,NO,little,NO,average,little,north,6.8,64,4,6.2,2.3,1.2,4.1,1,23
+149,Y,type 2,female,49,DAD,NO,4,3,4,1,NO,YES,middle,23,NO,NO,YES,YES,NO,Diabetic nephropathy,YES,NO,YES,YES,YES,NO,NO,YES,YES,NO,little,YES,in the past,profusely,north,4.3,53,4.2,4.2,1.1,1.1,2.7,0.5,25
+150,Y,type 2,male,42,MOM,NO,12,7,8,7,YES,YES,middle,11,NO,NO,NO,NO,YES,neuropathy,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,little,NO,little,little,south,4.6,91,4.5,5.6,2.1,0.9,3.8,0.9,22
+151,Y,Dont know,female,44,BOTH,YES,7,5,7,6,NO,NO,never,17,NO,NO,YES,NO,NO,diabetic eye complications,YES,YES,NO,YES,YES,NO,YES,NO,YES,YES,average,YES,average,little,south,4,32,4.3,5.3,1.8,0.9,3.6,0.9,25
+152,Y,Dont know,female,33,MOM,NO,7,2,6,6,YES,YES,little,19,YES,YES,YES,YES,YES,diabetic eye complications,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,little,NO,profusely,never,north,1.8,31,7.4,3.7,1.2,1.6,1.5,0.5,31.5
+153,Y,type 2,female,48,NO,YES,8,3,14,9,YES,NO,much,11,YES,NO,NO,YES,YES,nothing,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES,average,NO,average,little,north,4,38,6.8,4.4,2.3,1.3,2.2,1,25
+154,Y,Dont know,female,48,MOM,YES,0,16,6,6,YES,NO,much,20,NO,YES,NO,YES,NO,cerebrovascular disease,NO,YES,YES,NO,YES,NO,NO,NO,YES,YES,profusely,YES,average,never,south,4,38,6.8,4.4,2.3,1.3,2.2,1,25
+155,Y,Dont know,male,57,BOTH,YES,8,11,2,7,YES,NO,never,12,NO,YES,YES,YES,NO,neuropathy,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,average,YES,average,profusely,center,4.6,370,6.8,4,6,2.5,3.5,1.1,37
+156,Y,type 2,female,47,BOTH,NO,8,3,3,1,NO,YES,middle,3,YES,NO,NO,NO,YES,diabetic eye complications,NO,YES,NO,NO,YES,NO,YES,NO,NO,YES,average,YES,in the past,never,south,5.1,68,4,5.3,2.3,0.7,3.7,1,23
+157,Y,Dont know,female,48,DAD,YES,4,3,10,0,NO,NO,never,23,NO,YES,YES,NO,YES,diabetic eye complications,NO,NO,NO,NO,YES,NO,YES,YES,NO,YES,never,NO,in the past,profusely,south,4,38,6.8,4.4,2.3,1.3,2.2,1,25
+158,Y,Dont know,female,33,NO,YES,9,12,7,7,YES,NO,never,21,NO,YES,NO,NO,YES,cerebrovascular disease,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,average,NO,in the past,never,south,1.8,31,7.4,3.7,1.2,1.6,1.5,0.5,31.5
+159,Y,type 2,male,57,BOTH,NO,10,11,4,0,YES,YES,middle,22,YES,NO,NO,YES,YES,neuropathy,NO,NO,YES,NO,YES,YES,NO,YES,YES,YES,in the past,YES,little,average,south,4.6,370,6.8,6.1,6,2.5,3.5,1.1,37
+160,Y,Dont know,female,33,NO,YES,3,1,10,5,YES,NO,never,10,NO,NO,YES,NO,YES,nothing,YES,YES,NO,NO,YES,NO,NO,YES,YES,NO,never,YES,average,little,center,4.6,56,5,6.2,3.8,0.8,3.7,1.7,24
+161,Y,type 2,female,48,MOM,YES,6,8,10,8,NO,YES,middle,6,NO,YES,NO,YES,NO,diabetic eye complications,YES,YES,YES,YES,YES,YES,YES,NO,YES,YES,profusely,YES,profusely,never,center,4,38,6.8,4.4,2.3,1.3,2.2,1,25
+162,Y,Dont know,female,33,DAD,YES,14,15,13,1,NO,YES,much,22,YES,NO,YES,NO,YES,diabetic foot,NO,YES,NO,NO,YES,NO,YES,YES,NO,NO,profusely,NO,average,never,north,5.7,48,4,6.8,3.1,1,3.9,1.5,23
+163,Y,type 1,male,34,NO,YES,14,6,14,3,YES,YES,never,18,YES,YES,YES,YES,NO,nothing,YES,NO,YES,YES,YES,YES,NO,YES,YES,YES,average,YES,never,profusely,north,7.7,80,5.5,5.1,1.2,1.4,0.9,1.5,21
+164,Y,type 2,male,43,NO,YES,1,3,10,3,YES,YES,much,11,YES,NO,NO,NO,YES,neuropathy,NO,YES,YES,NO,NO,YES,NO,YES,NO,YES,average,YES,average,never,north,3.2,42,4,6.2,3.2,1,3.9,1.5,23
+165,Y,type 2,female,28,DAD,YES,5,4,15,7,NO,NO,much,8,NO,NO,YES,YES,YES,cerebrovascular disease,NO,YES,NO,YES,YES,NO,YES,NO,YES,YES,average,YES,little,average,north,4.1,73,4.9,5.3,3.2,0.8,0.8,0.9,24
+166,Y,Dont know,male,42,BOTH,NO,17,16,1,7,NO,NO,middle,18,NO,YES,YES,YES,NO,Cardiovascular complications,YES,YES,YES,YES,YES,YES,YES,NO,YES,YES,never,YES,average,never,north,4.6,91,4.5,5.6,2.1,0.9,3.8,0.9,22
+167,Y,type 2,male,47,DAD,YES,14,13,8,1,YES,NO,never,13,YES,NO,YES,YES,NO,diabetic eye complications,YES,YES,YES,NO,YES,NO,YES,YES,YES,NO,never,YES,profusely,average,north,5.8,62,4,7,2.8,0.9,4.9,1.3,24
+168,Y,Dont know,male,39,DAD,NO,9,13,9,10,NO,NO,never,16,YES,YES,NO,YES,NO,diabetic foot,YES,NO,YES,YES,NO,YES,YES,YES,NO,NO,in the past,YES,little,average,south,9.1,80,5.1,7.1,1.5,1.2,4.1,0.7,20
+169,Y,Dont know,female,39,MOM,YES,13,2,0,2,NO,NO,little,25,NO,NO,YES,YES,NO,diabetic eye complications,YES,NO,YES,YES,NO,YES,NO,NO,YES,NO,in the past,NO,average,profusely,north,4.2,45,5,4.4,1.7,2.8,0.7,0.6,25
+170,Y,Dont know,female,49,BOTH,NO,7,3,4,6,YES,YES,little,22,NO,NO,YES,NO,YES,Diabetic nephropathy,NO,NO,YES,YES,YES,NO,YES,YES,YES,YES,average,YES,little,little,center,2.2,23,4,6.6,3.8,1,4.1,1.7,23
+171,Y,type 2,male,50,DAD,NO,11,1,4,3,NO,YES,little,0,YES,YES,YES,YES,NO,nothing,NO,NO,YES,NO,YES,NO,YES,NO,YES,NO,little,YES,average,little,north,2.6,106,4,6.3,4.4,1,3.6,1.7,24
+172,Y,Dont know,female,56,BOTH,NO,9,14,9,10,NO,YES,middle,6,YES,YES,YES,NO,NO,neuropathy,YES,YES,NO,YES,YES,YES,NO,YES,YES,NO,little,YES,never,little,north,8.5,92,5.7,4.8,1.7,1.3,2.8,0.7,35
+173,Y,type 2,male,51,MOM,NO,16,6,8,6,NO,YES,never,3,YES,YES,YES,NO,YES,diabetic eye complications,YES,YES,YES,NO,NO,NO,YES,NO,YES,NO,never,YES,little,average,south,7.3,65,7,3.8,3.8,1,1.1,1.7,31
+174,Y,type 2,male,52,DAD,NO,16,1,13,7,YES,NO,much,6,NO,YES,YES,YES,NO,diabetic foot,YES,NO,NO,NO,YES,YES,YES,NO,YES,NO,profusely,NO,in the past,profusely,center,3,60,7,3.8,3.2,0.8,1.7,1.4,33
+175,Y,type 2,male,56,MOM,NO,3,15,4,0,YES,NO,much,3,YES,NO,YES,YES,NO,diabetic foot,NO,NO,NO,NO,YES,NO,NO,YES,YES,NO,in the past,NO,in the past,average,center,3.4,44,4.8,4.1,1.5,0.8,1.7,1.4,39
+176,Y,type 2,female,59,BOTH,YES,15,3,12,2,NO,YES,much,1,NO,YES,YES,NO,YES,nothing,NO,NO,NO,YES,YES,NO,NO,YES,NO,YES,in the past,NO,in the past,never,center,3.8,91,6,4.2,2,2.3,0.9,1.4,38
+177,Y,type 2,male,52,DAD,YES,0,9,6,6,NO,NO,never,5,NO,YES,YES,NO,YES,Cardiovascular complications,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,profusely,NO,little,profusely,north,3,60,7,3.8,3.2,0.8,1.7,1.4,33
+178,Y,type 2,female,56,MOM,YES,2,0,3,9,NO,NO,much,6,YES,NO,YES,NO,NO,diabetic eye complications,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,average,NO,average,never,center,8.5,92,5.7,4.8,1.7,1.3,2.8,0.7,35
+179,Y,Dont know,male,56,BOTH,NO,2,5,14,5,YES,NO,never,5,NO,NO,YES,NO,NO,neuropathy,NO,YES,NO,YES,YES,YES,YES,YES,YES,YES,in the past,YES,never,never,south,3.4,44,4.8,4.1,1.5,0.8,1.7,1.4,39
+180,Y,type 2,male,51,NO,YES,4,12,3,3,NO,NO,middle,5,NO,NO,NO,YES,YES,diabetic foot,NO,NO,NO,YES,NO,YES,YES,NO,NO,YES,profusely,YES,profusely,never,south,7.3,65,7,3.8,3.8,1,1.1,1.7,31
+181,Y,type 2,female,59,MOM,YES,15,0,3,9,NO,NO,middle,20,NO,YES,YES,NO,NO,nothing,NO,NO,YES,NO,NO,YES,YES,NO,YES,NO,in the past,NO,average,little,center,3.8,91,6,4.2,2,2.3,0.9,1.4,38
+182,Y,type 2,female,54,DAD,YES,7,6,11,5,YES,NO,never,21,YES,NO,NO,YES,YES,Diabetic nephropathy,YES,NO,YES,YES,NO,YES,YES,NO,YES,YES,in the past,YES,profusely,average,north,4.3,52,6.7,3.1,1.1,3.1,1.2,0.7,37
+183,Y,type 2,male,69,NO,NO,17,14,3,1,NO,YES,much,2,YES,YES,YES,YES,NO,diabetic eye complications,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,never,NO,little,profusely,center,5.9,71,10.4,5.4,1.3,1.7,3.1,0.6,33
+184,Y,Dont know,female,54,MOM,NO,10,0,0,1,YES,NO,middle,21,YES,NO,YES,NO,NO,diabetic foot,YES,YES,NO,NO,YES,NO,YES,YES,NO,YES,never,YES,average,profusely,north,4.3,52,6.7,3.1,1.1,3.1,1.2,0.7,37
+185,Y,type 2,male,60,DAD,YES,13,0,7,7,YES,YES,middle,3,YES,NO,YES,NO,NO,Cardiovascular complications,NO,YES,YES,NO,YES,YES,NO,YES,NO,NO,profusely,NO,in the past,average,south,6.6,76,7.8,4.7,2.3,1.4,1.6,0.6,26
+186,Y,type 2,male,54,MOM,NO,9,14,15,1,YES,NO,never,14,YES,YES,NO,YES,YES,neuropathy,YES,YES,YES,NO,YES,NO,YES,YES,NO,NO,never,YES,profusely,little,center,5.9,71,10.4,5.4,1.3,1.7,3.1,0.6,32
+187,Y,type 2,male,69,MOM,YES,4,12,9,7,YES,YES,never,6,YES,NO,YES,NO,NO,cerebrovascular disease,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,in the past,NO,never,little,south,5.9,71,10.4,5.4,1.3,1.7,3.1,0.6,33
+188,Y,type 2,male,57,BOTH,NO,14,14,15,1,YES,NO,little,19,NO,NO,NO,YES,NO,diabetic foot,YES,NO,NO,NO,NO,NO,YES,YES,NO,YES,average,NO,profusely,never,center,2,77,7,5.5,1.9,1,3.7,0.9,33
+189,Y,Dont know,male,55,BOTH,YES,15,1,10,5,YES,YES,little,25,YES,YES,YES,YES,YES,diabetic foot,YES,YES,YES,YES,NO,NO,YES,NO,YES,YES,little,YES,in the past,little,center,5,76,10.2,5.6,4.6,0.8,2.9,31.8,33.9
+190,Y,type 2,male,57,DAD,YES,10,6,13,7,NO,YES,little,22,NO,NO,YES,YES,NO,nothing,NO,YES,NO,NO,NO,NO,NO,YES,NO,YES,little,YES,never,average,center,2,77,7,5.5,1.9,1,3.7,0.9,33
+191,Y,type 2,male,54,NO,NO,4,7,6,6,YES,NO,middle,21,NO,NO,YES,NO,NO,cerebrovascular disease,NO,NO,YES,YES,YES,YES,NO,NO,YES,NO,average,YES,in the past,profusely,north,5.9,71,10.4,5.4,1.3,1.7,3.1,0.6,32
+192,Y,type 2,male,55,BOTH,YES,15,0,4,0,YES,YES,middle,4,NO,NO,YES,NO,YES,diabetic foot,NO,YES,NO,NO,YES,NO,YES,YES,NO,YES,average,NO,profusely,never,center,5,76,10.2,5.6,4.6,0.8,2.9,31.8,33.9
+193,Y,Dont know,male,60,MOM,NO,2,12,10,4,YES,NO,much,4,YES,NO,YES,YES,NO,diabetic foot,NO,NO,YES,NO,NO,YES,YES,NO,YES,NO,never,NO,little,little,center,6.6,76,7.8,4.7,2.3,1.4,1.6,0.6,26
+194,Y,type 2,female,60,BOTH,NO,6,0,5,7,NO,NO,much,1,YES,YES,NO,NO,NO,diabetic foot,YES,YES,NO,NO,YES,YES,NO,YES,YES,YES,profusely,NO,little,little,center,2,45,6.8,7.2,2.2,0.8,2.2,1.1,27
+195,Y,Dont know,female,60,BOTH,NO,0,8,10,7,YES,NO,never,12,NO,YES,NO,YES,NO,cerebrovascular disease,NO,NO,YES,YES,YES,NO,YES,NO,NO,YES,average,NO,in the past,little,center,2,45,6.8,7.2,2.2,1,2.2,1.1,27
+196,Y,type 2,male,73,BOTH,YES,14,16,4,4,YES,NO,never,16,YES,YES,YES,YES,NO,diabetic eye complications,YES,NO,YES,NO,YES,NO,YES,YES,YES,NO,profusely,YES,in the past,never,north,4.3,79,6,5.3,1.4,1.5,3.2,0.6,27
+197,Y,type 2,female,61,DAD,NO,12,3,10,9,YES,NO,much,5,NO,NO,NO,NO,YES,cerebrovascular disease,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,profusely,YES,profusely,profusely,center,2.1,23,9.9,4.1,4.2,1.2,1.4,1.1,28
+198,Y,type 2,male,51,MOM,NO,11,13,1,8,YES,YES,little,9,NO,NO,YES,NO,NO,neuropathy,NO,YES,YES,NO,YES,NO,YES,YES,NO,YES,in the past,NO,never,little,south,6.5,70,7.3,3.5,1.8,1.8,1.95,0.8,32
+199,Y,Dont know,female,61,BOTH,YES,0,1,15,4,NO,NO,much,22,YES,NO,NO,NO,YES,nothing,YES,YES,NO,YES,NO,NO,NO,YES,YES,NO,profusely,NO,little,little,south,2.1,23,9.9,4.1,4.2,1.2,1.4,1.1,28
+200,Y,type 2,male,55,BOTH,YES,2,11,3,9,YES,NO,little,16,NO,NO,NO,YES,NO,Cardiovascular complications,NO,YES,YES,NO,NO,YES,YES,NO,NO,NO,never,NO,profusely,average,north,4.16,64,8.1,4.5,1.5,1.2,2.7,10.4,31.4
+201,Y,Dont know,female,55,NO,YES,10,16,12,9,YES,NO,middle,5,YES,NO,NO,YES,YES,nothing,NO,NO,YES,YES,YES,NO,YES,YES,YES,YES,little,NO,little,average,center,2.7,52,8,4.6,1.7,1,2.9,0.8,30
+202,Y,type 2,male,73,MOM,YES,16,14,7,1,NO,YES,never,18,YES,YES,NO,NO,YES,cerebrovascular disease,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,never,NO,little,average,north,4.3,79,6,5.3,1.4,1.5,3.2,0.6,27
+203,Y,Dont know,male,73,MOM,YES,16,1,3,5,YES,NO,middle,19,NO,NO,NO,YES,YES,neuropathy,YES,YES,YES,YES,YES,NO,YES,YES,YES,YES,never,YES,average,profusely,north,4.3,79,6.9,5.3,1.4,1.5,3.2,0.6,28
+204,Y,type 2,female,63,NO,YES,10,9,4,1,NO,YES,much,13,YES,NO,YES,YES,NO,nothing,NO,YES,YES,YES,YES,NO,YES,NO,NO,NO,little,NO,never,never,center,8.7,93,9,5.9,2.2,1.2,3.7,1,29
+205,Y,type 2,male,51,NO,NO,10,12,9,3,YES,YES,little,3,NO,YES,NO,NO,NO,nothing,NO,YES,YES,YES,YES,NO,YES,YES,YES,YES,in the past,NO,never,little,center,6.5,70,7.3,3.5,1.8,1.8,1.95,0.8,32
+206,Y,type 2,female,63,MOM,NO,8,13,4,4,YES,YES,much,4,NO,NO,NO,NO,NO,diabetic eye complications,NO,NO,YES,YES,YES,YES,YES,YES,YES,NO,profusely,YES,little,average,center,8.7,93,9,5.9,2.2,1.2,3.7,1,29
+207,Y,type 2,male,73,BOTH,NO,2,15,12,9,NO,YES,little,16,YES,NO,NO,NO,NO,nothing,NO,NO,NO,YES,YES,YES,YES,YES,NO,NO,never,NO,never,profusely,south,4.3,79,6.9,5.3,1.4,1.5,3.2,0.6,28
+208,Y,type 2,male,55,BOTH,YES,10,15,14,5,YES,NO,little,12,NO,NO,YES,YES,NO,diabetic foot,YES,YES,YES,YES,YES,NO,YES,YES,YES,YES,in the past,NO,never,profusely,north,4.16,64,8.1,4.5,1.5,1.2,2.7,10.4,31.4
+209,Y,type 2,female,55,NO,NO,5,5,5,2,YES,NO,never,7,NO,NO,YES,NO,NO,diabetic eye complications,NO,YES,YES,NO,YES,YES,NO,NO,NO,YES,little,NO,profusely,average,center,2.7,52,8,4.6,1.7,1,2.9,0.8,30
+210,Y,type 2,female,52,BOTH,NO,3,12,14,2,NO,YES,little,2,YES,YES,NO,NO,YES,nothing,NO,YES,YES,NO,YES,YES,YES,YES,NO,NO,little,NO,average,profusely,north,6,76,6.5,2.7,1.2,0.8,1.4,0.5,31
+211,Y,type 2,female,55,BOTH,NO,7,7,3,7,YES,NO,little,18,YES,NO,NO,NO,NO,Cardiovascular complications,YES,YES,NO,YES,YES,YES,YES,YES,NO,YES,never,YES,little,little,south,2.1,46,5.9,4.1,2.7,1,2,1.2,30
+212,Y,type 2,female,51,NO,NO,11,4,7,1,NO,YES,middle,5,NO,NO,YES,NO,NO,diabetic foot,NO,NO,YES,NO,NO,YES,YES,YES,NO,YES,in the past,YES,average,average,south,2.1,46,5.9,4.1,2.7,1,2,1.2,36
+213,Y,type 2,male,57,BOTH,YES,7,11,8,9,YES,NO,never,24,NO,YES,YES,YES,YES,nothing,YES,YES,NO,YES,NO,NO,NO,YES,YES,NO,in the past,YES,in the past,never,south,4.8,72,7.3,4.5,1.6,2.1,1.9,0.7,34
+214,Y,Dont know,male,55,NO,YES,16,0,13,7,YES,NO,never,10,YES,NO,YES,NO,YES,nothing,NO,YES,NO,NO,YES,YES,NO,NO,YES,YES,never,YES,in the past,profusely,north,5.1,78,11.8,4.5,1.8,1.1,2.7,12.7,31.5
+215,Y,type 2,female,55,DAD,NO,11,15,2,3,YES,NO,never,19,YES,YES,YES,YES,NO,Diabetic nephropathy,YES,YES,YES,NO,YES,NO,NO,YES,YES,YES,profusely,NO,never,average,north,2.1,46,5.9,4.1,2.7,1,2,1.2,30
+216,Y,type 2,male,57,MOM,YES,13,8,2,10,NO,NO,middle,22,YES,YES,YES,NO,YES,cerebrovascular disease,YES,YES,NO,YES,YES,YES,NO,NO,YES,YES,never,NO,profusely,never,south,4.8,72,7.3,4.5,1.6,2.1,1.9,0.7,34
+217,Y,type 2,female,52,BOTH,YES,14,5,11,10,NO,YES,middle,0,NO,NO,NO,YES,YES,diabetic eye complications,YES,YES,NO,NO,NO,YES,YES,YES,NO,YES,in the past,NO,little,little,center,6,76,6.5,2.7,1.2,0.8,1.4,0.5,31
+218,Y,type 2,male,55,MOM,NO,14,2,8,7,NO,NO,middle,8,NO,NO,NO,YES,NO,cerebrovascular disease,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,in the past,YES,never,never,south,5.1,78,11.8,4.5,1.8,1.1,2.7,12.7,31.5
+219,Y,type 2,female,51,BOTH,YES,10,1,11,0,NO,YES,much,2,YES,NO,NO,YES,NO,cerebrovascular disease,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,average,NO,never,little,north,2.1,46,5.9,4.1,2.7,1,2,1.2,36
+220,Y,type 2,male,58,BOTH,YES,4,0,2,2,YES,NO,never,1,YES,YES,NO,YES,YES,neuropathy,YES,YES,NO,YES,YES,NO,YES,YES,NO,YES,average,YES,average,little,center,20.8,800,9.1,6.6,2.9,1.1,4.3,1.3,33
+221,Y,type 2,female,60,NO,YES,14,15,1,4,YES,YES,never,22,YES,YES,NO,YES,YES,nothing,NO,NO,NO,NO,YES,NO,NO,YES,YES,NO,little,YES,in the past,little,south,6,72,10.7,4.4,2.1,1.1,2.5,0.9,26
+222,Y,type 2,male,56,DAD,YES,11,14,2,4,YES,NO,never,20,NO,NO,NO,YES,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,YES,NO,NO,NO,YES,profusely,YES,never,little,center,3.5,60,7.6,4.7,1.3,0.9,3.3,0.6,26
+223,Y,type 2,male,61,BOTH,NO,4,10,14,5,NO,NO,much,15,YES,NO,NO,NO,YES,Cardiovascular complications,NO,NO,NO,YES,YES,YES,YES,YES,YES,NO,profusely,YES,never,never,south,5.7,92,6.2,2.6,1.1,0.9,1.6,0.7,38
+224,Y,type 2,male,73,DAD,NO,7,17,9,6,NO,NO,little,13,YES,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,YES,NO,YES,NO,NO,YES,NO,NO,in the past,NO,in the past,profusely,center,4.3,67,10.3,4.2,1.9,1.95,9.9,0.7,34
+225,Y,type 2,male,55,DAD,NO,1,17,13,0,NO,NO,much,1,YES,YES,NO,NO,NO,Cardiovascular complications,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES,profusely,NO,average,profusely,north,3.8,46,6,4.3,1.5,1,2.6,0.7,35
+226,Y,type 2,male,56,MOM,NO,16,3,5,1,NO,NO,never,8,NO,NO,YES,NO,NO,nothing,YES,YES,NO,YES,YES,YES,YES,NO,YES,YES,never,NO,average,average,south,3.5,60,7.6,4.7,1.3,0.9,3.3,0.6,26
+227,Y,Dont know,male,55,DAD,YES,1,10,11,5,YES,YES,little,22,NO,YES,YES,YES,NO,diabetic eye complications,NO,YES,YES,NO,YES,NO,YES,YES,YES,NO,average,YES,profusely,never,north,3.8,46,6,4.3,1.5,1,2.6,0.7,35
+228,Y,type 2,male,60,BOTH,YES,6,7,14,9,YES,NO,little,24,YES,NO,YES,NO,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,YES,NO,YES,YES,NO,little,YES,in the past,little,center,3.5,60,7.6,4.7,1.3,0.9,3.3,0.6,37
+229,Y,type 2,female,53,BOTH,YES,9,15,14,9,NO,YES,little,1,YES,YES,YES,YES,NO,nothing,NO,YES,YES,NO,YES,YES,NO,YES,YES,NO,in the past,NO,never,little,north,4.5,68,6.9,5.4,3.8,1.9,3,0.7,39
+230,Y,type 2,male,58,BOTH,NO,17,7,4,4,NO,YES,much,6,YES,YES,NO,YES,NO,diabetic eye complications,YES,NO,YES,YES,NO,YES,NO,YES,NO,YES,never,YES,never,profusely,center,20.8,800,9.1,6.6,2.9,1.1,4.3,1.3,33
+231,Y,type 2,male,73,NO,NO,10,1,14,5,NO,YES,never,5,YES,NO,NO,YES,NO,neuropathy,YES,NO,YES,NO,YES,NO,NO,YES,NO,NO,never,NO,average,average,center,4.3,67,10.3,4.2,1.9,1.95,9.9,0.7,34
+232,Y,type 2,male,54,DAD,YES,10,7,8,4,YES,YES,never,0,YES,YES,NO,YES,NO,neuropathy,YES,NO,NO,YES,NO,NO,YES,NO,YES,YES,in the past,YES,little,little,south,5,67,6.9,3.8,1.7,1.1,3,0.7,33
+233,Y,type 2,female,53,NO,NO,15,2,9,0,YES,YES,little,17,YES,NO,NO,YES,YES,diabetic eye complications,NO,NO,NO,YES,YES,YES,NO,YES,NO,YES,average,NO,average,profusely,south,4.5,68,6.9,5.4,3.8,1.9,3,0.7,39
+234,Y,type 2,male,61,NO,YES,7,8,1,5,YES,NO,much,15,NO,NO,YES,YES,NO,diabetic foot,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,never,YES,in the past,average,south,5.7,92,6.2,2.6,1.1,0.9,2,0.7,38
+235,Y,type 2,male,60,MOM,NO,15,12,15,3,NO,YES,middle,1,YES,NO,NO,NO,YES,Cardiovascular complications,NO,NO,NO,YES,NO,YES,NO,YES,YES,YES,profusely,NO,little,average,center,3.5,60,7.6,4.7,1.3,0.9,3.3,0.6,37
+236,Y,type 2,female,54,DAD,NO,4,3,9,1,YES,NO,much,3,YES,NO,YES,NO,NO,diabetic eye complications,NO,YES,YES,YES,NO,NO,YES,NO,YES,NO,average,NO,in the past,average,center,1.2,25,7.9,2,1.9,0.9,2.5,0.7,33
+237,Y,type 2,female,66,BOTH,YES,11,7,10,4,NO,YES,much,4,YES,NO,YES,YES,YES,diabetic foot,NO,YES,NO,YES,YES,YES,YES,NO,YES,NO,average,NO,never,little,north,3.2,46,8.5,4.2,1,1.4,2.4,0.4,26
+238,Y,type 2,female,66,MOM,NO,5,13,1,5,NO,NO,little,17,YES,NO,YES,YES,YES,neuropathy,YES,YES,NO,NO,YES,NO,YES,NO,NO,YES,average,NO,profusely,little,north,3.2,46,8.5,4.2,1,1.4,2.4,0.4,26
+239,Y,type 2,female,52,NO,NO,9,10,13,0,NO,NO,never,17,YES,NO,YES,NO,NO,neuropathy,YES,YES,NO,YES,NO,YES,YES,YES,NO,YES,profusely,YES,profusely,average,center,2,34,5.8,6,1.2,1.1,2,0.5,33
+240,Y,type 2,female,52,DAD,YES,11,14,0,5,NO,NO,never,16,NO,YES,YES,NO,YES,Cardiovascular complications,NO,NO,YES,YES,YES,YES,YES,YES,YES,YES,profusely,YES,profusely,never,south,2,34,5.8,6,1.2,1.1,2,0.5,33
+241,Y,type 2,female,61,MOM,YES,4,1,1,9,YES,YES,never,6,NO,NO,NO,NO,NO,diabetic eye complications,NO,NO,YES,YES,NO,YES,NO,NO,NO,NO,profusely,YES,average,never,center,4.3,56,12.1,4.4,2,1,2.5,0.9,29
+242,Y,type 2,male,55,MOM,YES,11,8,9,4,YES,NO,little,22,NO,YES,NO,NO,NO,nothing,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,profusely,YES,average,average,center,2.9,44,9.8,4.1,1,1.1,2.1,0.5,29
+243,Y,type 2,male,56,BOTH,NO,5,8,5,4,NO,NO,never,2,YES,NO,YES,NO,NO,nothing,NO,NO,NO,NO,YES,NO,NO,YES,YES,NO,never,YES,little,average,north,3.2,33,6.8,4.9,2.5,0.5,3.4,1.1,32
+244,Y,type 2,male,55,MOM,NO,12,1,14,6,NO,NO,middle,19,NO,NO,YES,NO,YES,Diabetic nephropathy,NO,YES,NO,YES,YES,YES,YES,NO,YES,YES,profusely,NO,never,profusely,center,5.4,85,9.7,5.2,1.8,1.3,3.2,0.8,30
+245,Y,type 1,male,56,BOTH,NO,6,5,6,2,NO,NO,middle,20,YES,NO,NO,NO,YES,Cardiovascular complications,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,little,NO,little,profusely,north,3.2,33,6.8,4.9,2.5,0.5,3.4,1.1,32
+246,Y,type 2,male,55,NO,NO,1,10,10,1,NO,YES,middle,24,YES,YES,YES,NO,NO,nothing,NO,NO,YES,YES,NO,NO,NO,YES,YES,NO,average,YES,profusely,little,south,5.4,85,9.7,5.2,1.8,1.3,3.2,0.8,30
+247,Y,type 2,male,55,NO,NO,17,6,6,7,NO,YES,much,14,YES,YES,YES,YES,NO,Cardiovascular complications,YES,NO,YES,YES,NO,YES,YES,YES,YES,NO,profusely,YES,little,average,center,2.9,44,9.8,4.1,1,1.1,2.1,0.5,29
+248,Y,type 2,female,56,NO,NO,16,3,10,1,YES,YES,middle,1,NO,NO,NO,YES,NO,cerebrovascular disease,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,in the past,YES,in the past,profusely,center,4,45,9.2,4.1,0.6,1.3,1.4,0.9,30
+249,Y,type 2,male,66,DAD,YES,8,9,12,10,YES,YES,much,23,YES,YES,NO,NO,YES,Cardiovascular complications,NO,YES,YES,YES,NO,YES,YES,NO,NO,YES,average,NO,profusely,never,south,4.1,63,10.1,3.6,5.1,0.9,2.5,0.9,30
+250,Y,type 2,female,66,MOM,YES,17,9,5,2,YES,YES,never,24,YES,NO,YES,NO,YES,diabetic eye complications,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,average,YES,little,never,south,14.1,146,8.7,5.8,3.3,1,3.4,1.5,33
+251,Y,type 2,female,56,BOTH,NO,9,10,8,10,NO,YES,middle,13,YES,YES,NO,NO,YES,nothing,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,never,NO,never,little,center,5.5,48,9.3,5.8,2.4,0.9,3.9,1.1,36.6
+252,Y,type 2,male,55,MOM,YES,9,16,7,9,NO,NO,middle,19,YES,NO,YES,NO,NO,nothing,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,in the past,YES,never,little,north,3.7,93,7.2,3.2,1.9,0.6,1.8,0.8,30
+253,Y,type 2,female,59,BOTH,NO,3,1,6,0,YES,YES,never,25,NO,NO,YES,NO,YES,diabetic foot,NO,YES,YES,NO,NO,YES,YES,NO,NO,YES,little,NO,little,profusely,south,4.7,55,7,3.4,1.8,1.1,1.8,0.8,26
+254,Y,type 2,male,55,BOTH,YES,1,8,12,6,YES,NO,middle,21,NO,NO,YES,NO,NO,Diabetic nephropathy,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,in the past,NO,little,never,center,3.7,93,7.2,3.2,1.9,0.6,1.8,0.8,30
+255,Y,Dont know,female,59,NO,YES,11,4,4,6,NO,YES,little,22,YES,NO,YES,NO,NO,Diabetic nephropathy,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,average,YES,profusely,profusely,south,4.7,55,7,3.4,1.8,1.1,1.8,0.8,26
+256,Y,Dont know,male,54,NO,NO,3,7,13,8,YES,YES,little,24,NO,YES,NO,NO,YES,neuropathy,NO,YES,NO,YES,YES,NO,NO,NO,NO,NO,in the past,YES,never,little,center,9.9,159,8.8,5.2,1.6,1,3.5,0.7,27
+257,Y,type 2,female,66,DAD,YES,2,3,14,5,YES,NO,never,9,NO,NO,YES,YES,NO,diabetic foot,YES,YES,NO,YES,NO,YES,YES,NO,YES,NO,average,YES,average,profusely,south,14.1,146,8.7,5.8,3.3,1,3.4,1.5,33
+258,Y,type 2,female,56,MOM,YES,13,15,4,7,NO,NO,much,7,NO,YES,NO,YES,NO,Diabetic nephropathy,NO,YES,YES,YES,YES,YES,YES,NO,YES,NO,average,YES,never,profusely,south,5.5,48,9.3,5.8,2.4,0.9,3.9,1.1,30
+259,Y,type 2,female,56,MOM,YES,16,12,14,0,YES,NO,middle,4,NO,NO,NO,NO,YES,cerebrovascular disease,NO,YES,YES,NO,NO,YES,YES,YES,NO,YES,never,NO,in the past,never,north,5.5,48,9.3,5.8,2.4,0.9,3.9,1.1,36.6
+260,Y,Dont know,male,60,MOM,NO,9,5,5,5,NO,NO,middle,18,NO,YES,YES,YES,YES,Cardiovascular complications,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,profusely,NO,in the past,average,south,6.5,30,9,5.9,3.4,0.8,3.7,0.5,30
+261,Y,type 2,male,57,MOM,YES,4,8,12,5,NO,NO,middle,3,NO,YES,YES,NO,NO,diabetic foot,YES,NO,NO,NO,NO,YES,NO,YES,NO,YES,in the past,YES,never,average,center,9.3,69,8,6.1,3,1.1,2,1.4,28
+262,Y,type 2,male,54,BOTH,YES,1,11,3,0,NO,YES,little,15,NO,YES,YES,NO,NO,cerebrovascular disease,YES,YES,NO,NO,NO,NO,YES,YES,YES,NO,profusely,YES,profusely,little,north,5.5,69,11,6.3,6.8,0.7,2.4,3.1,29
+263,Y,type 2,male,54,BOTH,YES,3,6,6,0,NO,YES,little,3,YES,YES,YES,YES,NO,diabetic eye complications,NO,NO,YES,NO,NO,NO,YES,NO,YES,YES,average,YES,average,average,south,9.9,159,8.8,5.2,1.6,1,3.5,0.7,27
+264,Y,Dont know,female,56,NO,YES,13,3,8,7,YES,YES,middle,11,YES,NO,NO,NO,NO,neuropathy,NO,NO,YES,NO,YES,YES,NO,YES,NO,NO,profusely,YES,never,average,north,5.5,48,9.3,5.8,2.4,0.9,3.9,1.1,30
+265,Y,type 2,male,57,BOTH,NO,3,6,7,3,YES,NO,little,18,YES,YES,NO,YES,NO,diabetic eye complications,YES,NO,YES,NO,NO,YES,NO,NO,YES,YES,never,NO,profusely,little,center,9.3,69,8,6.1,3,1.1,2,1.4,28
+266,Y,Dont know,male,54,DAD,NO,3,5,2,9,NO,YES,much,14,NO,YES,NO,NO,YES,cerebrovascular disease,YES,NO,YES,NO,NO,NO,YES,YES,YES,YES,never,YES,average,profusely,north,5.5,69,11,6.3,6.8,0.7,2.4,3.1,29
+267,Y,type 2,male,60,DAD,YES,0,3,6,0,YES,YES,little,11,YES,YES,YES,YES,YES,nothing,NO,NO,NO,NO,YES,YES,YES,YES,NO,NO,never,YES,average,little,south,6.5,30,9,5.9,3.4,0.8,3.7,0.5,30
+268,Y,type 2,male,59,BOTH,NO,10,14,6,0,YES,NO,middle,18,NO,NO,NO,NO,NO,nothing,NO,YES,YES,NO,NO,NO,YES,NO,YES,YES,profusely,YES,little,profusely,south,4.2,56,10.5,4.9,2.1,1.1,2.5,0.9,28
+269,Y,type 2,male,60,NO,YES,16,7,1,0,YES,NO,never,16,YES,YES,NO,NO,NO,cerebrovascular disease,YES,YES,NO,YES,NO,YES,YES,YES,YES,NO,in the past,YES,never,average,center,3.9,49,6.4,4,2.3,1,2,1,31
+270,Y,type 2,female,55,MOM,YES,15,10,13,8,YES,NO,never,11,NO,NO,YES,YES,YES,Cardiovascular complications,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,in the past,NO,average,never,center,11.7,136,9.6,5.2,1.5,1.1,3.5,0.7,29
+271,Y,type 2,female,61,DAD,NO,14,6,8,6,YES,YES,little,1,NO,NO,NO,YES,YES,diabetic foot,NO,YES,NO,NO,YES,NO,NO,YES,NO,YES,never,NO,in the past,little,center,3.3,31,7.2,5.8,2.6,1.6,0.9,1.5,36
+272,Y,type 2,female,51,NO,NO,12,16,1,5,NO,NO,middle,15,YES,YES,YES,YES,NO,cerebrovascular disease,NO,NO,NO,YES,NO,NO,YES,YES,YES,YES,in the past,YES,never,little,north,4.3,53,6.1,2.8,2,1.2,0.8,0.9,33
+273,Y,type 2,male,52,MOM,YES,4,0,6,0,NO,YES,middle,6,YES,NO,NO,YES,YES,diabetic eye complications,NO,YES,NO,YES,NO,NO,YES,YES,NO,NO,in the past,YES,average,profusely,center,7.8,315,7.7,3.5,1.3,1,1.6,1.4,33
+274,Y,type 2,male,63,DAD,NO,6,11,0,4,YES,YES,middle,22,YES,NO,YES,NO,YES,neuropathy,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES,little,NO,average,average,center,4.9,65,7.8,3.6,1.1,1,2.1,0.5,33
+275,Y,Dont know,male,60,MOM,NO,12,0,1,9,NO,NO,little,14,YES,YES,YES,NO,YES,diabetic foot,NO,YES,NO,NO,NO,YES,NO,NO,YES,YES,profusely,NO,average,profusely,center,3.9,49,6.4,4,2.3,1,2,1,31
+276,Y,type 2,female,55,NO,YES,0,10,0,6,YES,YES,little,7,NO,YES,YES,NO,YES,Cardiovascular complications,YES,YES,YES,YES,YES,NO,YES,NO,YES,YES,never,NO,in the past,little,center,5.6,58,10.6,4,3.1,1,2.6,1.4,35
+277,Y,Dont know,female,51,BOTH,NO,9,9,15,5,YES,NO,much,7,YES,YES,YES,NO,NO,Diabetic nephropathy,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,average,YES,in the past,little,south,3.4,31,7,4.5,0.6,1.1,3.1,0.3,39
+278,Y,type 2,female,55,MOM,NO,5,17,2,9,YES,YES,never,22,YES,NO,YES,YES,YES,neuropathy,YES,YES,YES,NO,NO,NO,YES,NO,NO,YES,never,NO,never,average,south,11.7,136,9.6,5.2,1.5,1.1,3.5,0.7,29
+279,Y,type 2,female,61,NO,NO,4,11,7,6,NO,YES,never,2,YES,YES,NO,YES,NO,cerebrovascular disease,NO,YES,YES,NO,YES,NO,NO,YES,YES,YES,little,YES,in the past,average,north,3.3,31,7.2,5.8,2.6,1.6,0.9,1.5,36
+280,Y,Dont know,female,51,BOTH,YES,8,13,8,10,NO,NO,much,8,NO,NO,NO,NO,YES,neuropathy,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES,profusely,NO,average,profusely,south,4.3,53,6.1,2.8,2,1.2,0.8,0.9,33
+281,Y,Dont know,male,63,DAD,NO,12,8,5,8,NO,NO,never,20,NO,NO,YES,YES,NO,diabetic foot,YES,NO,NO,YES,YES,YES,NO,NO,NO,YES,never,NO,profusely,profusely,center,4.9,65,7.8,3.6,1.1,1,2.1,0.5,33
+282,Y,Dont know,female,55,MOM,NO,5,4,3,8,YES,NO,never,22,NO,YES,NO,NO,YES,diabetic foot,NO,NO,YES,YES,NO,YES,NO,YES,NO,NO,in the past,NO,profusely,little,south,5.6,58,10.6,4,3.1,1,2.6,1.4,35
+283,Y,Dont know,male,52,MOM,NO,14,7,4,2,YES,YES,middle,11,YES,YES,NO,YES,YES,neuropathy,YES,NO,YES,YES,NO,YES,NO,NO,YES,YES,average,YES,little,profusely,south,7.8,315,7.7,3.5,1.3,1,1.6,1.4,33
+284,Y,type 2,male,55,MOM,YES,7,17,5,4,YES,NO,never,5,YES,NO,YES,YES,YES,cerebrovascular disease,NO,YES,NO,YES,YES,YES,YES,YES,YES,NO,average,YES,little,profusely,north,5.4,56,7.9,4.9,2.1,1.1,2.5,0.9,28
+285,Y,Dont know,female,51,BOTH,NO,1,7,6,5,NO,YES,never,6,NO,YES,NO,YES,NO,neuropathy,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,never,NO,never,profusely,north,3.4,31,7,4.5,0.6,1.1,3.1,0.3,39
+286,Y,Dont know,female,61,BOTH,YES,6,4,13,10,YES,NO,never,12,NO,YES,NO,NO,YES,neuropathy,YES,NO,YES,YES,YES,YES,NO,YES,NO,NO,never,NO,little,never,north,5.1,72,11.5,4.4,2.1,1.1,2.5,0.9,26
+287,Y,type 2,male,55,DAD,NO,16,7,4,10,NO,NO,little,16,NO,NO,YES,YES,YES,diabetic foot,NO,YES,NO,YES,YES,YES,NO,NO,YES,NO,little,NO,profusely,average,south,4.6,77,6.5,6,1.5,1.3,4.1,0.6,30
+288,Y,type 2,male,55,MOM,NO,9,17,5,5,NO,YES,never,19,NO,NO,YES,NO,NO,nothing,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,profusely,NO,in the past,profusely,center,4.8,63,5.7,3.4,0.7,1.1,2,0.3,30.1
+289,Y,Dont know,male,58,MOM,NO,5,3,9,3,NO,NO,middle,15,NO,NO,NO,NO,NO,cerebrovascular disease,YES,NO,NO,YES,NO,NO,YES,YES,NO,NO,little,NO,profusely,never,north,4.8,60,5.5,0.6,2.5,1.1,2,0.6,38
+290,Y,type 2,female,55,DAD,NO,11,15,8,4,YES,NO,much,9,NO,NO,NO,NO,YES,cerebrovascular disease,NO,NO,YES,NO,YES,YES,NO,NO,YES,YES,profusely,YES,little,profusely,center,5.1,66,7.1,4,1.5,1.4,1.9,0.6,37
+291,Y,type 2,male,54,DAD,NO,17,8,4,2,YES,YES,middle,25,NO,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,NO,YES,YES,NO,YES,NO,YES,YES,little,NO,in the past,profusely,north,4.2,48,6.5,2.4,1,1,0.9,0.7,33
+292,Y,type 2,male,58,BOTH,YES,11,11,11,5,YES,YES,much,18,YES,NO,NO,YES,YES,Cardiovascular complications,NO,NO,NO,YES,YES,YES,YES,NO,NO,NO,never,YES,little,little,center,4.8,60,5.5,0.6,2.5,1.1,2,0.6,38
+293,Y,type 2,male,54,BOTH,YES,10,13,13,4,NO,NO,much,18,NO,YES,YES,NO,YES,Cardiovascular complications,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES,never,YES,average,never,north,4.2,48,6.5,2.4,1,1,0.9,0.7,33
+294,Y,type 2,male,55,NO,NO,7,16,15,9,NO,YES,little,18,NO,YES,NO,YES,NO,diabetic foot,NO,YES,NO,NO,YES,NO,NO,YES,NO,YES,profusely,NO,never,never,north,4.8,63,5.7,3.4,0.7,1.1,2,0.3,30.1
+295,Y,type 2,male,55,MOM,YES,10,0,12,2,YES,YES,little,18,YES,NO,NO,YES,NO,neuropathy,YES,YES,YES,YES,NO,NO,NO,NO,NO,YES,in the past,NO,average,little,south,4.8,63,6.7,3.4,0.7,1.1,2,0.3,30
+296,Y,type 2,female,55,MOM,NO,5,4,10,5,YES,NO,little,11,NO,NO,YES,NO,YES,diabetic foot,NO,YES,NO,YES,YES,NO,NO,NO,YES,NO,profusely,YES,never,profusely,north,5.1,66,7.1,4,1.5,1.4,1.9,0.6,37
+297,Y,type 2,male,55,BOTH,YES,17,5,11,9,NO,YES,little,11,NO,NO,NO,NO,YES,diabetic eye complications,YES,YES,NO,NO,NO,NO,YES,YES,YES,NO,never,YES,little,little,south,4.6,77,6.5,6,1.5,1.3,4.1,0.6,30
+298,Y,Dont know,male,55,DAD,NO,11,12,1,1,YES,NO,much,11,NO,YES,NO,NO,NO,diabetic eye complications,YES,YES,YES,YES,NO,NO,YES,YES,NO,NO,little,YES,profusely,never,center,4.6,77,6.5,6,1.5,1.3,4.1,0.6,30
+299,Y,type 2,male,53,BOTH,YES,17,17,10,0,NO,YES,middle,22,YES,YES,YES,NO,NO,Cardiovascular complications,YES,NO,YES,YES,NO,NO,NO,NO,YES,NO,in the past,YES,profusely,profusely,south,3,48,9.5,7.2,2,1.9,2,0.7,32
+300,Y,type 2,male,55,MOM,NO,8,11,8,6,YES,YES,little,4,YES,YES,YES,YES,YES,diabetic foot,YES,YES,NO,NO,YES,YES,NO,YES,YES,YES,average,NO,profusely,little,center,4.6,77,6.5,6,1.5,1.3,4.1,0.6,30
+301,Y,type 2,male,55,NO,NO,2,9,6,6,YES,YES,never,16,YES,YES,YES,NO,YES,cerebrovascular disease,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,average,YES,in the past,little,south,4.8,63,6.7,3.4,0.7,1.1,2,0.3,30
+302,Y,type 2,male,53,DAD,YES,7,9,7,4,YES,YES,never,19,YES,NO,NO,NO,NO,nothing,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,never,NO,little,profusely,north,3,48,9.5,7.2,2,1.9,2,0.7,32
+303,Y,type 2,female,58,MOM,NO,0,7,15,2,YES,NO,middle,19,YES,NO,NO,NO,YES,Cardiovascular complications,YES,NO,YES,YES,YES,YES,NO,NO,NO,YES,never,NO,profusely,profusely,north,4.3,56,9.1,4.4,2,1,2.5,0.9,29
+304,Y,Dont know,female,56,DAD,NO,0,2,15,2,NO,YES,middle,18,YES,NO,NO,NO,NO,Cardiovascular complications,NO,YES,NO,YES,NO,NO,YES,YES,NO,NO,average,NO,little,never,south,2.3,36,10.2,4.8,1,1.4,2.9,0.4,30
+305,Y,type 2,male,61,BOTH,YES,11,1,14,5,YES,NO,never,14,NO,YES,NO,NO,NO,nothing,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,never,YES,little,average,center,4.7,58,6.4,4.4,2.1,0.7,2.9,0.9,26
+306,Y,Dont know,male,61,DAD,NO,4,11,9,3,YES,NO,little,20,YES,NO,YES,NO,NO,Diabetic nephropathy,NO,YES,NO,NO,YES,YES,NO,NO,YES,YES,profusely,NO,profusely,profusely,south,4.7,58,6.4,4.4,2.1,0.7,2.9,0.9,26
+307,Y,Dont know,female,56,BOTH,NO,2,11,13,2,NO,NO,little,11,YES,YES,NO,NO,NO,diabetic eye complications,YES,NO,NO,YES,YES,NO,NO,YES,NO,NO,never,NO,profusely,never,center,2.3,36,10.2,4.8,1,1.4,2.9,0.4,30
+308,Y,type 2,female,55,MOM,NO,11,6,0,0,NO,YES,never,12,YES,YES,NO,YES,YES,Cardiovascular complications,NO,YES,NO,YES,YES,NO,NO,NO,NO,YES,never,NO,little,average,south,2.3,36,10.2,4.8,1,1.4,2.9,0.4,36.6
+309,Y,Dont know,female,60,NO,YES,5,17,8,10,NO,NO,never,7,YES,YES,YES,NO,NO,neuropathy,YES,NO,NO,NO,YES,YES,YES,YES,NO,NO,average,YES,in the past,profusely,north,3,42,6.2,5.8,0.9,1,4.4,0.4,27
+310,Y,Dont know,female,60,MOM,NO,0,13,4,0,YES,NO,much,12,NO,YES,NO,NO,YES,Diabetic nephropathy,YES,NO,NO,YES,NO,NO,YES,NO,YES,YES,in the past,YES,profusely,never,south,3,42,6.2,5.8,0.9,1,4.4,0.4,27
+311,Y,Dont know,female,55,DAD,NO,13,7,13,1,NO,NO,little,1,NO,YES,NO,NO,NO,diabetic foot,NO,YES,YES,NO,NO,YES,YES,NO,NO,YES,average,NO,in the past,little,center,2.3,36,10.2,4.8,1,1.4,2.9,0.4,36.6
+312,Y,type 2,male,52,BOTH,YES,9,11,4,8,NO,YES,never,9,NO,NO,NO,YES,YES,Diabetic nephropathy,NO,YES,YES,YES,NO,NO,YES,YES,YES,YES,profusely,YES,never,never,center,8,66,11,4,1.1,0.8,3.5,0.8,28
+313,Y,type 2,male,56,MOM,YES,16,4,8,10,YES,NO,never,10,YES,NO,YES,YES,NO,Cardiovascular complications,YES,YES,NO,NO,YES,YES,NO,YES,NO,NO,little,NO,profusely,average,north,4.1,68,9,7.2,3.7,0.7,5,1.6,29
+314,Y,type 2,female,51,NO,YES,1,13,6,2,YES,NO,middle,1,NO,NO,YES,YES,YES,cerebrovascular disease,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,little,NO,average,little,south,3.4,49,10.7,7,2.7,1,4.8,1.2,26
+315,Y,type 2,male,52,NO,NO,17,9,4,1,YES,YES,never,21,NO,YES,YES,NO,YES,nothing,YES,YES,YES,NO,NO,YES,YES,YES,YES,YES,profusely,NO,profusely,average,center,8,66,11,4,1.1,0.8,3.5,0.8,28
+316,Y,type 2,male,59,NO,YES,10,14,8,8,YES,YES,middle,24,NO,YES,YES,NO,YES,neuropathy,YES,YES,YES,NO,YES,YES,NO,YES,NO,NO,never,YES,in the past,never,south,20,65,6.2,4.6,1.3,0.9,3.1,0.6,30
+317,Y,type 2,female,68,BOTH,NO,14,16,15,9,NO,YES,little,16,NO,NO,NO,YES,YES,nothing,YES,YES,NO,YES,YES,YES,YES,YES,NO,NO,profusely,NO,in the past,profusely,south,5.7,71,7,5,1.7,0.8,3.5,0.8,36.6
+318,Y,type 2,male,55,NO,YES,15,7,10,4,YES,YES,never,19,YES,NO,YES,NO,NO,Diabetic nephropathy,YES,NO,YES,NO,NO,NO,YES,YES,YES,YES,little,NO,never,little,north,4.66,95,7,5.3,2.03,1.2,3.2,14,29.36
+319,Y,type 1,female,51,MOM,YES,0,4,4,0,NO,YES,middle,2,NO,YES,YES,NO,NO,diabetic foot,YES,YES,YES,YES,NO,NO,NO,NO,NO,YES,never,NO,average,little,south,3.4,49,10.7,7,2.7,1,4.8,1.2,26
+320,Y,type 2,male,56,NO,NO,15,4,3,9,NO,YES,little,10,NO,NO,YES,NO,NO,Cardiovascular complications,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,little,NO,profusely,average,center,4.1,68,9,7.2,3.7,0.7,5,1.6,29
+321,Y,Dont know,male,59,BOTH,YES,9,14,1,7,NO,NO,much,17,YES,YES,YES,NO,NO,Cardiovascular complications,YES,NO,NO,YES,NO,YES,YES,YES,YES,NO,little,YES,average,profusely,north,14,65,6.2,4.6,1.3,0.9,3.1,0.6,30
+322,Y,type 2,female,68,DAD,NO,4,11,15,3,NO,YES,much,11,NO,YES,YES,YES,YES,neuropathy,NO,YES,NO,NO,YES,YES,YES,YES,NO,NO,little,YES,profusely,average,center,5.7,71,7,5,1.7,0.8,3.5,0.8,36.6
+323,Y,type 2,male,55,MOM,YES,9,12,14,4,YES,NO,little,23,YES,NO,YES,YES,NO,cerebrovascular disease,NO,NO,NO,NO,NO,YES,NO,YES,YES,YES,never,NO,never,little,north,4.66,95,7,5.3,2.03,1.2,3.2,14,29.36
+324,Y,type 1,female,54,NO,NO,2,8,1,4,YES,YES,middle,4,YES,NO,YES,NO,YES,Diabetic nephropathy,NO,YES,YES,YES,NO,YES,NO,NO,YES,YES,profusely,YES,profusely,never,center,4.3,55,11,3.4,3,0.9,3.5,0.9,31
+325,Y,Dont know,female,54,BOTH,YES,12,13,9,0,YES,NO,never,7,NO,YES,YES,NO,YES,nothing,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,average,YES,little,profusely,south,4.3,44,7.6,5.4,2,1,3.5,0.9,30
+326,Y,Dont know,male,59,NO,YES,9,17,1,10,NO,NO,never,13,YES,YES,YES,YES,YES,nothing,NO,YES,YES,YES,NO,NO,YES,NO,NO,NO,little,NO,little,average,north,5.2,56,10.9,4.9,2.1,1.1,2.5,0.9,28
+327,Y,type 1,male,55,NO,NO,11,1,11,0,NO,NO,much,2,YES,NO,NO,YES,YES,diabetic eye complications,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,in the past,NO,never,little,center,5.7,76,6.8,5.5,1.5,0.7,4.1,0.7,29
+328,Y,type 2,male,57,DAD,NO,11,2,7,0,YES,NO,never,24,NO,YES,YES,NO,YES,diabetic eye complications,NO,NO,NO,NO,YES,NO,YES,YES,NO,NO,in the past,NO,average,never,south,5.3,66,7.9,3.7,2.9,1.1,5.5,1.3,36
+329,Y,type 2,male,77,DAD,YES,17,9,12,0,NO,YES,never,2,YES,YES,NO,NO,YES,Cardiovascular complications,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,in the past,YES,little,little,south,6.2,99,7.2,3.2,1.1,0.8,2,0.5,29
+330,Y,type 1,female,54,BOTH,NO,2,17,12,0,NO,NO,never,20,YES,YES,YES,NO,YES,Diabetic nephropathy,NO,YES,YES,YES,NO,NO,YES,YES,NO,NO,never,YES,never,average,south,3.5,66,8,4.8,2,2.4,1.6,0.9,33
+331,Y,type 2,male,77,BOTH,YES,9,11,3,5,NO,NO,little,20,YES,NO,NO,NO,YES,neuropathy,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,little,YES,little,average,north,6.2,99,7.2,3.2,1.1,0.8,2,0.5,29
+332,Y,type 2,male,55,DAD,YES,2,0,8,5,YES,NO,much,9,YES,NO,YES,YES,YES,nothing,YES,YES,YES,NO,YES,YES,YES,NO,YES,YES,average,YES,profusely,never,south,3.7,93,7.2,3.2,1.9,0.6,1.8,0.8,31
+333,Y,type 1,female,54,NO,NO,14,12,13,3,NO,NO,much,0,NO,YES,YES,NO,NO,diabetic foot,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,never,NO,average,profusely,south,4.3,55,11,3.4,3,0.9,3.5,0.9,31
+334,Y,type 2,male,57,MOM,NO,1,17,2,5,NO,NO,middle,5,YES,NO,NO,NO,NO,nothing,YES,NO,NO,YES,NO,NO,YES,NO,YES,NO,in the past,NO,never,average,south,5.3,66,7.9,3.7,2.9,1.1,5.5,1.3,36
+335,Y,type 2,male,55,DAD,YES,4,17,7,2,YES,NO,middle,13,NO,NO,YES,NO,NO,diabetic foot,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,in the past,YES,little,profusely,south,5.66,61,7.7,4.7,1.19,1.1,3.1,8.1,32.9
+336,Y,Dont know,male,60,NO,NO,7,4,3,5,NO,YES,little,4,NO,NO,NO,YES,NO,Cardiovascular complications,YES,YES,NO,NO,YES,YES,NO,NO,NO,YES,never,NO,profusely,little,north,6.2,87,4.8,4.8,1.6,0.8,1.2,0.5,35
+337,Y,Dont know,female,54,NO,NO,2,17,13,1,YES,NO,much,18,NO,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,NO,NO,YES,NO,YES,YES,NO,YES,little,NO,little,never,north,3.5,66,8,4.8,2,2.4,1.6,0.9,33
+338,Y,Dont know,female,54,NO,YES,11,5,1,7,NO,YES,middle,2,YES,NO,YES,YES,YES,cerebrovascular disease,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES,average,YES,average,profusely,south,4.3,44,7.6,5.4,2,1,3.5,0.9,27.3
+339,Y,type 1,female,54,BOTH,NO,16,10,0,2,YES,YES,never,25,NO,NO,YES,YES,NO,nothing,YES,NO,YES,YES,YES,YES,NO,YES,YES,NO,never,YES,little,average,south,4.3,44,7.6,5.4,2,1,3.5,0.9,30
+340,Y,type 1,male,55,DAD,YES,2,9,6,9,NO,YES,middle,2,NO,YES,YES,YES,NO,Cardiovascular complications,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,profusely,YES,average,little,south,5.7,76,6.8,5.5,1.5,0.7,4.1,0.7,29
+341,Y,type 2,male,55,MOM,YES,6,3,3,6,YES,NO,little,20,YES,NO,NO,NO,NO,diabetic foot,NO,NO,YES,YES,NO,NO,YES,YES,NO,NO,profusely,YES,little,never,center,5.7,76,6.8,5.5,1.5,0.7,4.1,0.7,29
+342,Y,Dont know,female,54,NO,YES,2,1,8,9,YES,NO,much,2,YES,NO,NO,NO,NO,diabetic foot,YES,NO,YES,YES,YES,NO,NO,NO,YES,NO,little,NO,never,profusely,north,4.3,44,7.6,5.4,2,1,3.5,0.9,27.3
+343,Y,type 2,male,55,BOTH,NO,5,17,11,6,YES,NO,middle,4,YES,NO,YES,NO,YES,nothing,YES,YES,YES,YES,NO,YES,NO,YES,NO,YES,in the past,NO,profusely,little,north,3.7,93,7.2,3.2,1.9,0.6,1.8,0.8,31
+344,Y,type 2,male,55,BOTH,YES,0,5,2,0,YES,NO,middle,7,NO,NO,YES,YES,YES,Diabetic nephropathy,YES,NO,YES,NO,NO,YES,NO,YES,YES,NO,average,YES,in the past,profusely,south,5.7,76,6.8,5.5,1.5,0.7,4.1,0.7,29
+345,Y,type 2,male,60,BOTH,NO,5,4,2,3,NO,NO,middle,13,YES,NO,NO,YES,YES,nothing,YES,NO,NO,NO,YES,NO,YES,YES,NO,NO,average,NO,profusely,never,north,6.2,87,4.8,4.8,1.6,0.8,1.2,0.5,35
+346,Y,type 2,male,55,DAD,YES,4,17,0,6,NO,YES,never,20,YES,YES,NO,NO,YES,nothing,NO,YES,NO,NO,YES,NO,YES,YES,YES,YES,little,NO,little,profusely,south,5.66,61,7.7,4.7,1.19,1.1,3.1,8.1,32.9
+347,Y,type 1,male,55,MOM,NO,13,10,15,0,NO,NO,much,23,NO,YES,YES,YES,YES,diabetic foot,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,little,YES,average,average,south,6.66,73,10.9,3.5,3.2,0.9,1.3,22.2,43.25
+348,Y,Dont know,male,60,DAD,YES,3,4,7,3,NO,YES,little,13,NO,YES,NO,NO,YES,diabetic eye complications,YES,NO,YES,YES,YES,NO,YES,YES,YES,YES,average,YES,in the past,little,north,5.7,76,6.8,5.5,1.5,0.7,4.1,0.7,33
+349,Y,type 2,male,55,DAD,YES,16,7,5,6,YES,YES,little,1,YES,NO,YES,YES,NO,Cardiovascular complications,YES,YES,NO,NO,NO,YES,NO,NO,YES,NO,average,NO,little,never,south,3.66,67,7,5.6,1.91,1.3,3.5,13.1,39.18
+350,Y,Dont know,male,55,NO,NO,1,16,7,9,NO,YES,never,20,YES,YES,YES,NO,YES,cerebrovascular disease,YES,YES,NO,YES,YES,NO,YES,NO,NO,YES,little,YES,little,never,south,3.66,67,7,5.6,1.91,1.3,3.5,13.1,39.18
+351,Y,Dont know,male,55,NO,NO,6,11,7,9,YES,NO,much,17,NO,YES,YES,YES,NO,Diabetic nephropathy,YES,NO,YES,NO,NO,YES,NO,YES,YES,NO,average,YES,profusely,average,center,6.66,73,10.9,3.5,3.2,0.9,1.3,22.2,43.25
+352,Y,type 1,male,60,MOM,NO,15,15,5,9,NO,NO,middle,9,NO,NO,YES,NO,YES,cerebrovascular disease,YES,NO,YES,NO,YES,YES,NO,NO,YES,NO,little,NO,in the past,never,north,5.7,76,6.8,5.5,1.5,0.7,4.1,0.7,33
+353,Y,type 2,female,61,DAD,YES,8,15,14,4,NO,YES,little,18,NO,YES,YES,YES,YES,diabetic foot,YES,YES,YES,NO,YES,YES,NO,YES,NO,YES,little,NO,profusely,profusely,south,10.5,111,8.2,3.8,3,0.9,1.7,1.3,39
+354,Y,Dont know,female,61,DAD,YES,0,0,11,5,YES,YES,middle,2,NO,NO,YES,NO,NO,nothing,NO,NO,YES,YES,YES,YES,NO,NO,YES,YES,never,YES,in the past,profusely,center,10.5,111,8.2,3.8,3,0.9,1.7,1.3,39
+355,Y,type 2,female,63,NO,NO,12,1,12,6,NO,YES,much,25,YES,YES,NO,YES,NO,Cardiovascular complications,NO,NO,YES,NO,YES,NO,NO,YES,YES,NO,little,YES,profusely,profusely,center,2.4,66,7.4,7.1,4.1,1.5,3.8,1,38
+356,Y,type 2,female,63,NO,NO,14,9,8,4,YES,NO,much,13,YES,NO,YES,YES,YES,nothing,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES,in the past,NO,in the past,average,center,2.4,66,7.4,7.1,4.1,1.5,3.8,1,38
+357,Y,type 1,male,55,MOM,YES,2,1,6,3,YES,NO,much,18,NO,YES,YES,YES,YES,Cardiovascular complications,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES,little,NO,never,profusely,north,7,56,9.1,3.7,1.9,0.7,2.3,0.9,30
+358,Y,Dont know,female,55,NO,NO,4,5,14,10,NO,NO,little,21,NO,YES,NO,NO,YES,nothing,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,never,NO,in the past,average,center,3,41,4.3,4.6,0.7,1.8,1.1,1.3,37
+359,Y,type 2,female,52,MOM,NO,5,9,8,6,YES,NO,much,9,NO,YES,YES,NO,YES,cerebrovascular disease,NO,NO,YES,NO,YES,NO,NO,YES,YES,NO,never,YES,profusely,never,south,6.4,88,8.5,8.5,0.8,6.6,1.3,1.3,33
+360,Y,type 2,male,55,NO,YES,3,10,8,0,YES,YES,never,22,YES,NO,YES,YES,NO,nothing,YES,YES,YES,NO,YES,YES,NO,NO,NO,NO,profusely,YES,little,never,center,7,56,9.1,3.7,1.9,0.7,2.3,0.9,30
+361,Y,Dont know,female,55,NO,NO,12,5,0,2,NO,YES,little,24,YES,NO,NO,NO,YES,cerebrovascular disease,NO,NO,YES,NO,YES,YES,NO,YES,YES,YES,little,NO,profusely,never,north,3,41,4.3,4.6,0.7,1.8,1.1,1.3,37
+362,Y,Dont know,female,52,BOTH,YES,10,11,7,3,NO,NO,never,10,NO,NO,YES,YES,YES,diabetic eye complications,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,never,NO,never,never,south,6.4,88,8.5,8.5,0.8,6.6,1.3,1.3,33
+363,Y,Dont know,male,55,DAD,NO,4,16,8,2,YES,YES,much,15,NO,NO,YES,NO,NO,diabetic foot,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,little,NO,little,little,north,7,56,9.1,3.7,1.9,0.7,2.3,0.9,27
+364,Y,Dont know,male,55,MOM,YES,3,7,6,4,NO,NO,middle,15,YES,NO,NO,YES,NO,diabetic foot,NO,YES,YES,YES,YES,YES,NO,YES,YES,NO,in the past,YES,profusely,profusely,north,3.2,56,8,4,2.6,1.2,1.7,1.7,30
+365,Y,Dont know,male,55,DAD,YES,6,1,11,9,YES,YES,middle,10,NO,NO,YES,NO,NO,cerebrovascular disease,YES,NO,NO,NO,YES,NO,NO,YES,YES,NO,little,NO,profusely,profusely,center,7,56,9.1,3.7,1.9,0.7,2.3,0.9,27
+366,Y,Dont know,male,55,NO,NO,12,13,1,0,YES,YES,little,23,NO,YES,YES,YES,NO,diabetic eye complications,NO,YES,YES,NO,NO,YES,YES,YES,YES,YES,in the past,NO,average,average,south,3.2,56,8,4,2.6,1.2,1.7,1.7,30
+367,Y,type 2,female,51,NO,YES,7,12,5,4,YES,YES,much,9,NO,YES,YES,YES,NO,diabetic foot,NO,NO,YES,YES,YES,YES,YES,NO,NO,NO,never,NO,little,little,center,5.6,49,6.5,4.1,2.1,0.7,2.5,0.9,32
+368,Y,Dont know,male,61,NO,YES,13,0,13,0,YES,YES,never,19,NO,YES,YES,YES,YES,diabetic foot,NO,YES,NO,YES,YES,NO,NO,NO,NO,NO,little,NO,average,average,north,5.9,56,8.2,4.9,2.1,1.1,2.5,0.9,28
+369,Y,Dont know,female,58,BOTH,NO,1,5,5,1,NO,YES,much,20,YES,NO,YES,YES,YES,diabetic foot,NO,NO,YES,NO,YES,YES,YES,NO,NO,YES,average,NO,in the past,average,north,3.9,40,11.4,4.1,1,0.9,1.7,1.7,26
+370,Y,type 2,female,66,MOM,YES,4,10,12,7,YES,YES,never,23,YES,NO,YES,YES,YES,Diabetic nephropathy,YES,YES,YES,NO,YES,NO,YES,NO,NO,NO,little,NO,profusely,never,north,5.5,56,9.9,4.4,2,1,2.5,0.9,29
+371,Y,type 2,male,54,BOTH,NO,8,1,14,4,NO,NO,middle,19,YES,YES,NO,NO,NO,diabetic eye complications,NO,YES,YES,NO,YES,YES,YES,YES,NO,NO,profusely,NO,average,profusely,center,6.3,87,8.2,2.3,0.7,0.8,1.2,0.3,29
+372,Y,Dont know,male,55,NO,YES,0,8,10,7,NO,YES,much,18,YES,NO,YES,NO,NO,cerebrovascular disease,NO,YES,NO,NO,NO,YES,NO,YES,NO,YES,never,NO,never,profusely,north,4.16,60,7.6,6.5,2.1,1.3,4.3,14.5,34.5
+373,Y,Dont know,male,62,DAD,NO,7,1,15,4,YES,NO,much,23,YES,YES,YES,NO,NO,neuropathy,YES,YES,NO,YES,YES,NO,NO,NO,YES,NO,little,NO,average,little,center,4.1,63,9.5,3.6,5.1,0.9,2.5,0.9,30
+374,Y,type 2,male,55,MOM,NO,9,7,8,9,YES,NO,never,11,NO,YES,YES,YES,NO,Cardiovascular complications,YES,NO,NO,YES,YES,NO,YES,NO,YES,NO,average,YES,little,little,south,5.5,74,8,4.3,1.6,0.8,3.6,0.6,27
+375,Y,Dont know,male,54,MOM,YES,16,17,12,8,YES,YES,never,9,NO,NO,NO,NO,NO,nothing,NO,NO,YES,YES,YES,NO,YES,YES,YES,NO,average,YES,profusely,average,north,3.4,38,9.3,5.3,3.3,1,1.4,1.3,28
+376,Y,Dont know,male,51,MOM,YES,2,11,10,6,NO,YES,much,4,YES,YES,NO,YES,NO,neuropathy,YES,NO,YES,NO,NO,YES,NO,YES,NO,NO,average,NO,never,profusely,north,10.4,76,7.3,3.3,2,1.6,1.2,0.9,33
+377,Y,type 1,female,60,DAD,NO,16,12,7,2,YES,NO,much,14,NO,YES,YES,YES,YES,neuropathy,NO,YES,NO,YES,NO,NO,NO,YES,YES,YES,average,YES,average,little,south,4.5,39,8.7,5.2,2.1,0.8,3.6,0.9,27
+378,Y,Dont know,male,53,NO,NO,10,17,15,4,NO,YES,middle,0,NO,NO,YES,YES,YES,Cardiovascular complications,YES,NO,NO,NO,YES,YES,NO,YES,NO,NO,average,NO,little,never,north,5.6,72,9,8.8,4.3,1.5,3.5,1.2,29
+379,Y,type 1,male,52,NO,YES,9,9,4,10,NO,YES,never,20,YES,YES,NO,NO,NO,Diabetic nephropathy,YES,NO,YES,YES,YES,YES,NO,YES,NO,NO,never,YES,in the past,little,south,5.4,56,7.9,4.9,2.1,1.1,2.5,0.9,28
+380,Y,type 1,male,61,MOM,YES,13,4,7,0,YES,YES,never,24,YES,YES,NO,NO,YES,neuropathy,YES,NO,NO,YES,NO,YES,NO,NO,NO,NO,never,YES,profusely,little,south,3,39,9,3.9,0.7,0.8,2.8,0.3,30
+381,Y,Dont know,male,60,BOTH,YES,1,10,9,6,YES,NO,much,22,YES,YES,YES,NO,NO,neuropathy,YES,YES,YES,YES,NO,NO,NO,YES,YES,YES,average,YES,average,little,south,5.1,60,11,4.5,1.7,0.9,2.9,0.7,31
+382,Y,Dont know,female,52,MOM,NO,2,8,0,8,YES,YES,little,18,YES,YES,NO,NO,NO,diabetic eye complications,YES,NO,YES,NO,YES,YES,NO,NO,NO,NO,profusely,YES,in the past,average,center,7.6,84,8.1,4.2,2,0.7,2.6,0.9,36
+383,Y,type 2,female,56,NO,YES,7,3,6,1,YES,NO,middle,18,YES,NO,NO,NO,YES,nothing,NO,NO,YES,YES,YES,YES,NO,YES,NO,YES,profusely,YES,in the past,little,north,1.9,20,11.7,5.5,5.3,0.9,1.3,1.2,33
+384,Y,type 2,male,54,DAD,NO,2,5,8,4,NO,NO,never,11,YES,NO,NO,YES,YES,neuropathy,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,in the past,NO,average,never,south,6.3,87,8.2,2.3,0.7,0.8,1.2,0.3,34
+385,Y,type 2,male,60,MOM,YES,4,3,10,10,NO,NO,middle,24,NO,NO,NO,NO,YES,neuropathy,YES,NO,NO,YES,NO,YES,NO,YES,NO,NO,profusely,YES,profusely,profusely,north,4,63,12,3.6,5.1,0.9,2.5,0.9,30
+386,Y,Dont know,male,58,MOM,YES,17,5,7,6,NO,NO,middle,9,NO,YES,NO,NO,NO,cerebrovascular disease,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,profusely,NO,in the past,never,south,5.2,63,7.5,3.6,5.1,0.9,2.5,0.9,30
+387,Y,Dont know,male,55,NO,YES,1,10,14,7,NO,YES,little,4,YES,YES,YES,NO,NO,neuropathy,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES,average,YES,little,average,south,3.33,79,9.7,4.1,2.03,1.08,2.2,14,33.6
+388,Y,type 2,female,55,BOTH,NO,16,13,1,0,YES,YES,never,0,NO,YES,NO,YES,NO,Cardiovascular complications,YES,NO,YES,NO,NO,YES,YES,YES,YES,NO,average,NO,profusely,profusely,north,4,72,11,4.4,2.1,1.1,2.5,0.9,26
+389,Y,Dont know,female,59,DAD,NO,1,13,10,5,NO,NO,middle,22,NO,NO,NO,YES,NO,diabetic eye complications,YES,NO,YES,YES,NO,YES,YES,NO,NO,NO,average,NO,average,profusely,south,3.5,48,8,6.3,2.7,0.9,1.6,0.3,35
+390,Y,type 1,male,61,MOM,NO,8,6,10,4,YES,YES,middle,8,YES,NO,NO,NO,NO,neuropathy,NO,YES,YES,YES,NO,NO,NO,YES,YES,YES,in the past,YES,average,little,north,5.9,56,8.2,4.9,2.1,1.1,2.5,0.9,28
+391,Y,type 2,male,54,NO,NO,5,17,4,5,NO,YES,middle,3,YES,NO,YES,YES,YES,cerebrovascular disease,NO,NO,YES,NO,NO,NO,NO,YES,YES,NO,little,YES,in the past,little,south,6.1,63,10.1,5.2,2.3,0.9,0.9,1.1,33
+392,Y,Dont know,female,57,DAD,YES,1,13,7,5,YES,YES,never,18,NO,YES,NO,NO,NO,Diabetic nephropathy,NO,NO,YES,YES,NO,NO,YES,YES,NO,YES,average,YES,little,average,north,4.5,73,9.4,5.1,2.4,0.8,2,1.1,39
+393,Y,Dont know,female,54,DAD,YES,0,5,5,0,YES,YES,middle,6,NO,YES,YES,YES,NO,Diabetic nephropathy,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES,never,YES,little,average,north,8.5,59,7.9,4.8,2.4,1.8,2,1.1,38
+394,Y,type 2,male,60,NO,YES,9,11,2,6,NO,YES,never,22,NO,NO,NO,YES,NO,diabetic eye complications,YES,NO,NO,NO,NO,YES,YES,YES,NO,NO,little,NO,profusely,little,south,5.1,59,9,4.5,1.6,6.3,2,1,37
+395,Y,type 2,female,55,NO,NO,11,3,15,2,YES,NO,never,14,NO,YES,YES,YES,YES,Diabetic nephropathy,NO,YES,NO,NO,YES,YES,YES,NO,NO,YES,never,NO,average,average,south,4,72,11,4.4,2.1,1.1,2.5,0.9,26
+396,Y,type 2,male,60,DAD,YES,7,11,11,0,YES,YES,little,6,YES,YES,YES,YES,YES,diabetic foot,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,little,YES,profusely,average,south,4.5,62,9.4,4.1,1.6,1.1,5.6,1,33
+397,Y,type 2,female,61,DAD,NO,15,5,6,8,NO,NO,much,18,NO,YES,NO,NO,YES,Diabetic nephropathy,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,profusely,NO,average,average,north,5.2,64,10.3,7.3,3.3,1,3.1,1.5,32
+398,Y,type 2,female,55,NO,YES,13,17,11,4,NO,YES,middle,7,NO,YES,YES,YES,YES,Cardiovascular complications,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,never,YES,profusely,little,north,2.7,53,7.3,4.1,3.3,0.9,2.1,1.5,29
+399,Y,type 2,male,63,DAD,YES,12,7,9,8,YES,NO,never,25,YES,NO,YES,NO,NO,neuropathy,NO,YES,NO,YES,NO,YES,NO,YES,NO,NO,little,YES,little,average,south,4.3,42,9,4.2,3.4,0.9,2,1,26
+400,Y,type 2,male,55,BOTH,YES,17,10,9,8,NO,YES,never,22,YES,NO,YES,NO,YES,Cardiovascular complications,YES,NO,YES,YES,NO,NO,YES,YES,NO,NO,never,YES,profusely,never,south,4.6,54,6.8,4.9,2.2,0.7,3.3,1,27
+401,Y,Dont know,male,52,NO,NO,14,0,9,9,NO,NO,little,25,YES,NO,NO,YES,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,YES,NO,YES,NO,NO,little,YES,average,average,south,4.4,61,9,5.9,3.5,0.7,3.6,1.6,28
+402,Y,type 2,female,51,DAD,NO,7,8,4,7,NO,NO,little,7,NO,NO,YES,YES,YES,nothing,YES,NO,NO,YES,NO,YES,NO,YES,NO,YES,little,NO,average,profusely,south,3,41,8.3,4,2.8,0.7,2.1,1.2,29
+403,Y,type 2,female,58,DAD,NO,17,4,14,3,YES,YES,much,1,YES,YES,NO,NO,NO,Cardiovascular complications,NO,YES,YES,YES,NO,NO,YES,NO,YES,NO,never,YES,average,little,south,2.7,53,7.3,4.8,3.3,0.9,2.6,1.5,30
+404,Y,type 2,female,55,BOTH,YES,11,9,3,1,YES,NO,much,21,NO,NO,YES,NO,NO,Diabetic nephropathy,NO,NO,YES,NO,YES,YES,NO,NO,YES,NO,in the past,YES,little,profusely,north,4.4,68,8,4.6,2.2,0.9,2.4,1,31
+405,Y,type 2,female,54,NO,NO,6,11,1,7,NO,YES,middle,25,NO,YES,YES,YES,YES,nothing,NO,NO,YES,NO,YES,YES,NO,YES,NO,NO,average,NO,little,little,center,8.6,75,8.9,4.6,2.6,0.9,1.3,1,36
+406,Y,type 2,male,51,MOM,YES,11,4,12,6,YES,YES,little,18,YES,YES,NO,YES,YES,cerebrovascular disease,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,profusely,NO,little,never,north,6.1,56,8,4.9,2.1,1.1,2.5,0.9,28
+407,Y,type 2,female,58,BOTH,NO,15,8,15,1,NO,NO,middle,17,YES,NO,YES,NO,NO,diabetic foot,YES,NO,NO,YES,YES,YES,YES,NO,YES,NO,in the past,NO,average,never,north,5,62,9.3,5.8,3.6,1.1,1.9,0.6,31
+408,Y,type 2,female,63,MOM,YES,7,1,8,7,YES,YES,never,0,YES,YES,NO,NO,YES,diabetic foot,NO,NO,NO,YES,NO,YES,YES,NO,NO,NO,profusely,NO,never,profusely,south,4.8,52,8.9,4.8,1.5,1,3.1,0.6,28
+409,Y,type 2,male,53,MOM,YES,9,16,7,10,YES,YES,never,14,YES,NO,YES,YES,YES,diabetic eye complications,YES,YES,YES,NO,YES,YES,NO,NO,YES,YES,profusely,YES,never,average,south,7.8,64,8,6.4,3.5,1.7,2,1,33
+410,Y,type 2,female,61,BOTH,YES,16,9,1,3,YES,YES,middle,8,YES,NO,YES,NO,NO,nothing,NO,NO,YES,YES,NO,NO,NO,YES,YES,NO,profusely,NO,profusely,profusely,center,4.1,55,8.5,4.8,2.2,1.4,2,1,35
+411,Y,type 2,male,54,BOTH,NO,9,5,3,6,NO,NO,much,15,NO,YES,NO,YES,NO,Cardiovascular complications,YES,YES,YES,YES,NO,YES,YES,NO,YES,YES,average,NO,in the past,little,center,4.7,78,7.3,3.6,1.7,0.8,2.1,0.7,29
+412,Y,type 2,male,60,BOTH,YES,1,4,11,6,NO,NO,middle,8,NO,NO,NO,YES,NO,cerebrovascular disease,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,in the past,YES,average,little,center,3,55,7.7,4.2,4.9,1.6,1.7,1,33
+413,Y,type 2,male,53,DAD,YES,15,17,5,3,YES,NO,much,20,NO,NO,NO,NO,NO,diabetic eye complications,YES,NO,YES,YES,YES,YES,YES,YES,NO,NO,in the past,NO,profusely,average,north,2,55,7.7,4.4,3.3,0.9,2.1,1.5,27
+414,Y,type 2,male,52,BOTH,YES,7,15,2,9,NO,NO,middle,15,YES,NO,YES,NO,NO,nothing,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES,in the past,YES,average,never,north,3.9,44,11,3.4,1.2,0.9,3.6,1,39
+415,Y,type 2,male,56,BOTH,NO,10,10,10,3,NO,NO,little,20,NO,YES,NO,YES,NO,Diabetic nephropathy,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,never,NO,in the past,little,south,2,55,7.7,4.4,3.3,0.9,2.1,1.5,38
+416,Y,type 2,male,55,DAD,YES,2,9,4,8,YES,YES,little,18,NO,NO,NO,NO,NO,Diabetic nephropathy,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,little,NO,average,average,center,5.5,72,8.9,5.3,3.3,0.95,3.1,1.5,30
+417,Y,type 2,female,59,DAD,NO,4,6,12,3,NO,YES,little,19,NO,YES,NO,YES,NO,neuropathy,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,never,NO,profusely,never,center,5.1,87,7.6,5.9,2.1,1.6,1.7,1.5,37
+418,Y,type 2,male,53,DAD,NO,9,13,15,6,YES,YES,middle,19,NO,YES,NO,YES,YES,neuropathy,YES,YES,NO,YES,YES,YES,YES,NO,NO,NO,average,YES,never,profusely,north,2,55,7.7,4.4,3.3,0.9,2.1,1.5,32
+419,Y,type 2,male,55,DAD,YES,10,7,12,4,NO,YES,middle,11,YES,NO,YES,YES,NO,diabetic eye complications,YES,YES,NO,YES,YES,NO,YES,NO,YES,NO,little,NO,profusely,average,center,4,71,6.9,4.8,2.2,1.1,2.8,15.4,34.05
+420,Y,type 2,female,54,MOM,NO,3,7,4,4,YES,NO,little,18,YES,YES,NO,YES,NO,diabetic eye complications,YES,YES,NO,YES,YES,YES,NO,YES,YES,YES,profusely,NO,little,profusely,north,6,61,8,5.2,3.4,3.2,1.5,1.5,33
+421,Y,type 2,female,54,NO,YES,6,3,12,4,YES,NO,middle,6,YES,YES,YES,NO,NO,cerebrovascular disease,NO,YES,YES,NO,YES,NO,YES,YES,YES,NO,profusely,YES,profusely,never,south,1.2,25,7.9,2,1.9,0.9,2.5,0.7,33
+422,Y,type 2,female,57,BOTH,NO,10,10,7,9,NO,NO,much,17,YES,YES,YES,NO,NO,cerebrovascular disease,YES,NO,YES,YES,NO,YES,NO,NO,NO,NO,little,NO,profusely,profusely,north,7.7,62,8.6,3.3,1.4,1.1,1.6,0.6,32
+423,Y,type 2,male,54,BOTH,NO,6,7,5,2,YES,NO,never,25,YES,NO,YES,YES,YES,diabetic foot,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,little,NO,in the past,profusely,center,3.7,87,8,4.5,2.2,0.5,3.1,1,26
+424,Y,type 2,male,57,DAD,NO,2,5,8,5,YES,NO,never,20,NO,YES,YES,YES,YES,diabetic foot,YES,YES,NO,YES,NO,YES,YES,YES,YES,YES,average,YES,never,profusely,north,6.4,75,7.3,6.1,4.3,1.2,3.7,1.9,30.1
+425,Y,type 2,male,60,BOTH,NO,11,13,7,10,NO,NO,middle,21,YES,NO,YES,NO,NO,cerebrovascular disease,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,average,NO,little,never,center,2.7,35,9,4.4,2,0.6,3,0.9,27
+426,Y,type 2,male,60,NO,NO,16,10,10,4,NO,YES,much,21,YES,NO,NO,NO,NO,diabetic foot,YES,NO,NO,NO,NO,YES,NO,YES,YES,NO,average,YES,little,profusely,north,2.7,35,9,4.4,2,0.6,3,0.9,27
+427,Y,type 2,female,60,MOM,NO,6,1,7,7,YES,NO,much,7,NO,YES,YES,YES,NO,cerebrovascular disease,NO,NO,NO,NO,NO,YES,YES,YES,YES,NO,in the past,YES,in the past,little,south,5.4,47,6.8,5.1,2.1,1.1,3,1,28
+428,Y,type 2,male,61,DAD,NO,0,11,10,4,YES,YES,little,6,YES,YES,YES,NO,NO,neuropathy,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,average,YES,in the past,profusely,center,3.8,62,8.9,6.8,4.3,1.2,3.9,1.9,29
+429,Y,type 2,male,57,BOTH,YES,1,17,7,5,NO,NO,much,22,NO,NO,YES,YES,NO,Diabetic nephropathy,YES,NO,YES,YES,YES,YES,YES,YES,NO,NO,never,YES,in the past,average,south,4.1,63,9.7,3.6,5.1,0.9,2.5,0.9,30
+430,Y,type 2,male,63,DAD,NO,4,16,15,6,YES,NO,middle,2,NO,NO,NO,NO,YES,diabetic eye complications,NO,NO,YES,YES,NO,YES,NO,YES,NO,YES,average,YES,in the past,little,north,3.9,58,6.4,4.8,2,1.4,2,0.9,30
+431,Y,Dont know,male,55,NO,NO,7,10,14,1,YES,NO,middle,15,YES,YES,NO,YES,NO,diabetic foot,NO,YES,NO,YES,NO,NO,NO,NO,YES,YES,average,YES,profusely,never,center,4,71,7.8,4.2,3.7,1.2,1.3,1.7,33
+432,Y,type 2,female,52,NO,YES,17,9,11,5,YES,NO,never,13,YES,NO,YES,NO,YES,Cardiovascular complications,NO,YES,NO,YES,YES,YES,NO,NO,YES,NO,average,YES,profusely,profusely,north,8.6,87,11.3,6.9,2.6,1.2,2,1.1,30
+433,Y,type 2,male,55,DAD,YES,10,4,5,7,YES,NO,middle,22,NO,YES,YES,YES,YES,diabetic eye complications,NO,YES,NO,NO,NO,YES,YES,NO,YES,YES,profusely,NO,in the past,never,center,8.6,73,10.2,3.9,2,1.5,1.5,0.9,31
+434,Y,type 2,male,63,NO,YES,11,3,0,6,YES,YES,never,7,YES,NO,YES,NO,YES,Diabetic nephropathy,YES,NO,YES,YES,NO,YES,YES,YES,YES,YES,in the past,YES,average,average,south,7,84,8.1,6,2.2,1.1,4,1,28
+435,Y,type 2,female,63,BOTH,YES,2,3,7,6,YES,YES,middle,1,NO,NO,NO,YES,YES,cerebrovascular disease,NO,NO,NO,YES,NO,YES,YES,NO,YES,YES,profusely,YES,average,little,center,4.2,72,9.3,4.4,2.1,1.1,2.5,0.9,26
+436,Y,type 2,female,58,BOTH,YES,9,5,2,5,YES,YES,much,25,NO,NO,NO,NO,YES,cerebrovascular disease,YES,NO,NO,YES,YES,NO,YES,NO,NO,NO,profusely,NO,in the past,average,center,3.3,30,10.2,6.3,2.4,1.9,0.75,1.1,27
+437,Y,type 2,male,56,NO,YES,4,7,0,4,NO,NO,never,15,YES,YES,NO,YES,YES,Diabetic nephropathy,YES,NO,NO,YES,YES,NO,NO,NO,YES,NO,profusely,YES,in the past,never,north,5,84,8.6,5,1.7,1.45,1.9,0.7,33
+438,Y,type 2,female,52,DAD,NO,14,17,9,10,YES,YES,little,19,YES,NO,YES,YES,NO,cerebrovascular disease,YES,YES,YES,YES,NO,YES,NO,YES,YES,NO,profusely,YES,in the past,average,south,3.6,46,10.1,5.2,3.3,0.9,1.7,1.5,36
+439,Y,Dont know,female,51,MOM,YES,2,0,8,1,YES,NO,middle,17,NO,NO,NO,NO,YES,diabetic eye complications,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,never,NO,average,never,north,3.1,36,6.8,2.9,1,1,1.7,1.5,33
+440,Y,type 2,male,55,MOM,NO,3,0,12,10,NO,YES,much,9,YES,NO,NO,YES,NO,diabetic eye complications,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO,average,NO,in the past,never,center,4.1,86,10,4.9,0.7,1.2,3.4,0.4,30
+441,Y,type 2,male,55,MOM,NO,9,1,10,7,YES,NO,middle,1,NO,YES,YES,NO,NO,Diabetic nephropathy,YES,NO,NO,YES,NO,YES,YES,NO,YES,YES,little,NO,never,profusely,center,2.7,39,11.7,3.9,0.6,1.3,2.3,0.2,30
+442,Y,Dont know,female,58,NO,YES,12,11,8,3,YES,NO,much,13,YES,NO,YES,NO,NO,diabetic eye complications,YES,NO,NO,YES,NO,YES,NO,YES,NO,NO,never,YES,average,little,north,4.5,53,9,5.5,3.2,3.2,1.4,1.5,35
+443,Y,type 2,male,55,DAD,NO,9,3,2,0,YES,NO,little,21,YES,YES,NO,YES,YES,neuropathy,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,never,YES,profusely,average,south,4.1,86,10,4.9,0.7,1.2,3.4,0.4,33
+444,Y,type 2,female,54,DAD,YES,6,7,14,3,NO,NO,middle,18,YES,YES,NO,YES,YES,neuropathy,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,average,YES,little,average,center,2.5,35,10.7,5.6,3,1.1,4.2,1.4,39
+445,Y,type 2,male,58,BOTH,NO,12,10,7,8,NO,NO,much,16,YES,YES,NO,NO,YES,diabetic foot,NO,NO,YES,YES,NO,YES,YES,YES,YES,NO,little,NO,profusely,profusely,center,5.9,61,8,4.3,2.4,0.9,2,1.1,29
+446,Y,type 2,male,53,MOM,YES,7,4,13,7,NO,YES,never,23,YES,NO,YES,YES,NO,Cardiovascular complications,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,little,NO,little,profusely,north,5.5,60,5.8,5.4,2.2,1.6,0.95,1.5,38
+447,Y,type 2,male,52,NO,NO,10,9,7,7,NO,NO,much,14,YES,YES,YES,YES,NO,diabetic eye complications,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO,never,NO,never,profusely,north,5.4,56,7.9,4.9,2.1,1.1,2.5,0.9,28
+448,Y,type 2,male,55,MOM,NO,10,3,4,10,NO,YES,much,13,NO,NO,NO,YES,NO,cerebrovascular disease,NO,YES,NO,NO,YES,YES,YES,NO,YES,NO,average,NO,little,profusely,south,4.9,56,7.7,3,0.3,1.3,1.5,0.1,30
+449,Y,type 2,female,69,NO,NO,10,3,7,6,NO,YES,much,7,NO,NO,YES,NO,NO,diabetic foot,NO,YES,YES,YES,YES,NO,YES,NO,YES,YES,in the past,YES,never,profusely,center,14.5,243,10.5,5.3,3.8,1.4,2.3,1.7,32
+450,Y,type 2,male,61,DAD,YES,6,14,0,1,NO,NO,little,9,YES,NO,YES,NO,YES,neuropathy,NO,NO,YES,NO,YES,YES,NO,NO,NO,NO,profusely,NO,average,little,north,3.1,42,7.2,5.8,3.9,1,3.1,1.8,37
+451,Y,type 2,male,51,MOM,NO,1,16,3,2,NO,YES,middle,17,YES,YES,YES,YES,NO,nothing,NO,YES,NO,YES,YES,NO,YES,NO,YES,YES,profusely,YES,profusely,never,center,4.9,56,7.7,3,0.3,1.3,1.5,0.1,30
+452,Y,type 2,male,60,DAD,NO,10,15,3,10,YES,NO,middle,4,NO,YES,NO,YES,NO,nothing,NO,NO,NO,YES,YES,NO,YES,YES,YES,NO,little,NO,never,average,center,14.5,179,8.7,5,1.8,1.1,1,0.8,33
+453,Y,type 2,male,52,DAD,NO,17,16,1,5,YES,YES,never,4,NO,YES,NO,NO,NO,neuropathy,YES,YES,YES,YES,NO,NO,NO,YES,YES,YES,never,NO,little,average,center,3.4,52,8.8,3.5,2,2,0.9,1.5,32
+454,Y,type 2,female,51,BOTH,NO,10,17,10,6,NO,NO,little,0,YES,NO,NO,NO,NO,neuropathy,NO,YES,NO,YES,YES,NO,YES,YES,NO,YES,in the past,NO,in the past,profusely,north,3.8,38,10,4.6,1,1.3,2.3,0.4,33
+455,Y,type 2,male,55,BOTH,YES,2,8,1,6,YES,YES,never,5,NO,NO,YES,NO,NO,diabetic foot,NO,YES,NO,NO,NO,NO,NO,YES,NO,YES,profusely,YES,little,average,north,4.2,57,8.9,5.3,3.1,0.7,3.3,1.4,27
+456,Y,Dont know,female,56,MOM,YES,9,17,8,6,YES,YES,little,24,YES,NO,NO,NO,NO,cerebrovascular disease,NO,YES,YES,YES,NO,NO,NO,YES,YES,YES,little,NO,in the past,never,north,3.8,42,9,4,5.1,1.75,0.96,2.2,26
+457,Y,type 2,male,56,DAD,NO,1,10,8,3,YES,NO,middle,9,YES,NO,YES,NO,NO,neuropathy,NO,NO,YES,NO,YES,YES,YES,YES,NO,YES,average,YES,in the past,little,south,5.9,68,8,5.1,2.5,0.7,3.4,1.1,26
+458,Y,Dont know,male,55,BOTH,NO,6,5,0,9,NO,YES,never,1,YES,NO,NO,NO,NO,diabetic foot,YES,YES,NO,NO,NO,YES,YES,NO,YES,YES,average,YES,never,little,north,3.66,61,9.9,5.3,3.3,0.9,3.1,22.7,30.1
+459,Y,type 2,male,59,DAD,NO,2,13,11,4,NO,NO,little,23,YES,NO,NO,NO,YES,Cardiovascular complications,NO,NO,NO,NO,YES,NO,YES,YES,NO,YES,never,NO,average,little,south,4.2,57,8.9,5.3,3.1,0.7,3.3,1.4,27
+460,Y,type 2,female,64,DAD,YES,8,9,10,0,NO,YES,much,22,NO,NO,YES,NO,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,NO,NO,YES,YES,NO,profusely,YES,never,average,south,2,35,7.9,5.3,3.1,0.9,3.1,1.4,33
+461,Y,type 2,female,56,NO,YES,2,14,14,8,NO,NO,little,21,NO,YES,NO,YES,YES,nothing,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,in the past,YES,never,profusely,south,5.1,72,8.1,4.4,2.1,1.1,2.5,0.9,26
+462,Y,type 2,female,54,DAD,NO,0,14,3,9,NO,NO,middle,5,YES,YES,YES,YES,NO,diabetic foot,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,little,NO,in the past,average,north,3.8,50,10.2,4.7,1.2,1.6,1.7,1.5,28
+463,Y,type 2,male,57,NO,YES,13,15,8,8,NO,NO,little,17,NO,NO,NO,YES,YES,cerebrovascular disease,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,profusely,YES,never,little,south,8.9,120,6.3,4.2,3.9,1.4,1.3,1.5,29
+464,Y,Dont know,male,54,MOM,YES,7,5,13,4,YES,YES,middle,6,NO,NO,YES,NO,NO,nothing,YES,YES,NO,NO,YES,NO,YES,YES,YES,NO,profusely,YES,average,profusely,center,6.7,97,9.5,6.1,2.3,1.3,1.4,1.5,30
+465,Y,type 2,female,60,NO,NO,11,5,0,9,NO,NO,little,23,YES,YES,YES,NO,YES,neuropathy,YES,NO,YES,NO,NO,YES,NO,YES,NO,YES,average,YES,little,never,center,4.9,51,7.4,2.6,2.7,0.9,1.2,1.5,31
+466,Y,type 2,female,60,MOM,YES,17,16,2,9,YES,YES,little,4,NO,NO,NO,YES,NO,cerebrovascular disease,YES,YES,NO,YES,YES,NO,NO,YES,YES,NO,profusely,YES,profusely,average,south,3.6,36,8.3,5.9,2,1,1.5,1.5,36
+467,Y,Dont know,female,61,MOM,NO,12,1,3,5,NO,YES,never,17,NO,NO,YES,YES,YES,neuropathy,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,average,NO,profusely,profusely,south,4.1,45,8,4.2,0.9,1.6,1.3,1.5,33
+468,Y,type 2,female,54,DAD,YES,16,14,0,0,NO,NO,much,5,NO,YES,NO,YES,NO,Diabetic nephropathy,NO,YES,YES,YES,NO,YES,YES,YES,NO,YES,average,YES,never,average,south,11.3,130,7.7,6.3,5.4,0.8,3.3,2.4,33
+469,Y,type 2,female,60,MOM,YES,8,14,15,7,NO,NO,little,4,YES,NO,YES,YES,YES,diabetic eye complications,YES,YES,YES,NO,NO,NO,YES,NO,YES,YES,average,YES,little,average,north,4.1,56,13.1,4.4,2,1,2.5,0.9,29
+470,Y,type 2,male,60,BOTH,YES,8,0,1,4,NO,NO,much,4,YES,NO,NO,YES,YES,Cardiovascular complications,YES,NO,NO,YES,YES,NO,YES,NO,NO,NO,in the past,NO,never,profusely,center,5.5,70,10.4,9.9,3.5,1,7.5,1.5,31
+471,Y,type 2,male,63,BOTH,YES,15,7,7,5,NO,YES,little,24,YES,NO,YES,NO,NO,neuropathy,NO,NO,YES,NO,YES,YES,YES,YES,NO,YES,profusely,YES,little,profusely,north,4.4,57,11.3,9.8,1.9,1.1,7.9,0.8,35
+472,Y,type 2,male,55,BOTH,YES,14,7,3,6,YES,NO,much,5,YES,NO,YES,NO,NO,nothing,NO,NO,YES,NO,YES,YES,YES,YES,YES,NO,average,NO,in the past,profusely,south,4.2,68,8.3,4.8,3.1,0.4,2.4,1.4,33
+473,Y,type 2,male,66,NO,YES,7,17,3,4,NO,YES,never,21,YES,YES,NO,NO,YES,Diabetic nephropathy,YES,NO,YES,NO,NO,NO,NO,NO,YES,YES,never,YES,never,little,center,5.5,73,10.9,9.3,5.1,0.9,6.4,35,27.75
+474,Y,type 2,male,52,BOTH,NO,11,3,9,10,NO,NO,middle,24,YES,YES,YES,YES,NO,Diabetic nephropathy,YES,YES,NO,YES,NO,YES,NO,YES,NO,NO,in the past,YES,little,profusely,north,4.9,68,10.2,5.9,2.9,1,3.6,1.3,39
+475,Y,type 2,female,51,MOM,YES,5,2,15,3,NO,YES,middle,23,YES,YES,NO,YES,YES,cerebrovascular disease,YES,NO,NO,YES,YES,NO,YES,YES,YES,YES,average,NO,in the past,average,center,4.1,78,7.2,7.2,5.3,1,3.8,2.4,38
+476,Y,type 2,male,55,MOM,NO,8,2,11,0,NO,YES,never,0,YES,NO,YES,NO,YES,diabetic eye complications,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,average,YES,never,little,north,5,73,6.5,4.7,2.1,1.1,2.7,31,35.2
+477,Y,type 2,female,58,DAD,YES,0,16,14,2,NO,NO,little,7,YES,YES,NO,YES,NO,Cardiovascular complications,NO,NO,NO,YES,YES,NO,YES,NO,YES,NO,average,NO,never,never,north,5.8,41,9.7,5,4.5,1.1,2.2,2,37
+478,Y,type 2,female,56,MOM,YES,10,6,3,6,NO,NO,much,23,NO,YES,YES,NO,YES,diabetic eye complications,YES,YES,YES,NO,NO,YES,NO,NO,YES,NO,in the past,YES,profusely,average,north,5.6,45,10.8,4.2,2.2,1,2.2,1,26
+479,Y,type 2,male,55,NO,YES,17,17,9,5,NO,NO,never,8,YES,NO,NO,NO,YES,diabetic eye complications,NO,YES,YES,NO,NO,NO,YES,NO,YES,YES,never,NO,average,never,center,4.66,70,7.5,7.3,1.6,1.2,5.5,11.3,36.11
+480,Y,Dont know,male,55,MOM,NO,17,10,9,10,YES,YES,middle,25,YES,NO,YES,NO,NO,diabetic eye complications,YES,YES,NO,YES,NO,YES,YES,YES,YES,YES,in the past,NO,little,average,south,22,145,8,6.7,3.7,1.7,2,1.5,33
+481,Y,type 1,male,54,NO,NO,5,7,5,8,YES,YES,little,2,YES,YES,YES,YES,YES,diabetic eye complications,NO,NO,NO,NO,YES,YES,YES,YES,YES,NO,little,NO,average,average,south,3,40,6,2.9,1.2,1,1.4,0.5,32
+482,Y,type 2,male,53,MOM,NO,7,4,12,4,NO,YES,much,11,YES,YES,YES,YES,YES,nothing,NO,YES,NO,YES,YES,NO,NO,YES,NO,NO,never,YES,little,little,north,2.7,38,8.8,4.8,1.3,1.7,1.6,2,26
+483,Y,type 2,male,68,NO,YES,15,5,0,1,NO,NO,much,13,NO,NO,NO,NO,NO,nothing,NO,YES,NO,NO,YES,YES,NO,YES,YES,YES,profusely,NO,profusely,little,south,7.1,79,9.4,3.7,3.7,0.8,1.4,1.6,31
+484,Y,type 2,male,61,NO,YES,14,13,10,1,YES,NO,never,22,YES,YES,NO,YES,YES,Cardiovascular complications,NO,NO,YES,YES,NO,NO,NO,YES,YES,YES,little,YES,average,never,north,3,42,8,6,3.1,1,3.7,1.4,27
+485,Y,type 2,male,53,DAD,NO,7,9,9,5,NO,YES,little,16,NO,YES,NO,NO,NO,diabetic eye complications,YES,NO,NO,YES,NO,NO,YES,YES,YES,NO,in the past,YES,in the past,never,south,5.2,59,7.8,4.9,2.1,0.9,3.2,0.9,33
+486,Y,type 2,female,60,NO,YES,3,0,11,7,YES,YES,little,17,NO,NO,NO,NO,YES,diabetic foot,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,never,NO,little,never,center,5.9,41,6.6,2.8,2.7,0.5,1.1,1.2,28
+487,Y,type 2,male,52,BOTH,YES,14,8,10,9,YES,YES,much,0,YES,NO,NO,YES,NO,diabetic foot,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,in the past,YES,in the past,average,center,11,26,8.3,6.8,3.7,0.9,1.7,1.6,29
+488,Y,type 2,male,60,NO,YES,9,4,3,0,NO,NO,never,25,NO,YES,NO,YES,NO,diabetic foot,NO,NO,YES,NO,YES,YES,NO,YES,NO,NO,profusely,NO,average,profusely,north,2.1,56,7.6,3.3,1.7,0.9,1.7,0.8,36.6
+489,Y,type 2,male,51,MOM,YES,8,11,1,5,NO,NO,much,2,YES,YES,YES,NO,YES,diabetic foot,NO,YES,NO,NO,YES,NO,NO,NO,YES,YES,in the past,YES,never,profusely,north,5.5,75,10.8,3.9,1.2,1.1,2.3,0.5,36.6
+490,Y,type 2,male,55,NO,YES,7,0,7,2,YES,NO,little,2,YES,NO,YES,YES,YES,Diabetic nephropathy,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,little,NO,never,never,center,3.33,68,7.2,4,2.3,1.05,2.04,16.3,38.62
+491,Y,type 2,male,53,BOTH,YES,3,14,15,9,YES,NO,much,15,YES,NO,YES,NO,NO,nothing,NO,NO,NO,YES,NO,YES,NO,NO,YES,NO,average,YES,profusely,little,south,5.2,59,7.8,4.9,2.1,0.9,3.2,0.9,30
+492,Y,type 2,female,63,BOTH,YES,11,6,4,8,YES,YES,middle,16,NO,YES,NO,YES,YES,nothing,YES,YES,YES,YES,YES,NO,NO,YES,NO,YES,profusely,NO,little,little,north,4.8,52,8.9,4.8,1.5,1,3.1,0.6,28
+493,Y,type 2,female,56,BOTH,NO,11,13,2,5,YES,NO,much,16,NO,NO,YES,NO,NO,diabetic eye complications,NO,YES,YES,YES,NO,NO,YES,YES,NO,YES,never,YES,average,little,north,2.6,68,8,3,2,1.1,2.3,0.5,30
+494,Y,type 2,female,59,BOTH,YES,1,3,10,5,NO,YES,little,20,NO,NO,NO,YES,YES,Diabetic nephropathy,YES,NO,YES,NO,YES,YES,NO,YES,YES,NO,average,YES,in the past,little,north,3.1,66,11.8,3.1,2.2,2.4,2.8,1,31
+495,Y,type 2,male,54,DAD,NO,0,12,15,5,NO,NO,middle,23,YES,NO,YES,YES,NO,cerebrovascular disease,NO,NO,YES,YES,YES,NO,NO,YES,YES,YES,in the past,NO,profusely,never,north,5,59,9.3,3.8,1,1.8,1,0.4,36
+496,Y,type 2,male,55,MOM,YES,9,8,10,3,NO,YES,much,10,NO,YES,YES,YES,NO,nothing,YES,NO,YES,YES,YES,YES,NO,NO,YES,YES,in the past,NO,profusely,never,north,6.5,72,7.4,4.4,1.3,1,2.5,0.9,35
+497,Y,type 2,female,57,MOM,YES,12,13,6,8,YES,YES,little,6,NO,NO,NO,YES,NO,Diabetic nephropathy,NO,YES,NO,YES,NO,YES,YES,YES,YES,YES,profusely,NO,little,average,south,3.7,36,10.6,5.9,1.6,1.2,4,0.7,33
+498,Y,type 2,female,54,NO,YES,5,13,14,7,YES,NO,never,8,NO,NO,YES,YES,YES,Diabetic nephropathy,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,never,NO,profusely,profusely,north,3.4,52,12,4.4,1.3,1.9,2,0.5,35
+499,Y,type 2,female,53,NO,YES,16,9,5,1,YES,YES,never,7,NO,YES,YES,NO,NO,neuropathy,YES,YES,YES,YES,YES,NO,NO,YES,YES,NO,in the past,NO,in the past,never,north,3.3,48,12.8,5.1,3,0.9,2.9,1.3,37
+500,Y,type 2,male,51,DAD,NO,1,17,13,6,NO,NO,never,13,NO,NO,NO,NO,NO,Diabetic nephropathy,YES,YES,NO,YES,YES,YES,NO,YES,NO,YES,never,YES,profusely,never,south,3.2,49,6.7,4.6,1.2,1.3,2.8,0.5,34
+501,Y,type 2,male,60,MOM,YES,11,14,0,1,NO,NO,little,23,YES,YES,YES,NO,NO,neuropathy,YES,NO,NO,NO,NO,YES,YES,YES,NO,YES,little,YES,in the past,little,center,5.6,74,2,5.2,2,1.6,1.8,1,33
+502,Y,type 2,female,60,DAD,NO,16,2,5,7,YES,NO,never,7,NO,NO,YES,YES,YES,cerebrovascular disease,YES,NO,YES,YES,NO,YES,YES,YES,NO,YES,little,NO,in the past,average,north,5.1,45,6.3,5.2,1.5,1.6,1.8,1,39
+503,Y,Dont know,male,61,DAD,YES,12,11,9,0,YES,YES,middle,11,NO,NO,NO,NO,YES,diabetic eye complications,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,never,YES,average,little,south,0.5,59,7.5,4.5,1.8,1,2.7,0.8,38
+504,Y,type 2,male,55,DAD,YES,7,14,11,6,YES,NO,middle,18,NO,YES,YES,NO,NO,Cardiovascular complications,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES,average,NO,average,little,south,3.2,49,6.7,4.6,1.2,1.3,2.8,0.5,30.2
+505,Y,type 2,female,63,DAD,YES,7,14,9,9,NO,NO,little,15,YES,YES,NO,YES,NO,Diabetic nephropathy,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,in the past,NO,profusely,profusely,center,6.1,46,9.8,3.9,0.8,1.8,1.9,1,37
+506,Y,type 2,male,55,DAD,NO,15,4,11,6,YES,YES,much,17,YES,NO,YES,NO,NO,cerebrovascular disease,NO,NO,NO,NO,NO,NO,YES,YES,YES,NO,in the past,NO,average,average,south,2.6,48,11.8,5.1,1.2,1,3.6,1.6,36
+507,Y,type 2,male,55,NO,NO,0,6,0,7,NO,NO,never,15,YES,NO,NO,YES,NO,nothing,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,profusely,NO,profusely,little,center,2.6,48,11.8,5.1,1.2,1,3.6,0.5,33
+508,Y,type 2,female,52,BOTH,NO,11,6,14,10,YES,YES,much,8,NO,YES,NO,NO,YES,diabetic eye complications,NO,YES,NO,YES,NO,YES,NO,YES,YES,NO,average,NO,profusely,average,north,3.3,37,9,3.1,1,0.8,1.9,0.5,32
+509,Y,type 2,male,51,DAD,NO,2,14,12,4,NO,NO,little,18,YES,NO,YES,YES,YES,Diabetic nephropathy,YES,YES,NO,YES,NO,YES,NO,YES,NO,NO,profusely,YES,in the past,little,south,3.4,40,14.7,2.6,1.1,0.6,1.5,0.5,26
+510,Y,type 2,male,55,BOTH,YES,17,8,7,0,NO,YES,little,25,YES,NO,NO,YES,NO,diabetic eye complications,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,profusely,NO,average,average,south,2.6,48,11.8,5.1,1.2,1,3.6,1.6,30
+511,Y,type 2,female,58,NO,NO,4,12,7,8,NO,NO,middle,15,YES,NO,NO,YES,NO,neuropathy,NO,NO,NO,YES,YES,YES,YES,YES,NO,YES,never,NO,never,average,north,3,50,11.9,4.4,1.6,1,4.1,1,27
+512,Y,type 2,male,55,BOTH,NO,17,16,10,5,YES,NO,middle,19,YES,YES,YES,YES,YES,neuropathy,NO,YES,NO,NO,YES,NO,YES,YES,YES,YES,average,YES,little,average,south,6.66,61,6.7,2.5,4.9,0.8,0.5,33.6,29
+513,Y,type 2,male,55,DAD,NO,10,15,1,0,NO,YES,middle,15,NO,YES,NO,NO,NO,cerebrovascular disease,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,average,NO,in the past,little,north,7.8,99,7.1,2.7,1,0.8,1.4,0.5,28
+514,Y,type 2,female,64,DAD,YES,7,7,11,1,YES,YES,middle,15,YES,NO,YES,NO,YES,diabetic eye complications,YES,NO,YES,YES,YES,NO,YES,YES,YES,YES,never,NO,never,average,south,5.3,48,7.3,3.5,1.4,1.1,1.7,0.6,31
+515,Y,type 2,male,55,NO,YES,0,1,3,9,NO,NO,never,25,NO,NO,NO,NO,YES,cerebrovascular disease,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,average,YES,in the past,average,south,6.5,72,7.4,4.4,1.3,1,2.5,0.9,35
+516,Y,type 2,male,55,BOTH,YES,0,13,6,4,YES,YES,much,6,YES,NO,YES,YES,YES,diabetic foot,YES,NO,YES,YES,NO,NO,NO,YES,YES,NO,profusely,NO,in the past,never,center,5.4,56,7.9,4.9,2.1,1.1,2.5,0.9,28
+517,Y,type 1,male,54,NO,YES,4,11,7,6,NO,YES,little,24,NO,NO,YES,NO,NO,nothing,YES,NO,YES,NO,NO,NO,NO,YES,YES,YES,average,NO,little,profusely,south,5.4,84,8.1,5.2,3.3,1.4,2,1.5,29
+518,Y,type 2,female,53,MOM,YES,16,10,7,8,NO,YES,much,7,NO,YES,YES,NO,NO,cerebrovascular disease,NO,YES,YES,YES,YES,YES,NO,YES,YES,YES,little,YES,average,profusely,south,4.7,53,8.6,6.2,1.7,1.1,4.3,0.8,30
+519,Y,type 2,female,56,MOM,NO,3,4,11,7,YES,NO,little,2,NO,YES,YES,YES,NO,Cardiovascular complications,NO,YES,YES,YES,NO,YES,YES,NO,YES,YES,little,NO,average,little,north,4,45,9.2,4.1,0.6,1.3,1.4,0.9,30
+520,Y,type 2,female,55,NO,YES,14,10,11,10,NO,YES,never,0,YES,NO,YES,NO,YES,Cardiovascular complications,NO,YES,NO,YES,YES,YES,YES,YES,NO,NO,little,YES,average,little,south,4.4,48,7.7,3.4,0.7,1,2.1,0.4,29
+521,Y,type 2,male,67,DAD,NO,5,14,5,1,YES,YES,little,18,YES,YES,NO,NO,YES,Diabetic nephropathy,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,profusely,YES,little,profusely,south,7.8,99,7.1,2.7,1,0.8,1.4,0.5,29.63
+522,Y,type 2,male,61,DAD,YES,15,10,5,3,YES,NO,never,20,NO,NO,YES,NO,YES,diabetic foot,YES,NO,NO,YES,YES,YES,YES,YES,YES,NO,in the past,YES,never,never,south,7.8,89,10.9,4.9,1.7,1,3.2,0.7,31
+523,Y,type 1,female,56,DAD,YES,12,0,4,8,YES,NO,much,11,YES,NO,YES,NO,NO,neuropathy,YES,YES,YES,YES,NO,NO,NO,YES,YES,NO,never,YES,profusely,profusely,center,7.7,68,9.8,6.1,3.2,0.7,4.1,1.4,27
+524,Y,type 2,female,60,NO,YES,4,11,1,7,YES,NO,much,5,YES,YES,YES,NO,NO,Cardiovascular complications,YES,NO,YES,NO,YES,YES,YES,NO,NO,YES,little,YES,little,profusely,north,3.7,53,9,5.8,2,1.4,2,1.5,36
+525,Y,type 2,female,52,DAD,NO,16,0,13,2,YES,YES,much,3,NO,YES,YES,NO,YES,neuropathy,YES,YES,NO,NO,NO,YES,YES,NO,YES,YES,little,NO,in the past,never,center,4.4,48,7.7,3.4,0.7,1,2.1,0.4,33
+526,Y,type 2,female,56,DAD,YES,3,3,9,3,YES,NO,little,14,NO,NO,NO,YES,YES,Cardiovascular complications,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,little,NO,never,never,south,5.6,46,9.1,5.6,5.8,1.6,1.7,1,35
+527,Y,type 2,female,59,MOM,NO,0,17,11,3,YES,YES,much,13,YES,YES,NO,YES,YES,neuropathy,YES,YES,NO,YES,NO,NO,YES,YES,NO,NO,never,NO,little,profusely,center,6.2,68,8.1,5.5,2.2,0.7,2,1.5,33
+528,Y,type 2,male,54,BOTH,YES,9,11,1,7,NO,NO,little,22,YES,NO,NO,NO,NO,Cardiovascular complications,YES,NO,NO,NO,YES,YES,YES,NO,NO,NO,little,NO,little,never,north,6.8,73,7.5,5.1,2,1.3,1.4,1.5,39
+529,Y,type 2,female,57,MOM,NO,17,7,6,8,YES,NO,little,16,NO,NO,YES,NO,YES,cerebrovascular disease,NO,YES,NO,YES,NO,NO,NO,YES,YES,YES,average,YES,profusely,average,center,4.5,68,9,4.5,4.1,0.7,2.3,1.9,38
+530,Y,type 2,male,54,MOM,NO,10,6,5,6,YES,NO,never,0,YES,YES,YES,NO,YES,neuropathy,NO,YES,YES,YES,YES,YES,YES,NO,NO,YES,little,NO,profusely,profusely,north,5.3,88,8,5,6.7,0.9,2.6,2.6,37
+531,Y,type 2,male,60,BOTH,NO,16,2,1,10,NO,YES,middle,2,YES,YES,YES,YES,NO,nothing,YES,YES,NO,YES,NO,YES,YES,YES,YES,YES,average,NO,little,little,north,3.3,73,9,5.1,3,1.1,2.6,1.3,33
+532,Y,Dont know,female,67,BOTH,NO,2,5,12,2,NO,NO,little,3,YES,YES,YES,NO,NO,cerebrovascular disease,YES,YES,NO,YES,NO,YES,YES,NO,YES,NO,in the past,NO,in the past,never,center,4.5,56,13.1,4.4,2,1,2.5,0.9,29
+533,Y,type 2,female,60,BOTH,YES,3,5,8,10,NO,YES,little,4,NO,NO,YES,YES,NO,neuropathy,YES,YES,NO,YES,YES,YES,YES,YES,YES,NO,average,NO,profusely,never,center,3.8,34,8.3,4.3,3,1.4,2.5,2,32
+534,Y,type 2,female,61,NO,YES,14,5,11,0,NO,YES,middle,25,YES,YES,NO,NO,NO,cerebrovascular disease,NO,NO,YES,NO,NO,YES,NO,YES,NO,NO,little,YES,little,average,center,13.2,98,8,6.6,4.5,1.6,0.9,2,26
+535,Y,type 2,male,63,BOTH,YES,7,0,0,8,NO,YES,little,12,YES,YES,NO,NO,NO,nothing,YES,NO,NO,NO,NO,YES,YES,YES,YES,NO,profusely,NO,in the past,average,south,6.6,64,9.4,4,0.9,0.9,4,0.4,27
+536,Y,type 2,female,61,MOM,NO,8,7,4,4,NO,NO,middle,11,YES,YES,YES,NO,YES,cerebrovascular disease,NO,YES,YES,NO,YES,YES,YES,NO,YES,NO,profusely,NO,little,profusely,south,24,401,7,4.3,2.9,0.4,2.7,1.3,30
+537,Y,type 2,female,55,DAD,NO,7,5,13,6,YES,YES,never,12,YES,NO,YES,YES,NO,diabetic foot,YES,YES,NO,NO,NO,NO,YES,YES,YES,YES,average,YES,in the past,profusely,south,24,401,6.3,4.3,2.9,0.4,2.7,1.3,28
+538,Y,type 2,male,52,DAD,YES,2,6,6,5,YES,NO,little,3,YES,NO,NO,YES,NO,neuropathy,YES,YES,YES,NO,NO,YES,NO,YES,NO,YES,in the past,NO,profusely,never,north,5.3,56,8.8,5.3,2.5,1.1,2.3,1.1,29
+539,Y,type 2,female,61,BOTH,YES,12,0,1,7,YES,YES,little,18,YES,YES,NO,NO,NO,diabetic foot,YES,NO,YES,YES,NO,YES,YES,YES,YES,YES,average,NO,average,profusely,north,24,401,7,4.3,2.9,0.4,2.7,1.3,36.6
+540,Y,type 2,male,54,BOTH,NO,17,3,4,9,YES,NO,never,6,NO,YES,YES,YES,NO,Diabetic nephropathy,YES,YES,YES,NO,NO,YES,YES,YES,YES,NO,average,NO,never,never,south,5.1,56,8.5,4.9,2.1,1.1,2.5,0.9,28
+541,Y,type 2,male,51,MOM,NO,4,12,12,5,NO,NO,much,25,NO,NO,NO,NO,NO,cerebrovascular disease,NO,YES,NO,YES,YES,NO,YES,YES,YES,YES,never,NO,profusely,never,center,4,95,7.1,4.2,1.9,0.9,1.1,0.8,30
+542,Y,type 2,male,58,BOTH,YES,8,15,1,0,YES,YES,much,9,NO,YES,YES,NO,YES,cerebrovascular disease,NO,NO,YES,YES,NO,YES,NO,YES,YES,NO,profusely,NO,average,average,south,5.2,63,7.5,3.6,5.1,0.9,2.5,0.9,30
+543,Y,type 2,male,52,BOTH,YES,0,10,5,9,NO,NO,much,14,YES,NO,NO,NO,YES,diabetic foot,YES,YES,YES,YES,YES,NO,NO,YES,NO,YES,little,YES,average,never,north,5.3,95,7.8,4.9,4.9,0.9,2.8,2.2,28
+544,Y,type 2,female,51,MOM,YES,5,6,6,8,NO,NO,never,11,NO,NO,NO,NO,NO,Cardiovascular complications,YES,NO,NO,NO,NO,NO,YES,YES,YES,NO,little,NO,in the past,little,north,4.2,72,11.2,4.4,2.1,1.1,2.5,0.9,26
+545,Y,type 2,female,61,NO,NO,2,14,6,7,NO,YES,never,13,NO,YES,YES,YES,NO,diabetic foot,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,profusely,YES,average,average,center,5.1,72,11.5,4.4,2.1,1.1,2.5,0.9,26
+546,Y,Dont know,male,59,NO,NO,9,13,11,7,NO,YES,little,6,NO,NO,NO,YES,NO,diabetic foot,YES,NO,YES,YES,NO,NO,YES,YES,YES,YES,profusely,YES,in the past,little,center,4.2,56,10.5,4.9,2.1,1.1,2.5,0.9,28
+547,Y,type 2,female,67,DAD,NO,3,13,8,5,NO,YES,never,5,YES,YES,YES,YES,YES,Diabetic nephropathy,NO,NO,YES,NO,YES,NO,NO,YES,NO,YES,in the past,YES,average,average,south,4.5,56,13.1,4.4,2,1,2.5,0.9,29
+548,Y,type 2,female,55,BOTH,NO,4,14,9,9,YES,YES,little,7,NO,NO,NO,YES,YES,diabetic foot,YES,YES,NO,NO,YES,NO,NO,YES,NO,NO,never,YES,never,never,north,4.9,63,3.7,6.1,1.6,1.4,4,0.7,26
+549,Y,Dont know,male,58,MOM,NO,14,16,0,6,YES,YES,middle,22,NO,YES,YES,YES,YES,neuropathy,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,never,YES,average,average,south,10,112,9,4.5,2.9,1.9,1.5,2,31
+550,Y,type 2,female,55,DAD,NO,10,4,6,6,YES,YES,never,11,NO,YES,NO,NO,YES,cerebrovascular disease,NO,YES,YES,NO,NO,YES,NO,NO,YES,NO,in the past,NO,never,average,north,6.2,52,9.3,5.6,3.7,1.3,1.5,2,36
+551,Y,type 2,male,60,NO,YES,7,5,9,1,YES,YES,little,16,YES,NO,NO,YES,NO,neuropathy,YES,YES,YES,NO,NO,NO,NO,YES,YES,YES,average,NO,average,little,north,4,63,12,3.6,5.1,0.9,2.5,0.9,30
+552,Y,type 2,male,60,BOTH,YES,3,5,0,4,NO,NO,middle,0,NO,NO,NO,YES,NO,Diabetic nephropathy,NO,NO,YES,YES,YES,YES,YES,NO,NO,YES,little,YES,little,never,south,4.2,39,8.8,4.5,2.2,1.1,1.4,1.1,34
+553,Y,type 1,male,54,DAD,NO,1,3,6,7,YES,YES,never,12,YES,NO,YES,NO,NO,Cardiovascular complications,YES,YES,NO,YES,NO,YES,YES,YES,NO,YES,in the past,YES,in the past,never,south,5.8,76,7.3,5.1,1.2,1.8,1.9,0.7,33
+554,Y,Dont know,female,53,DAD,NO,16,0,5,1,YES,NO,much,7,NO,NO,YES,NO,NO,cerebrovascular disease,YES,NO,YES,YES,NO,YES,YES,YES,NO,YES,in the past,NO,average,little,south,10.3,83,10.9,7.2,3.4,1.8,4.1,1,35
+555,Y,type 2,female,61,NO,YES,0,1,2,8,YES,NO,never,7,NO,NO,YES,NO,YES,Diabetic nephropathy,NO,YES,NO,YES,NO,NO,YES,YES,YES,YES,in the past,NO,average,profusely,south,3,40,12.4,4.7,1.5,0.9,1,0.7,33
+556,Y,type 2,male,62,MOM,YES,4,2,13,5,YES,YES,little,4,YES,YES,YES,NO,NO,diabetic eye complications,YES,NO,YES,NO,NO,NO,YES,YES,NO,NO,in the past,NO,never,profusely,south,5,63,12.2,3.6,5.1,0.9,2.5,0.9,30
+557,Y,type 2,female,55,BOTH,NO,16,0,11,8,YES,NO,middle,19,NO,NO,NO,NO,NO,neuropathy,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES,never,YES,average,profusely,north,4,56,13.7,4.4,2,1,2.5,0.9,37
+558,Y,type 2,female,51,DAD,NO,8,5,4,3,NO,YES,much,25,NO,NO,NO,YES,NO,Cardiovascular complications,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES,never,NO,in the past,profusely,center,4.2,72,11.2,4.4,2.1,1.1,2.5,0.9,26
+559,Y,type 2,male,63,NO,YES,3,14,8,6,NO,YES,little,11,YES,YES,YES,NO,NO,diabetic foot,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES,in the past,NO,little,profusely,center,5.9,63,7.1,3.6,5.1,0.9,2.5,0.9,30
+560,Y,Dont know,female,55,BOTH,NO,8,4,6,8,YES,YES,middle,25,NO,YES,YES,YES,NO,neuropathy,NO,YES,YES,YES,NO,YES,NO,NO,NO,NO,never,NO,profusely,profusely,north,4.9,63,3.7,6.1,1.6,1.4,4,0.7,34
+561,Y,type 2,female,57,DAD,NO,1,17,8,3,YES,NO,little,0,YES,YES,NO,NO,NO,Cardiovascular complications,NO,YES,NO,NO,YES,NO,NO,YES,NO,YES,average,YES,average,average,south,3.2,31,11.9,6.1,2.6,0.9,4.1,1.1,30.1
+562,Y,type 2,female,60,NO,NO,11,15,13,10,YES,NO,never,7,YES,NO,YES,YES,NO,Diabetic nephropathy,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,average,YES,little,profusely,center,3.2,31,11.9,6.1,2.6,0.9,4.1,1.1,39
+563,Y,Dont know,female,70,BOTH,NO,7,12,15,3,NO,NO,little,16,YES,YES,YES,YES,NO,cerebrovascular disease,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES,average,NO,profusely,profusely,south,5.5,38,8.7,5.9,1.3,1.4,0.75,0.6,30
+564,Y,type 2,female,79,DAD,NO,6,7,12,8,YES,NO,little,14,YES,YES,YES,YES,NO,neuropathy,YES,NO,YES,YES,YES,YES,NO,NO,YES,NO,little,NO,profusely,average,center,5.2,54,9.2,6.4,3,1.1,4.1,1.3,30
+565,Y,type 2,female,54,NO,YES,13,15,8,2,NO,YES,little,25,YES,YES,NO,YES,YES,nothing,NO,YES,NO,YES,NO,NO,YES,YES,YES,NO,average,YES,average,little,north,5.3,45,9,5.7,3.3,0.8,3.6,1.5,27
+566,Y,Dont know,female,66,DAD,YES,0,3,2,0,YES,NO,never,9,YES,YES,YES,YES,NO,nothing,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,little,NO,in the past,average,south,4.9,41,5.7,5.2,1.4,0.9,2.3,0.5,30
+567,Y,type 2,female,52,NO,NO,7,12,13,3,YES,NO,middle,10,YES,NO,YES,NO,YES,diabetic eye complications,YES,YES,YES,NO,YES,NO,YES,YES,NO,NO,average,YES,average,average,south,5.3,45,9,5.7,3.3,3.6,1.5,1,38
+568,Y,type 2,male,68,DAD,NO,17,10,4,6,YES,YES,never,5,YES,YES,YES,YES,NO,diabetic eye complications,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,profusely,YES,in the past,average,north,7.4,98,12.9,8.8,4.5,1.1,5.6,2.1,29
+569,Y,type 2,female,56,BOTH,YES,2,15,5,10,NO,YES,much,23,YES,NO,YES,YES,YES,diabetic foot,YES,NO,NO,NO,YES,NO,NO,YES,NO,YES,never,YES,profusely,profusely,north,4.7,55,12.6,7.9,5,1.3,1.6,1,37
+570,Y,Dont know,female,55,NO,YES,9,2,4,8,NO,YES,never,2,NO,NO,YES,NO,YES,diabetic foot,YES,YES,NO,NO,YES,NO,YES,YES,NO,NO,in the past,YES,profusely,never,south,2.9,41,9.5,5.9,1.7,1.2,3.6,0.8,26
+571,Y,Dont know,male,59,BOTH,NO,0,11,9,4,NO,YES,middle,18,NO,YES,YES,YES,YES,Diabetic nephropathy,YES,YES,NO,YES,NO,YES,YES,YES,NO,NO,never,YES,average,never,north,6.8,62,8.9,4.5,1.2,0.9,3.1,0.5,33
+572,Y,type 2,male,54,MOM,YES,3,11,13,8,NO,YES,much,18,NO,NO,NO,NO,YES,neuropathy,YES,YES,YES,NO,YES,NO,YES,YES,NO,YES,never,YES,little,average,south,4.9,66,8.7,5.7,2.3,1.1,2.3,1,32
+573,Y,Dont know,male,54,DAD,NO,16,16,15,6,YES,YES,much,7,YES,YES,YES,NO,NO,diabetic foot,YES,NO,YES,NO,YES,YES,YES,NO,YES,YES,little,NO,profusely,never,center,4.3,63,12.1,3.6,5.1,0.9,2.5,0.9,30
+574,Y,type 2,female,66,NO,NO,11,10,4,5,YES,YES,never,1,NO,NO,YES,NO,NO,diabetic eye complications,YES,YES,YES,NO,YES,YES,NO,YES,YES,YES,in the past,NO,in the past,little,center,5.5,56,9.9,4.4,2,1,2.5,0.9,29
+575,Y,type 2,male,62,DAD,NO,17,13,8,4,YES,YES,never,24,NO,NO,NO,NO,NO,diabetic eye complications,NO,NO,YES,YES,YES,NO,NO,NO,YES,YES,average,NO,little,average,center,4.1,63,9.5,3.6,5.1,0.9,2.5,0.9,30
+576,Y,type 2,male,57,DAD,NO,8,17,4,3,NO,NO,little,12,YES,NO,YES,NO,YES,diabetic foot,YES,NO,YES,NO,YES,NO,YES,NO,YES,NO,average,YES,average,never,center,4.1,63,9.7,3.6,5.1,0.9,2.5,0.9,30
+577,Y,type 2,male,57,DAD,YES,14,12,7,9,YES,YES,never,21,YES,YES,YES,NO,YES,cerebrovascular disease,NO,NO,YES,YES,NO,YES,YES,NO,YES,NO,average,NO,average,never,south,7.4,43,9,3.9,1.4,0.7,2.6,0.6,26
+578,Y,type 2,female,54,MOM,YES,17,16,7,6,YES,YES,little,21,YES,YES,YES,YES,NO,diabetic eye complications,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,average,NO,profusely,never,north,3.8,32,10.8,3.4,0.8,1.4,1.6,1.5,27
+579,Y,type 2,male,76,BOTH,YES,5,7,8,2,NO,NO,little,5,YES,NO,YES,YES,YES,diabetic eye complications,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,in the past,NO,profusely,never,south,5.9,56,10.9,4.6,7,0.6,1.3,3.1,33
+580,Y,type 2,male,54,DAD,NO,14,17,9,8,YES,YES,never,9,YES,YES,NO,NO,YES,Cardiovascular complications,YES,YES,NO,NO,YES,NO,YES,YES,NO,NO,profusely,NO,never,little,center,4.3,63,12.1,3.6,5.1,0.9,2.5,0.9,30
+581,Y,type 2,female,53,MOM,NO,3,10,12,4,NO,NO,never,7,YES,YES,NO,YES,YES,neuropathy,NO,YES,YES,NO,YES,NO,YES,YES,YES,NO,never,YES,average,little,center,3.3,48,12.8,5.1,3,0.9,2.9,1.3,37
+582,Y,type 2,male,76,BOTH,YES,13,5,8,0,NO,YES,never,22,NO,NO,YES,YES,YES,Diabetic nephropathy,YES,NO,YES,YES,NO,NO,YES,NO,NO,NO,little,YES,little,never,center,5.9,56,10.9,4.6,7,0.6,1.3,3.1,31
+583,Y,type 2,male,55,DAD,NO,0,1,8,1,YES,YES,little,22,YES,YES,NO,YES,NO,Diabetic nephropathy,YES,NO,YES,YES,NO,NO,NO,YES,YES,YES,never,YES,little,profusely,center,6.833,64,6.7,4.8,2.8,0.9,2.7,19.5,27
+584,Y,Dont know,female,60,DAD,YES,17,15,5,2,NO,NO,middle,10,YES,NO,NO,YES,YES,diabetic foot,YES,NO,YES,NO,YES,NO,YES,YES,NO,NO,profusely,NO,never,average,center,4.9,45,10.6,6.7,5.9,0.9,1.9,1.5,28
+585,Y,type 2,female,60,DAD,NO,8,15,6,7,YES,NO,much,10,YES,NO,YES,NO,YES,Diabetic nephropathy,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES,never,NO,average,average,south,3.8,44,9.4,7,2.2,0.5,1,1.5,29
+586,Y,type 2,male,61,MOM,NO,2,10,10,1,YES,YES,never,0,YES,NO,NO,YES,NO,nothing,YES,YES,NO,NO,YES,YES,YES,YES,NO,NO,little,NO,never,little,center,5.9,56,10.9,4.6,7,0.6,1.3,3.1,30
+587,Y,type 2,male,51,BOTH,NO,12,0,3,10,NO,NO,middle,10,NO,NO,YES,YES,YES,diabetic eye complications,NO,YES,NO,NO,NO,YES,NO,YES,YES,YES,average,YES,never,average,center,3.9,53,10.9,3.6,1.1,0.8,2.3,1,29
+588,Y,type 2,female,54,DAD,YES,0,17,7,2,NO,NO,middle,23,NO,NO,NO,YES,YES,diabetic foot,YES,YES,YES,NO,YES,NO,YES,NO,YES,YES,never,YES,profusely,average,north,7,72,7.6,4.9,2.8,0.8,3,1.2,31
+589,Y,type 2,male,56,MOM,YES,5,11,14,1,NO,NO,little,24,YES,NO,NO,YES,NO,nothing,YES,NO,NO,YES,YES,YES,NO,YES,YES,NO,little,NO,in the past,profusely,north,6.3,87,12.4,5,2.3,0.8,3.2,1,26
+590,Y,type 2,male,63,MOM,NO,6,0,1,0,YES,NO,much,2,NO,YES,YES,YES,NO,cerebrovascular disease,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,in the past,NO,never,profusely,center,6.3,87,12.4,5,2.3,0.8,3.2,1,31
+591,Y,type 2,male,55,MOM,YES,0,1,2,5,NO,NO,never,2,YES,NO,NO,NO,NO,diabetic foot,YES,YES,NO,YES,YES,NO,NO,NO,YES,YES,never,NO,profusely,average,north,3.6,74,11.7,6,3.3,1,3,1.3,36
+592,Y,type 2,male,59,NO,YES,14,1,6,10,NO,YES,never,22,NO,NO,NO,YES,NO,cerebrovascular disease,NO,NO,NO,YES,NO,NO,YES,NO,NO,YES,average,NO,in the past,never,north,4,56,10,4.9,2.1,1.1,2.5,0.9,28
+593,Y,type 2,male,59,BOTH,YES,9,7,11,5,YES,NO,little,0,YES,NO,YES,YES,NO,cerebrovascular disease,NO,YES,YES,NO,YES,NO,NO,YES,YES,YES,profusely,YES,in the past,little,south,4,56,10,4.9,2.1,1.1,2.5,0.9,28
+594,Y,type 1,male,54,NO,NO,4,16,13,6,NO,YES,middle,11,NO,NO,YES,NO,YES,Diabetic nephropathy,YES,NO,YES,YES,NO,YES,YES,NO,NO,NO,little,YES,profusely,never,south,5.1,56,8.5,4.9,2.1,1.1,2.5,0.9,28
+595,Y,type 2,male,55,BOTH,YES,6,9,7,2,NO,YES,middle,11,NO,NO,YES,NO,NO,neuropathy,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,profusely,YES,profusely,never,south,11.1,139,10.8,4.8,2.2,0.9,3,1,26
+596,Y,type 2,male,52,BOTH,YES,6,3,1,7,YES,YES,much,16,YES,NO,NO,NO,NO,cerebrovascular disease,NO,YES,YES,YES,YES,NO,NO,YES,YES,NO,average,YES,in the past,profusely,south,4.1,139,10.8,4.8,2.2,0.9,3,1,33
+597,Y,type 2,male,55,MOM,NO,16,3,7,8,YES,NO,middle,19,YES,YES,NO,NO,YES,neuropathy,YES,NO,YES,YES,YES,YES,YES,NO,NO,YES,average,NO,profusely,average,south,11.1,139,10.8,4.8,2.2,0.9,3,1,31
+598,Y,type 2,male,51,BOTH,YES,9,3,14,0,NO,NO,little,13,YES,NO,YES,NO,NO,diabetic foot,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,average,NO,little,little,center,6.1,56,8,4.9,2.1,1.1,2.5,0.9,28
+599,Y,type 2,female,60,DAD,NO,5,17,13,1,YES,YES,much,5,YES,NO,YES,YES,YES,cerebrovascular disease,NO,YES,NO,YES,NO,YES,NO,YES,YES,YES,little,NO,average,little,south,6,72,10.7,4.4,2.1,1.1,2.5,0.9,26
+600,Y,type 2,male,51,BOTH,YES,8,9,14,9,YES,YES,never,9,NO,NO,NO,YES,YES,nothing,NO,YES,NO,YES,YES,NO,NO,YES,YES,NO,never,NO,little,average,center,3.7,58,9,6.2,1.5,1.6,1.7,1.5,35
+601,Y,type 2,male,51,BOTH,NO,0,15,9,6,NO,YES,much,11,NO,YES,NO,NO,YES,Cardiovascular complications,YES,NO,NO,NO,YES,YES,YES,YES,YES,YES,in the past,NO,profusely,never,north,3.7,58,9,6.2,1.5,1.6,1.7,1.5,35
+602,Y,type 2,male,55,NO,NO,6,16,12,3,NO,YES,middle,2,NO,YES,NO,NO,NO,cerebrovascular disease,NO,NO,NO,YES,NO,YES,YES,YES,NO,YES,in the past,NO,never,little,south,6.7,56,10.6,6.2,1.6,1.35,0.95,0.6,36.6
+603,Y,type 2,female,62,MOM,NO,10,2,3,5,YES,NO,much,20,YES,YES,NO,YES,YES,Cardiovascular complications,NO,NO,NO,YES,NO,YES,NO,YES,YES,NO,profusely,NO,profusely,never,south,9.6,66,10.7,5.3,2.7,0.7,2.1,1.2,29
+604,Y,Dont know,male,58,MOM,YES,3,8,5,4,NO,YES,middle,25,YES,YES,YES,YES,NO,cerebrovascular disease,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,little,YES,average,little,south,5.3,62,10.2,4.1,3.8,1.1,1.3,1.5,33
+605,Y,type 2,female,67,MOM,NO,9,8,10,9,YES,NO,much,1,NO,NO,NO,NO,YES,neuropathy,NO,NO,YES,YES,YES,YES,NO,YES,YES,YES,little,YES,in the past,profusely,south,3.2,38,8.7,5,3,1.1,2.7,1.3,30
+606,Y,type 2,female,55,NO,YES,13,17,6,4,NO,NO,never,21,YES,YES,NO,YES,NO,diabetic eye complications,YES,YES,NO,YES,NO,YES,YES,NO,NO,NO,in the past,YES,average,average,north,2.1,39,8.5,4.4,1.9,1.5,1.6,1.5,39
+607,Y,Dont know,female,54,DAD,YES,7,8,4,0,YES,YES,little,5,YES,NO,NO,NO,NO,diabetic foot,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,average,YES,little,little,north,3.7,38,11.6,4.7,4,0.8,2.3,1.8,38
+608,Y,type 2,female,55,BOTH,NO,16,8,9,7,NO,YES,little,20,NO,YES,YES,NO,YES,cerebrovascular disease,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES,in the past,NO,never,never,north,2.6,36,8.4,6.3,1.5,2.6,1.9,0.6,30
+609,Y,type 2,male,55,MOM,YES,8,14,12,4,NO,NO,little,20,YES,NO,YES,NO,YES,diabetic eye complications,YES,YES,YES,YES,NO,NO,YES,YES,NO,NO,in the past,YES,little,profusely,center,6.5,65,10.2,10.3,2.6,1.03,5.9,18.1,30.1
+610,Y,Dont know,female,53,MOM,YES,16,0,4,5,NO,NO,much,14,YES,NO,YES,YES,NO,cerebrovascular disease,YES,YES,YES,YES,YES,YES,YES,NO,YES,YES,average,YES,little,little,north,3.9,45,11.5,5.2,2.2,1.2,3.6,1,37
+611,Y,type 2,male,55,MOM,YES,13,13,9,3,YES,NO,middle,19,YES,YES,YES,YES,YES,diabetic eye complications,NO,YES,NO,YES,YES,YES,NO,NO,YES,NO,average,YES,profusely,little,center,4.4,56,10,4.9,2.1,1.1,2.5,0.9,28
+612,Y,type 2,male,59,MOM,NO,8,11,15,0,YES,NO,middle,0,YES,YES,NO,NO,NO,Cardiovascular complications,YES,NO,YES,YES,NO,YES,YES,NO,NO,YES,average,NO,profusely,never,south,5.2,56,10.9,4.9,2.1,1.1,2.5,0.9,28
+613,Y,type 2,female,56,NO,YES,11,16,3,10,NO,YES,never,22,YES,NO,YES,YES,YES,neuropathy,YES,YES,NO,YES,YES,YES,YES,YES,NO,NO,in the past,YES,in the past,profusely,south,5.1,72,8.1,4.4,2.1,1.1,2.5,0.9,26
+614,Y,Dont know,female,61,DAD,YES,11,15,10,0,NO,NO,middle,9,YES,YES,YES,NO,YES,diabetic foot,NO,NO,NO,YES,NO,YES,NO,NO,YES,YES,in the past,YES,average,profusely,center,2.5,45,11.6,9.7,13.8,1,3.1,6.3,33
+615,Y,type 2,female,60,NO,NO,6,9,13,1,YES,NO,middle,4,YES,YES,NO,YES,YES,cerebrovascular disease,NO,NO,YES,YES,YES,YES,NO,NO,NO,YES,profusely,YES,little,profusely,north,4.8,39,13,6.9,2.7,1.6,1.7,1.5,32
+616,Y,Dont know,male,55,BOTH,NO,13,11,10,10,YES,NO,little,5,NO,NO,NO,NO,YES,diabetic foot,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES,profusely,YES,never,profusely,center,5.2,67,5.5,5.9,2,0.8,4.2,0.9,30
+617,Y,type 2,female,59,NO,YES,2,9,8,0,NO,NO,middle,20,NO,NO,YES,NO,YES,Cardiovascular complications,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,never,YES,average,never,south,4.8,45,10.6,5.2,2.6,1.4,1.7,1.2,30
+618,Y,type 2,male,55,MOM,NO,6,6,2,2,NO,YES,much,5,NO,YES,YES,NO,NO,Cardiovascular complications,YES,NO,YES,NO,YES,NO,NO,YES,NO,NO,little,NO,average,profusely,north,5.2,67,7.5,5.9,2,0.8,4.2,0.9,29
+619,Y,Dont know,female,61,BOTH,YES,4,15,1,6,NO,YES,middle,21,YES,YES,NO,YES,YES,diabetic eye complications,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,average,NO,never,little,center,4.3,56,12.1,4.4,2,1,2.5,0.9,29
+620,Y,type 2,male,54,MOM,NO,5,0,2,2,YES,NO,middle,18,YES,YES,NO,YES,YES,nothing,NO,NO,YES,YES,YES,NO,YES,YES,YES,NO,in the past,NO,profusely,average,south,3.4,57,9.7,5.4,2.4,0.8,3.6,1.1,31
+621,Y,type 2,male,54,MOM,NO,15,14,4,9,YES,NO,never,25,YES,NO,YES,NO,NO,Diabetic nephropathy,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,little,YES,profusely,average,center,3.4,57,9.7,5.4,2.4,0.8,3.6,1.1,27
+622,Y,type 2,female,63,DAD,YES,6,0,3,5,YES,NO,never,17,YES,NO,YES,YES,YES,cerebrovascular disease,YES,NO,YES,NO,YES,YES,YES,NO,NO,NO,little,NO,in the past,average,south,4.2,72,9.3,4.4,2.1,1.1,2.5,0.9,26
+623,Y,type 2,male,52,DAD,NO,5,5,12,3,NO,NO,little,21,NO,YES,YES,NO,NO,diabetic eye complications,YES,NO,YES,NO,YES,NO,YES,NO,NO,NO,in the past,NO,little,average,south,4.7,56,10.2,4.7,1.7,1.2,2.8,0.7,26
+624,Y,type 2,female,51,DAD,NO,0,3,8,4,YES,YES,little,20,YES,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,YES,NO,NO,NO,YES,NO,NO,YES,profusely,YES,little,never,south,2.5,45,7.4,5.2,4.9,1,0.95,2.2,29
+625,Y,Dont know,female,56,DAD,YES,12,10,14,0,NO,NO,middle,15,NO,YES,NO,NO,NO,Cardiovascular complications,YES,NO,YES,YES,YES,YES,NO,YES,YES,NO,profusely,NO,average,little,center,2.3,22,10.2,5.8,2,1.1,1.8,0.9,27
+626,Y,type 2,male,59,BOTH,YES,9,5,1,8,YES,YES,never,16,YES,YES,YES,YES,YES,neuropathy,YES,NO,YES,NO,NO,YES,NO,NO,YES,YES,never,YES,never,profusely,center,4.5,59,12.5,5.7,2.7,1.2,3.3,1.2,28
+627,Y,type 2,male,54,BOTH,YES,0,7,15,3,NO,YES,little,19,YES,YES,NO,NO,YES,diabetic eye complications,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,average,NO,average,little,south,7.4,84,10.7,4.1,2.2,0.9,2.2,1,29
+628,Y,type 2,male,57,BOTH,NO,3,12,0,5,NO,NO,middle,12,YES,NO,YES,NO,NO,cerebrovascular disease,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,little,NO,in the past,profusely,north,5.7,69,6.3,5.2,2.6,1.1,1.2,1.2,30
+629,Y,type 2,female,54,MOM,NO,9,4,4,9,YES,NO,much,23,NO,YES,YES,NO,YES,diabetic foot,YES,NO,YES,YES,YES,YES,YES,YES,YES,NO,profusely,YES,little,never,north,8.7,120,8.1,4,1.8,1.7,1.8,1.5,31
+630,Y,type 2,male,51,NO,YES,6,5,8,10,NO,YES,little,7,NO,NO,NO,NO,YES,diabetic eye complications,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,in the past,NO,little,profusely,center,10.4,76,7.3,3.3,2,1,1.2,0.9,33
+631,Y,type 2,male,60,DAD,NO,17,2,8,9,YES,YES,middle,6,NO,YES,NO,YES,YES,nothing,YES,NO,NO,YES,NO,YES,YES,YES,NO,NO,profusely,NO,profusely,never,north,4.2,39,8.8,4.5,2.2,0.8,1.4,1.1,34
+632,Y,Dont know,male,60,NO,NO,4,8,7,10,YES,YES,middle,6,NO,YES,NO,NO,NO,Cardiovascular complications,NO,YES,NO,YES,YES,YES,YES,YES,NO,YES,never,YES,little,profusely,south,5.7,74,12.7,4.5,2.1,0.9,1.8,0.9,36
+633,Y,type 2,male,60,MOM,YES,9,1,13,1,YES,NO,little,15,YES,YES,NO,YES,NO,neuropathy,YES,NO,YES,YES,NO,YES,YES,NO,NO,YES,average,NO,profusely,average,center,5,55,10,4.5,1.3,0.9,3,0.6,33
+634,Y,type 2,male,62,DAD,YES,7,3,13,5,YES,YES,never,23,YES,YES,YES,YES,NO,diabetic eye complications,YES,YES,YES,YES,NO,NO,YES,NO,NO,NO,little,NO,profusely,never,center,5,63,12.2,3.6,5.1,0.9,2.5,0.9,30
+635,Y,Dont know,male,67,DAD,YES,4,2,12,0,NO,NO,much,7,NO,NO,NO,NO,YES,Diabetic nephropathy,NO,NO,YES,NO,YES,YES,NO,NO,YES,YES,profusely,YES,never,little,north,13.3,107,7.1,3,2.2,0.8,1.3,1,27
+636,Y,type 2,male,61,MOM,YES,9,9,0,9,NO,YES,middle,16,NO,YES,NO,NO,NO,diabetic eye complications,NO,YES,NO,YES,YES,NO,YES,YES,YES,YES,never,NO,in the past,little,south,6,72,9,4.5,2.7,3.8,1.2,1.5,35
+637,Y,Dont know,female,63,BOTH,YES,10,0,10,4,NO,NO,middle,24,NO,NO,YES,YES,YES,nothing,NO,NO,NO,YES,YES,YES,NO,YES,NO,NO,profusely,YES,never,little,south,7.9,80,8,4.7,1.5,1.9,1.9,1.5,33
+638,Y,type 2,female,55,BOTH,NO,15,6,10,6,YES,YES,never,10,YES,NO,YES,YES,YES,diabetic foot,YES,NO,YES,YES,NO,YES,NO,YES,NO,YES,average,YES,profusely,average,center,4.5,34,10.4,4.7,2.5,0.2,3.4,1.1,28.36
+639,Y,type 2,female,55,MOM,YES,11,16,2,5,NO,NO,middle,21,NO,NO,NO,NO,NO,Diabetic nephropathy,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,never,YES,little,profusely,north,3.9,49,12.2,4.8,2.1,1.8,1,0.9,30
+640,Y,type 2,female,55,BOTH,YES,13,1,6,7,YES,NO,never,5,NO,YES,NO,YES,NO,diabetic eye complications,YES,NO,YES,YES,NO,YES,YES,NO,YES,YES,profusely,YES,profusely,little,south,4,56,13.7,4.4,2,1,2.5,0.9,37
+641,Y,type 2,male,66,NO,NO,16,1,7,2,NO,NO,much,5,NO,NO,NO,NO,NO,Diabetic nephropathy,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,in the past,YES,little,never,south,4.6,50,11,3.5,0.6,0.8,2.5,0.3,26
+642,Y,type 2,male,68,NO,NO,16,7,1,2,NO,YES,middle,8,YES,NO,YES,NO,NO,nothing,YES,YES,YES,NO,NO,YES,YES,YES,NO,YES,average,NO,in the past,average,north,2.9,35,11.5,4.9,2.1,2.3,1.8,0.8,33
+643,Y,type 2,female,60,MOM,YES,16,4,12,0,YES,NO,much,16,NO,NO,YES,NO,NO,neuropathy,YES,YES,YES,NO,NO,YES,NO,NO,NO,NO,never,YES,in the past,average,north,5.6,72,7.5,4.4,2.1,1.1,2.5,0.9,26
+644,Y,type 2,male,66,DAD,NO,1,11,13,2,NO,NO,middle,19,NO,NO,NO,NO,YES,diabetic eye complications,YES,YES,YES,NO,NO,NO,YES,YES,YES,NO,in the past,NO,in the past,never,north,4.1,63,10.1,3.6,5.1,0.9,2.5,0.9,30
+645,Y,Dont know,male,55,MOM,YES,3,7,10,3,YES,YES,never,17,YES,YES,NO,YES,YES,nothing,YES,NO,NO,YES,YES,YES,YES,NO,YES,YES,little,NO,in the past,never,center,3.66,60,10.8,7.3,1.6,1.2,5.5,11.3,47.75
+646,Y,Dont know,male,55,DAD,NO,2,13,10,7,YES,YES,never,15,NO,NO,YES,YES,YES,neuropathy,NO,YES,NO,YES,NO,NO,YES,NO,YES,YES,little,YES,average,little,north,4.6,50,9,3.5,0.6,0.8,2.5,0.3,39
+647,Y,Dont know,male,63,DAD,YES,15,9,6,10,YES,NO,middle,16,NO,NO,YES,NO,NO,diabetic foot,NO,YES,NO,NO,YES,NO,YES,NO,NO,YES,little,YES,never,average,center,5.9,63,7.1,3.6,5.1,0.9,2.5,0.9,30
+648,Y,type 2,female,52,BOTH,YES,2,1,6,7,YES,YES,little,22,NO,YES,NO,YES,NO,nothing,YES,YES,YES,YES,NO,NO,YES,YES,NO,NO,average,NO,in the past,profusely,center,6,45,11.1,4.7,0.7,1,1.2,0.3,38
+649,Y,type 2,female,51,BOTH,YES,13,10,9,1,YES,NO,middle,16,NO,YES,NO,NO,YES,cerebrovascular disease,YES,YES,YES,NO,YES,YES,NO,NO,NO,NO,average,YES,profusely,little,south,4.5,34,10.4,4.7,2.5,3.4,1.1,1.5,37
+650,Y,Dont know,male,58,BOTH,YES,7,17,6,8,YES,NO,little,18,NO,NO,YES,NO,YES,diabetic eye complications,YES,NO,YES,NO,YES,NO,NO,NO,NO,YES,average,YES,average,little,north,2,72,10.9,4.8,1.6,1,3.1,0.7,33
+651,Y,Dont know,male,55,BOTH,YES,10,5,9,3,NO,NO,never,18,NO,YES,YES,NO,YES,Cardiovascular complications,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,little,YES,average,average,center,6.66,61,7.7,4.1,2.03,1.08,2.2,14,37.62
+652,Y,Dont know,female,56,NO,YES,12,8,5,1,NO,YES,never,9,NO,NO,NO,NO,NO,nothing,NO,NO,YES,YES,NO,YES,NO,NO,NO,YES,average,YES,in the past,average,north,2.8,36,13.6,6.5,4.4,1.85,0.75,2,36.6
+653,Y,type 2,male,56,MOM,YES,5,8,9,0,YES,NO,never,18,NO,YES,YES,NO,YES,diabetic eye complications,YES,NO,YES,YES,YES,NO,YES,NO,YES,NO,in the past,NO,average,profusely,center,4.1,51,11.5,5.9,1.7,1.73,1.04,0.7,31
+654,Y,type 2,male,55,NO,YES,15,0,11,8,YES,YES,much,23,YES,NO,NO,NO,NO,diabetic eye complications,YES,NO,NO,NO,NO,NO,NO,YES,YES,YES,in the past,YES,never,profusely,south,4,64,9.7,5.3,3.6,0.7,3.1,1.6,32
+655,Y,type 2,female,54,BOTH,YES,9,11,8,2,NO,YES,much,22,YES,YES,NO,YES,YES,neuropathy,YES,YES,YES,NO,NO,NO,NO,YES,YES,NO,profusely,YES,profusely,never,north,2,37,13.8,5,1.2,1.6,0.9,1.5,26
+656,Y,type 2,male,53,BOTH,NO,11,16,2,3,NO,NO,little,5,NO,NO,YES,YES,YES,neuropathy,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,never,NO,little,average,north,7.5,230,11.6,9.1,1.5,1.4,2.1,7,27
+657,Y,Dont know,male,55,NO,NO,15,7,1,2,YES,NO,much,4,YES,NO,YES,YES,NO,Cardiovascular complications,YES,NO,NO,YES,YES,YES,NO,NO,NO,NO,little,YES,average,profusely,center,8.6,68,6.4,4.9,1.2,1.3,3.1,0.5,29
+658,Y,type 2,female,61,DAD,NO,1,9,9,5,YES,NO,never,10,YES,YES,YES,YES,NO,Cardiovascular complications,YES,YES,YES,NO,NO,YES,YES,NO,NO,NO,in the past,YES,average,profusely,center,4.6,40,10.6,7.2,4.9,1.35,1.4,1.5,28
+659,Y,type 2,male,60,MOM,YES,9,7,0,10,NO,YES,little,16,YES,YES,NO,YES,NO,nothing,YES,YES,NO,YES,YES,YES,NO,NO,YES,YES,average,YES,never,never,north,9.6,83,11.5,4.1,1.4,1.8,5.1,0.6,29
+660,Y,type 2,female,52,BOTH,NO,13,9,5,10,NO,NO,much,4,YES,NO,NO,NO,NO,Diabetic nephropathy,NO,YES,YES,YES,NO,NO,NO,YES,YES,YES,profusely,YES,average,profusely,north,4,58,9,4.6,3.1,1.8,5,1.5,30
+661,Y,type 2,male,60,MOM,YES,4,6,2,1,NO,YES,much,4,YES,YES,NO,YES,NO,Diabetic nephropathy,YES,YES,YES,YES,NO,NO,YES,YES,YES,YES,never,NO,little,little,center,6.4,83,12.3,4,1.9,0.7,2.6,0.9,31
+662,Y,type 2,male,60,NO,YES,7,10,0,6,YES,NO,middle,11,NO,YES,YES,NO,NO,diabetic foot,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,profusely,NO,little,average,north,6.4,83,12.3,4,1.9,0.7,2.6,0.9,29
+663,Y,Dont know,male,56,MOM,NO,12,11,15,7,NO,YES,little,25,NO,NO,NO,YES,YES,Cardiovascular complications,YES,YES,YES,NO,NO,NO,YES,YES,NO,YES,in the past,YES,never,never,south,4.2,70,6.9,4.2,2.6,1.8,4,1.5,31
+664,Y,Dont know,male,56,NO,YES,0,8,8,1,NO,YES,much,7,YES,YES,YES,NO,YES,nothing,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES,never,NO,average,average,south,4.2,70,6.9,4.2,2.6,1.8,4,1.5,31
+665,Y,type 2,male,55,MOM,YES,15,3,14,2,NO,YES,middle,21,YES,YES,YES,YES,YES,Cardiovascular complications,NO,NO,NO,NO,NO,YES,NO,YES,YES,YES,little,NO,in the past,never,north,4.4,56,10,4.9,2.1,1.1,2.5,0.9,28
+666,Y,type 2,female,64,BOTH,NO,16,11,1,3,NO,YES,middle,3,NO,YES,YES,NO,YES,nothing,NO,NO,YES,NO,NO,YES,NO,YES,NO,YES,average,NO,in the past,average,center,7.1,68,8,5.6,2.6,0.8,3.8,1.1,31
+667,Y,type 2,female,58,BOTH,NO,6,2,1,9,NO,YES,middle,24,YES,YES,NO,NO,YES,neuropathy,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,average,NO,profusely,profusely,center,5,62,9.3,5.8,3.6,1.1,1.9,0.6,31
+668,Y,Dont know,male,59,NO,YES,16,0,0,9,NO,NO,much,10,NO,NO,NO,NO,YES,nothing,YES,YES,YES,YES,NO,NO,YES,YES,YES,YES,average,NO,little,profusely,south,3.4,62,8,5.5,2.5,1.1,3.3,1.1,36
+669,Y,type 2,female,54,NO,NO,8,6,9,5,NO,YES,little,15,NO,NO,YES,YES,YES,diabetic eye complications,YES,NO,YES,NO,YES,YES,NO,YES,NO,YES,average,YES,little,profusely,center,2.8,22,14.6,4,1,1.8,1.3,1.5,33
+670,Y,type 2,male,57,DAD,NO,6,8,9,7,YES,NO,middle,0,NO,YES,YES,YES,YES,Diabetic nephropathy,YES,YES,NO,YES,YES,YES,NO,NO,NO,NO,in the past,NO,average,average,north,2.5,55,13,6.3,7.2,1.2,3.3,2.8,35
+671,Y,type 2,male,54,NO,YES,17,17,7,8,NO,YES,little,24,NO,NO,NO,YES,YES,nothing,NO,NO,NO,YES,YES,NO,YES,NO,YES,NO,in the past,NO,profusely,never,south,5.4,68,3,1.2,0.7,1,0.5,1.5,33
+672,Y,type 2,male,55,NO,YES,8,14,11,9,NO,YES,much,15,NO,NO,YES,YES,NO,Diabetic nephropathy,YES,YES,YES,YES,YES,NO,YES,NO,NO,YES,little,YES,profusely,profusely,center,3.8,50,9.6,5.7,4.5,1,3,2.1,32
+673,Y,Dont know,female,58,MOM,YES,14,15,15,8,YES,YES,never,4,YES,NO,NO,NO,YES,nothing,NO,YES,YES,NO,YES,YES,YES,YES,NO,YES,average,YES,little,never,north,4.3,56,9.1,4.4,2,1,2.5,0.9,29
+674,Y,type 2,female,60,MOM,YES,14,14,11,3,NO,NO,much,20,NO,YES,YES,NO,YES,cerebrovascular disease,YES,NO,NO,YES,NO,YES,YES,NO,YES,NO,little,NO,little,little,center,5.6,72,7.5,4.4,2.1,1.1,2.5,0.9,26
+675,Y,Dont know,female,60,DAD,YES,8,4,12,10,NO,NO,little,25,NO,NO,YES,YES,NO,Cardiovascular complications,NO,YES,NO,YES,YES,NO,NO,YES,NO,YES,in the past,NO,little,average,south,3.2,87,10.5,4.6,4,0.9,3,1.8,39
+676,Y,type 2,male,55,DAD,YES,15,1,14,10,NO,NO,middle,24,YES,NO,NO,YES,YES,cerebrovascular disease,YES,YES,NO,YES,YES,NO,NO,YES,YES,NO,average,YES,little,never,center,5,81,3.7,5.7,1.19,1.1,4.1,8.1,35.16
+677,Y,type 2,male,60,NO,YES,0,13,12,7,YES,YES,much,2,YES,YES,YES,NO,NO,diabetic eye complications,NO,YES,YES,YES,YES,NO,NO,NO,NO,YES,never,NO,little,average,center,5.1,62,12.3,6.1,3.8,1.1,3.5,1.7,38
+678,Y,Dont know,male,61,BOTH,YES,2,5,5,7,YES,YES,middle,17,YES,YES,NO,NO,YES,nothing,NO,YES,YES,NO,YES,NO,YES,YES,YES,NO,profusely,YES,little,profusely,north,6.5,78,9.2,6.5,2.4,1.7,1.8,1.5,37
+679,Y,Dont know,male,55,BOTH,YES,12,1,11,1,YES,NO,middle,18,NO,NO,YES,NO,NO,diabetic foot,NO,YES,NO,YES,NO,NO,YES,YES,NO,YES,in the past,YES,profusely,average,center,4.16,30,6.8,6.12,3.5,1.03,3.6,24.5,27.33
+680,Y,type 2,female,59,NO,YES,4,3,1,5,YES,YES,never,5,NO,YES,YES,YES,NO,nothing,NO,NO,NO,NO,YES,YES,YES,NO,YES,YES,profusely,YES,average,average,north,5.7,86,9.3,5.3,2.7,1,3.2,1.2,31
+681,Y,type 2,male,63,MOM,YES,8,15,11,1,NO,NO,never,7,NO,YES,YES,YES,NO,nothing,YES,NO,YES,YES,YES,NO,NO,NO,YES,NO,never,NO,profusely,little,south,7.9,88,7.4,4.7,2,1.4,4.2,1.5,33
+682,Y,type 2,female,55,MOM,YES,10,13,2,1,NO,NO,middle,5,NO,NO,NO,NO,NO,diabetic foot,YES,YES,NO,YES,YES,NO,YES,YES,NO,NO,average,NO,in the past,average,north,5.7,86,9.3,5.3,2.7,1,3.2,1.2,32
+683,Y,type 2,female,55,DAD,YES,16,4,13,3,NO,NO,middle,16,NO,NO,NO,NO,NO,nothing,NO,NO,YES,YES,YES,NO,YES,YES,NO,NO,little,NO,profusely,average,north,4.7,34,9.9,5.1,4.5,0.6,2.7,2,34
+684,Y,Dont know,female,58,MOM,NO,1,17,10,9,NO,NO,much,5,YES,NO,YES,YES,YES,neuropathy,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,little,YES,average,never,north,2.7,39,10.1,6.3,2.4,1.4,3.8,1.1,30
+685,Y,Dont know,female,55,BOTH,YES,3,14,10,0,YES,NO,middle,22,YES,NO,YES,NO,YES,cerebrovascular disease,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,little,NO,little,average,south,4.7,34,9.9,5.1,4.5,0.6,2.7,2,31
+686,Y,type 2,female,52,BOTH,YES,14,11,11,8,YES,NO,middle,13,NO,YES,NO,NO,YES,cerebrovascular disease,YES,NO,NO,YES,YES,NO,NO,YES,NO,YES,profusely,NO,never,little,north,4.7,34,9.9,5.1,4.5,0.6,2.7,2,26
+687,Y,Dont know,female,52,BOTH,YES,3,0,7,8,YES,YES,middle,8,YES,YES,YES,YES,NO,cerebrovascular disease,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,average,YES,profusely,average,south,4.7,34,9.9,5.1,4.5,0.6,2.7,2,26
+688,Y,Dont know,male,51,DAD,YES,13,16,6,5,YES,YES,little,14,NO,NO,YES,NO,NO,diabetic eye complications,YES,YES,NO,NO,YES,NO,YES,NO,YES,YES,never,NO,profusely,profusely,north,3.2,61,13.7,3.5,1,0.9,1.4,1.5,27
+689,Y,type 2,male,58,DAD,NO,13,14,11,4,NO,YES,middle,8,NO,NO,YES,YES,YES,Diabetic nephropathy,NO,YES,YES,YES,YES,YES,YES,NO,NO,NO,in the past,NO,little,never,north,5.8,76,9.7,8.4,6.3,0.9,1.6,1.5,28
+690,Y,type 2,female,51,BOTH,YES,13,1,12,8,YES,YES,little,10,NO,NO,NO,NO,YES,diabetic eye complications,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,profusely,NO,average,never,south,2.5,35,9.6,3,0.7,1.3,1.3,0.3,26
+691,Y,Dont know,female,55,NO,NO,6,7,0,4,YES,NO,little,4,YES,NO,YES,NO,YES,diabetic foot,NO,YES,YES,NO,YES,NO,YES,NO,YES,YES,profusely,NO,never,never,center,4,56,9.4,6.4,4.1,1,3.5,1.9,29
+692,Y,type 2,male,54,MOM,YES,7,3,12,9,NO,YES,little,0,NO,YES,NO,YES,NO,nothing,NO,NO,YES,NO,YES,NO,NO,YES,YES,YES,never,NO,little,average,center,4,76,9.2,5.7,4.2,0.9,3.2,1.9,30
+693,Y,Dont know,female,53,NO,YES,10,0,10,3,NO,YES,much,9,NO,YES,YES,YES,NO,neuropathy,NO,NO,NO,YES,YES,YES,YES,YES,YES,NO,profusely,YES,never,profusely,center,4.2,39,8,5.7,4.2,0.9,1.6,1.9,31
+694,Y,type 2,male,61,NO,NO,10,10,6,3,NO,NO,much,17,NO,NO,YES,NO,NO,Cardiovascular complications,NO,NO,YES,NO,YES,NO,YES,YES,NO,YES,average,NO,in the past,never,center,7.2,75,9,2.9,0.7,1,1.6,0.3,36
+695,Y,type 2,male,60,BOTH,YES,16,13,2,5,NO,YES,never,14,NO,NO,NO,NO,YES,neuropathy,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,profusely,NO,little,profusely,south,7.5,83,7.6,4.6,4.6,0.6,2.7,1.4,33
+696,Y,Dont know,male,52,DAD,YES,16,2,15,0,YES,NO,never,22,YES,NO,NO,YES,YES,neuropathy,NO,YES,YES,NO,YES,NO,YES,YES,YES,NO,profusely,YES,little,average,north,7.5,90,10.5,3,1.5,0.6,2.2,0.7,35
+697,Y,Dont know,male,59,DAD,YES,13,6,0,7,NO,NO,middle,21,NO,YES,NO,YES,NO,diabetic foot,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO,little,YES,little,average,north,5.3,70,9.8,5.2,3.4,1.35,1.45,1.3,30
+698,Y,Dont know,female,52,BOTH,YES,9,15,5,10,NO,YES,middle,21,YES,NO,NO,YES,NO,diabetic eye complications,YES,YES,YES,NO,YES,YES,YES,NO,NO,NO,little,NO,little,average,center,2.8,35,12.8,4.8,4,1.1,2.1,1.8,36.6
+699,Y,type 2,female,56,DAD,NO,3,16,13,5,NO,YES,middle,19,YES,YES,NO,NO,YES,neuropathy,NO,NO,YES,NO,YES,NO,NO,YES,NO,YES,little,YES,never,little,south,4.5,57,11.8,3.9,3.1,9.9,1.8,1.4,33
+700,Y,type 2,female,68,NO,NO,10,7,14,2,NO,NO,little,6,YES,NO,YES,YES,YES,Cardiovascular complications,NO,NO,YES,YES,YES,NO,NO,YES,YES,NO,average,NO,little,never,center,4.2,41,11.9,4,1.1,2.3,1.1,0.5,30
+701,Y,type 2,female,59,MOM,NO,14,13,13,6,YES,YES,never,7,YES,YES,NO,NO,YES,nothing,NO,YES,NO,NO,NO,YES,YES,YES,NO,NO,profusely,YES,never,profusely,north,4.2,41,11.9,4,1.1,2.3,1.1,0.5,39
+702,Y,type 2,female,64,BOTH,YES,7,12,14,8,NO,YES,never,13,NO,YES,YES,YES,NO,Diabetic nephropathy,YES,YES,NO,NO,NO,NO,YES,NO,YES,NO,profusely,NO,profusely,little,center,2.2,89,11.8,6.7,2,0.9,5,0.9,30
+703,Y,type 2,male,54,DAD,YES,8,17,8,4,NO,NO,never,2,NO,NO,YES,YES,YES,diabetic foot,YES,YES,NO,YES,NO,NO,YES,YES,YES,NO,average,NO,average,never,north,4,55,11.3,5.3,7.7,0.7,1.5,3.5,38
+704,Y,type 2,male,57,NO,NO,13,3,8,1,NO,YES,little,9,NO,YES,YES,NO,YES,diabetic foot,YES,NO,YES,YES,YES,YES,YES,YES,YES,YES,little,NO,never,little,center,1.1,27,12.3,3.1,1.6,1.7,0.95,1.5,37
+705,Y,Dont know,female,54,NO,YES,1,12,15,1,NO,NO,never,14,YES,YES,NO,NO,YES,cerebrovascular disease,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES,profusely,YES,profusely,little,center,2.2,29,11.8,6.7,2,0.9,5,0.9,33
+706,Y,Dont know,female,55,MOM,NO,17,17,10,3,YES,NO,middle,3,YES,YES,NO,NO,YES,nothing,NO,YES,YES,NO,NO,YES,NO,YES,NO,YES,little,YES,in the past,little,center,6,43,11.2,2.4,1.3,0.4,1.4,0.6,32
+707,Y,Dont know,female,55,NO,NO,17,11,1,3,YES,YES,much,12,YES,NO,NO,NO,NO,Diabetic nephropathy,YES,YES,NO,YES,NO,NO,YES,YES,YES,NO,in the past,YES,profusely,little,center,3.5,32,14.5,5.3,1.5,0.7,3.9,0.7,26
+708,Y,Dont know,male,55,DAD,NO,7,4,4,6,YES,NO,much,1,YES,NO,YES,YES,NO,nothing,YES,NO,NO,NO,NO,NO,YES,NO,YES,NO,in the past,YES,in the past,little,north,4.6,48,11.2,5.1,3.5,1.7,1.8,1.6,30
+709,Y,type 2,male,60,MOM,NO,5,13,6,8,YES,NO,middle,25,NO,NO,NO,NO,NO,diabetic eye complications,NO,YES,YES,NO,YES,NO,NO,YES,NO,NO,never,NO,never,average,south,6.2,35,8.5,5.8,2.9,0.4,3,1.6,32
+710,Y,type 2,male,51,NO,NO,17,3,4,8,YES,YES,much,15,NO,YES,NO,NO,YES,diabetic foot,NO,NO,NO,YES,NO,YES,NO,NO,YES,YES,profusely,YES,in the past,average,center,3.3,41,13.9,6,1.1,1.4,1.3,0.4,27.17
+711,Y,type 2,female,60,BOTH,NO,12,1,6,1,NO,NO,much,5,NO,NO,YES,NO,YES,neuropathy,YES,YES,YES,YES,NO,NO,YES,NO,YES,NO,in the past,YES,profusely,little,center,6.6,43,11.2,2.4,1.3,0.4,1.4,0.6,26
+712,Y,type 2,male,55,DAD,YES,17,10,6,6,NO,NO,little,17,YES,YES,YES,NO,NO,neuropathy,YES,NO,NO,YES,NO,YES,YES,NO,YES,YES,average,YES,in the past,little,center,5,64,12.3,6,3.9,0.8,3.7,27.2,37
+713,Y,type 2,female,61,BOTH,NO,16,7,13,9,NO,NO,much,16,YES,NO,YES,NO,YES,neuropathy,YES,NO,YES,NO,NO,NO,NO,YES,YES,NO,in the past,NO,little,average,center,3.5,32,14.5,5.3,1.5,0.7,3.9,0.7,27
+714,Y,type 2,male,63,DAD,YES,14,8,9,8,YES,NO,much,6,YES,YES,YES,NO,YES,nothing,NO,YES,YES,YES,NO,YES,NO,YES,YES,YES,profusely,YES,profusely,never,south,3.5,54,10.1,5.9,3.1,1.1,2.6,1.4,28
+715,Y,type 2,male,55,NO,YES,9,12,8,5,NO,NO,middle,20,YES,NO,NO,NO,YES,nothing,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,never,YES,average,average,south,5.3,49,10.5,5.6,5.5,0.7,2.6,2.5,32
+716,Y,Dont know,female,55,DAD,NO,0,15,2,10,NO,YES,never,8,YES,YES,NO,NO,NO,nothing,NO,YES,NO,NO,YES,YES,YES,NO,YES,YES,in the past,NO,average,never,center,5.3,33,8.8,4.5,1.4,1.9,2.1,0.6,26
+717,Y,type 2,female,55,NO,NO,15,14,14,6,YES,NO,little,9,NO,YES,NO,NO,NO,cerebrovascular disease,NO,NO,YES,NO,NO,YES,NO,YES,YES,YES,average,NO,profusely,little,north,2.4,36,12.4,4.3,2.4,1.8,1.3,1.5,29
+718,Y,Dont know,male,55,NO,YES,15,16,2,8,YES,YES,much,19,YES,YES,NO,NO,YES,cerebrovascular disease,YES,NO,YES,NO,NO,NO,YES,NO,YES,YES,in the past,NO,little,never,south,5.3,49,10.5,5.6,5.5,0.7,2.6,2.5,27.4
+719,Y,type 2,male,52,MOM,YES,9,10,8,9,YES,YES,never,18,YES,NO,NO,YES,NO,neuropathy,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,average,NO,little,never,center,6,72,10.5,5.7,3.6,1,1.7,2,30
+720,Y,Dont know,male,51,NO,NO,2,16,0,4,NO,YES,much,12,YES,NO,YES,YES,NO,Cardiovascular complications,YES,NO,YES,YES,NO,NO,YES,YES,NO,NO,never,NO,profusely,profusely,north,5.3,49,10.5,5.6,5.5,0.7,2.6,2,31
+721,Y,Dont know,male,57,MOM,NO,0,14,7,2,YES,YES,middle,9,YES,YES,NO,NO,NO,diabetic foot,YES,YES,YES,YES,YES,NO,NO,YES,NO,YES,little,NO,in the past,average,north,3.6,56,11.9,5.4,1.5,1.1,3.7,0.7,31
+722,Y,type 2,female,58,BOTH,NO,1,16,6,5,YES,NO,never,18,YES,YES,NO,NO,NO,Cardiovascular complications,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,little,NO,profusely,average,south,3.7,36,10.7,4.2,0.5,0.9,3.1,0.2,36
+723,Y,type 2,male,55,DAD,YES,10,5,6,4,YES,NO,much,1,YES,YES,NO,YES,YES,neuropathy,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,never,YES,never,profusely,center,3.5,76,10.3,9.7,12.7,0.9,3,5.8,33
+724,Y,type 2,female,54,BOTH,NO,10,11,6,8,YES,YES,never,2,YES,YES,YES,NO,YES,neuropathy,NO,NO,YES,YES,YES,YES,NO,YES,NO,YES,little,YES,profusely,profusely,north,9,70,10.8,3.7,3.1,1.2,2,1.4,35
+725,Y,type 2,male,53,DAD,YES,4,11,5,10,YES,NO,much,0,NO,YES,YES,YES,NO,cerebrovascular disease,YES,YES,NO,YES,YES,YES,YES,NO,NO,YES,little,YES,in the past,profusely,north,5.9,67,9.9,5.2,1.8,0.9,3.6,0.6,33
+726,Y,type 2,male,61,BOTH,YES,16,6,5,1,NO,YES,little,12,YES,YES,NO,NO,NO,neuropathy,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO,little,NO,in the past,little,center,3.6,67,10.1,5.1,1.4,0.9,5.6,2,39
+727,Y,type 2,female,60,MOM,NO,4,4,11,3,YES,YES,middle,16,YES,NO,NO,YES,YES,cerebrovascular disease,YES,YES,NO,NO,YES,NO,YES,YES,NO,YES,in the past,YES,in the past,little,center,4.4,49,12.3,4.6,2.3,0.9,3.6,2,38
+728,Y,type 2,female,60,MOM,YES,4,15,12,6,NO,NO,little,2,YES,YES,YES,NO,NO,nothing,YES,NO,NO,NO,NO,NO,YES,YES,YES,YES,never,YES,profusely,never,center,4.1,56,13.1,4.4,2,1,2.5,0.9,29
+729,Y,type 2,female,52,BOTH,YES,5,7,14,8,NO,NO,never,24,YES,NO,NO,YES,YES,nothing,NO,YES,YES,NO,NO,YES,YES,YES,YES,NO,average,NO,little,profusely,center,2.6,30,10,5.4,2.1,0.9,0.9,2,37
+730,Y,Dont know,male,55,DAD,NO,12,11,14,3,YES,NO,never,9,NO,NO,YES,NO,YES,Diabetic nephropathy,NO,NO,YES,NO,YES,YES,YES,YES,NO,YES,in the past,YES,never,never,north,5.1,61,10.5,4.6,1.5,0.8,2.1,0.6,30
+731,Y,type 2,male,56,NO,NO,3,3,10,0,YES,NO,never,4,NO,YES,NO,NO,NO,Cardiovascular complications,YES,NO,YES,YES,YES,NO,YES,NO,NO,NO,in the past,NO,never,profusely,center,4.6,55,10.8,3.4,2,0.7,2,0.8,33
+732,Y,type 2,female,59,DAD,NO,12,5,2,9,NO,YES,little,20,NO,NO,NO,YES,NO,nothing,NO,NO,YES,NO,YES,NO,NO,NO,YES,YES,little,YES,never,little,north,6.2,62,11.6,6.3,4.4,0.9,0.8,2,32
+733,Y,Dont know,female,54,MOM,NO,14,15,7,2,NO,NO,little,17,YES,YES,NO,YES,YES,Diabetic nephropathy,NO,YES,NO,YES,YES,NO,NO,YES,NO,YES,little,NO,in the past,little,center,2.7,49,13.7,6.8,1.7,0.8,4.7,0.8,30
+734,Y,type 2,female,54,BOTH,YES,5,14,9,8,NO,YES,middle,0,YES,YES,YES,NO,NO,diabetic foot,YES,YES,YES,NO,YES,NO,YES,YES,NO,YES,in the past,YES,little,little,south,2.7,49,13.7,6.2,1.7,0.8,4.7,0.8,26
+735,Y,type 2,female,55,BOTH,YES,17,0,10,2,YES,NO,middle,22,NO,NO,NO,NO,NO,cerebrovascular disease,NO,NO,NO,YES,YES,YES,NO,NO,YES,YES,little,YES,never,little,north,3.1,39,12.3,5.3,1.6,1.45,1.7,0.7,28
+736,Y,type 2,male,55,BOTH,YES,12,9,15,1,NO,NO,never,1,YES,NO,YES,YES,NO,Cardiovascular complications,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,average,NO,little,profusely,center,4.9,33,10.2,3.9,0.6,1.3,2.3,0.3,32
+737,Y,type 2,male,60,DAD,NO,2,17,2,3,NO,NO,little,12,NO,YES,NO,YES,NO,diabetic foot,NO,NO,NO,YES,NO,YES,YES,NO,YES,NO,profusely,NO,little,profusely,center,5.4,68,11.2,6,2.9,1,3.8,1.3,30
+738,Y,Dont know,female,57,NO,YES,8,12,1,3,NO,NO,little,18,NO,NO,YES,YES,NO,nothing,NO,YES,YES,YES,YES,NO,YES,YES,NO,NO,never,YES,average,profusely,center,2.1,44,8.9,5.2,1.1,1,3.7,0.5,27
+739,Y,type 2,male,55,DAD,NO,10,7,4,9,NO,NO,middle,12,NO,YES,NO,NO,NO,cerebrovascular disease,NO,YES,NO,YES,YES,NO,NO,NO,YES,NO,little,NO,in the past,profusely,center,4.9,33,10.2,3.9,0.6,1.3,2.3,0.3,27
+740,Y,type 2,male,60,NO,YES,4,10,13,6,NO,NO,little,24,YES,NO,NO,YES,NO,diabetic eye complications,NO,YES,NO,NO,YES,YES,NO,NO,NO,NO,profusely,YES,never,never,south,5.4,68,11.2,6,2.9,1,3.8,1.3,26
+741,Y,Dont know,male,54,MOM,NO,12,3,8,1,YES,NO,middle,20,NO,YES,NO,NO,YES,cerebrovascular disease,YES,NO,YES,NO,YES,NO,NO,NO,YES,NO,never,YES,average,average,south,4.5,70,10.5,4.3,2.4,1.6,1.7,2,28
+742,Y,type 2,male,60,BOTH,NO,1,10,4,7,YES,YES,little,23,NO,NO,NO,NO,YES,diabetic foot,YES,NO,NO,NO,YES,YES,NO,YES,NO,YES,profusely,YES,profusely,average,south,4.9,33,10.2,3.9,0.6,1.3,2.3,0.3,29
+743,Y,type 2,female,60,BOTH,YES,2,9,6,6,YES,NO,little,17,NO,YES,NO,NO,YES,Diabetic nephropathy,NO,YES,NO,NO,YES,YES,NO,NO,NO,YES,average,NO,average,average,south,2.1,34,12.3,6.2,5.8,1,3,2,30
+744,Y,type 2,female,61,DAD,NO,0,15,1,9,YES,YES,never,22,NO,YES,YES,NO,YES,diabetic eye complications,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,profusely,YES,profusely,little,center,7.1,45,13.6,6.6,2.6,1.1,4.4,1.1,31
+745,Y,type 2,female,63,DAD,YES,10,13,14,7,YES,YES,never,19,NO,YES,NO,YES,YES,Diabetic nephropathy,NO,NO,YES,YES,YES,YES,NO,YES,NO,YES,never,YES,little,little,center,2.8,54,11.2,4.2,1.1,1.7,1.4,2,36
+746,Y,Dont know,male,55,NO,NO,1,4,1,4,NO,NO,much,4,YES,YES,NO,NO,NO,cerebrovascular disease,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES,in the past,NO,profusely,little,north,5.1,71,9.7,3.2,1.4,1,3,2,33
+747,Y,type 2,male,55,DAD,NO,16,7,12,3,NO,YES,much,14,NO,YES,NO,NO,YES,Cardiovascular complications,YES,NO,NO,YES,YES,NO,NO,NO,NO,NO,average,YES,in the past,never,center,4.4,38,13.2,3.9,1.3,1.6,1.7,0.6,34
+748,Y,type 2,male,52,NO,YES,12,17,0,7,YES,YES,little,0,YES,NO,NO,NO,YES,cerebrovascular disease,NO,NO,NO,YES,NO,YES,NO,YES,YES,NO,little,YES,in the past,average,center,4.4,38,13.2,3.9,1.3,1.6,1.7,0.6,35
+749,Y,type 2,male,55,DAD,NO,5,0,13,7,NO,YES,middle,10,YES,NO,NO,YES,NO,nothing,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO,average,NO,never,profusely,south,3.7,71,9.8,5.8,7.7,1.8,0.9,3.5,31.5
+750,Y,Dont know,male,51,MOM,NO,12,3,3,9,YES,YES,never,10,NO,YES,NO,YES,YES,nothing,YES,YES,YES,NO,YES,NO,YES,NO,YES,YES,in the past,NO,average,little,south,4.9,72,12.5,3.2,0.9,1,2.8,2,33
+751,Y,type 2,female,58,BOTH,YES,14,17,5,7,NO,NO,much,9,NO,YES,YES,NO,NO,diabetic eye complications,NO,NO,YES,NO,NO,YES,NO,NO,YES,YES,little,YES,little,never,north,3.1,36,10.6,5.4,4.7,1.1,2.2,2.1,39
+752,Y,type 2,male,55,DAD,NO,4,5,7,9,NO,NO,little,0,YES,NO,NO,YES,YES,nothing,NO,YES,NO,NO,YES,NO,YES,NO,NO,YES,average,YES,in the past,never,north,5.1,39,15.9,4.2,1.2,1.4,3,2,38
+753,Y,type 2,male,54,DAD,NO,10,8,13,6,NO,YES,much,11,YES,NO,NO,NO,NO,nothing,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,little,NO,little,average,center,10.4,126,10,4.4,1.3,1.4,1,2,37
+754,Y,type 2,male,53,MOM,YES,1,17,6,6,NO,YES,never,21,YES,YES,NO,NO,YES,diabetic foot,YES,NO,NO,YES,YES,YES,NO,NO,NO,YES,never,YES,little,never,south,14.9,327,11,5.9,8.7,1,3,3.4,33
+755,Y,type 2,female,60,NO,NO,3,1,14,8,NO,YES,little,4,NO,NO,NO,NO,YES,diabetic eye complications,NO,YES,YES,NO,YES,YES,YES,YES,NO,YES,in the past,YES,profusely,never,center,5,60,14.8,3.1,2.2,1.3,1.4,1,32
+756,Y,type 2,male,61,NO,YES,0,6,10,7,YES,YES,little,2,YES,NO,YES,YES,NO,Diabetic nephropathy,NO,YES,YES,YES,YES,NO,NO,YES,NO,YES,profusely,YES,average,little,center,5.5,70,9.2,5.5,3,1.6,1.7,0.8,32
+757,Y,type 2,female,60,MOM,NO,3,10,12,9,NO,NO,much,11,NO,NO,NO,YES,YES,cerebrovascular disease,YES,YES,NO,YES,NO,NO,YES,NO,YES,YES,little,NO,profusely,little,north,4.5,57,14.4,6.8,2.9,1,0.9,1.6,26
+758,Y,Dont know,male,52,DAD,NO,7,15,7,7,NO,YES,much,22,NO,NO,NO,NO,NO,cerebrovascular disease,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,never,YES,profusely,average,north,3.9,74,11.7,7,8.5,1.6,1.4,2,27
+759,Y,Dont know,female,64,BOTH,NO,5,6,1,4,YES,NO,middle,24,YES,NO,NO,NO,YES,diabetic eye complications,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES,in the past,NO,in the past,profusely,center,3.6,48,15,7.7,4.7,0.7,5,2.1,32
+760,Y,type 2,male,55,BOTH,NO,17,12,14,7,NO,NO,middle,24,YES,NO,NO,NO,YES,cerebrovascular disease,YES,YES,YES,YES,YES,NO,YES,NO,YES,NO,little,NO,profusely,little,center,4.33,44,10.5,5.7,1.3,1.5,3.6,9,32.65
+761,Y,type 2,female,56,NO,NO,1,5,7,5,NO,NO,middle,18,NO,YES,YES,NO,YES,diabetic foot,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,in the past,NO,profusely,little,center,3.6,48,15,7.7,4.7,5,2.1,2,28
+762,Y,type 2,female,59,MOM,NO,5,9,9,2,NO,YES,middle,2,YES,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,NO,YES,YES,YES,YES,NO,NO,NO,never,NO,average,profusely,north,6,28,14.6,6.1,4.4,1.2,1.3,2,29
+763,Y,type 2,female,55,NO,NO,12,4,6,10,NO,YES,little,21,NO,YES,YES,NO,NO,Cardiovascular complications,NO,NO,YES,NO,YES,NO,YES,YES,YES,NO,in the past,YES,never,average,north,5.5,50,12.2,6.3,2.3,9,4.4,1,31
+764,Y,type 2,male,54,MOM,YES,4,13,7,6,NO,NO,never,4,YES,NO,NO,YES,NO,Cardiovascular complications,NO,YES,NO,YES,NO,NO,YES,YES,YES,NO,profusely,NO,average,little,north,2.9,79,10.3,5,3.2,1.8,1.7,2,30
+765,Y,type 2,female,57,MOM,NO,3,6,15,3,YES,YES,middle,6,NO,NO,NO,NO,YES,diabetic foot,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,little,YES,average,average,south,4.3,41,10.2,5.5,1.1,1.4,1.7,2,31
+766,Y,Dont know,male,55,DAD,NO,5,11,1,0,YES,NO,never,14,YES,YES,YES,YES,NO,Diabetic nephropathy,YES,YES,YES,YES,NO,NO,YES,NO,YES,YES,profusely,NO,profusely,average,south,4.1,58,10.3,7.3,4.6,1.3,1.4,0.7,29
+767,Y,type 2,male,55,BOTH,NO,0,0,9,0,YES,YES,much,12,NO,YES,YES,YES,YES,Diabetic nephropathy,NO,YES,YES,NO,YES,NO,NO,YES,NO,YES,in the past,NO,profusely,profusely,center,4.7,32,7.8,3.8,0.9,1.5,1.9,0.4,33
+768,Y,type 2,male,54,BOTH,NO,8,7,14,6,NO,NO,much,13,NO,NO,NO,YES,YES,neuropathy,YES,NO,YES,YES,YES,NO,YES,YES,YES,YES,little,YES,in the past,average,north,4.3,90,13.2,9.2,1.2,1.6,2.4,2,36
+769,Y,type 2,male,60,MOM,YES,17,2,7,4,NO,YES,never,10,YES,YES,YES,NO,YES,diabetic eye complications,YES,YES,NO,YES,YES,YES,NO,YES,NO,YES,never,YES,profusely,never,north,4,78,14.1,4.1,1.3,1.8,3.6,2,33
+770,Y,type 2,male,55,NO,NO,5,1,13,6,NO,NO,little,2,YES,NO,YES,NO,NO,neuropathy,YES,YES,YES,YES,NO,NO,YES,NO,NO,NO,profusely,NO,never,little,north,3.8,66,10.2,4.3,3.3,0.6,2.4,1.5,31
+771,Y,type 2,male,60,NO,YES,1,11,4,1,NO,NO,never,24,NO,NO,NO,NO,NO,nothing,NO,NO,YES,NO,NO,YES,YES,NO,NO,YES,little,NO,profusely,little,center,4.1,78,11,3.8,0.7,0.7,2.8,0.3,35
+772,Y,Dont know,male,61,DAD,YES,15,3,1,0,NO,NO,middle,22,YES,YES,NO,NO,NO,diabetic eye complications,YES,YES,NO,YES,NO,YES,NO,NO,NO,YES,in the past,NO,in the past,never,center,4.1,57,9.4,3.7,1.5,0.7,4.6,2,33
+773,Y,type 2,female,63,MOM,YES,8,11,14,9,YES,YES,never,2,YES,YES,YES,NO,NO,diabetic eye complications,YES,YES,YES,YES,NO,NO,NO,YES,YES,NO,in the past,YES,little,little,south,6.4,59,11.6,8.1,2.7,0.7,4.1,1.2,39
+774,Y,type 2,male,55,NO,YES,8,6,14,4,YES,NO,middle,25,YES,YES,YES,NO,NO,diabetic foot,NO,NO,NO,NO,YES,NO,NO,YES,YES,NO,little,NO,in the past,average,south,9,66,8.3,5.7,2.6,0.7,4.1,1.1,38
+775,Y,type 2,male,55,BOTH,NO,12,3,11,5,YES,NO,little,20,YES,NO,YES,YES,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,NO,YES,NO,NO,NO,profusely,YES,never,never,south,4.7,53,12.2,5.7,3.5,0.7,3.6,1.6,25.6
+776,Y,type 2,male,52,DAD,NO,1,7,0,9,NO,YES,middle,8,YES,NO,YES,YES,YES,diabetic eye complications,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,average,YES,in the past,average,north,4.7,53,12.2,5.7,3.5,3.6,1.6,1,37
+777,Y,Dont know,female,68,DAD,NO,5,12,12,0,NO,YES,middle,17,NO,NO,YES,YES,YES,diabetic eye complications,YES,YES,NO,YES,NO,NO,YES,YES,NO,YES,profusely,YES,average,little,south,6.1,49,8.2,8,4.8,1.3,4.8,2.2,26
+778,Y,Dont know,female,69,NO,YES,6,1,1,6,NO,NO,never,10,NO,NO,YES,NO,NO,nothing,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO,in the past,NO,little,little,south,6.1,49,8.2,8,4.8,1.3,4.8,2.2,34
+779,Y,type 2,female,55,BOTH,NO,17,3,9,5,YES,YES,much,3,YES,YES,NO,YES,NO,Diabetic nephropathy,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,average,YES,never,little,south,4.3,57,10.6,6.6,4.1,1.8,1.3,1.8,29
+780,Y,type 2,male,51,NO,NO,1,7,2,4,NO,NO,middle,18,NO,YES,YES,YES,YES,cerebrovascular disease,NO,YES,YES,NO,NO,YES,YES,NO,YES,NO,in the past,YES,in the past,profusely,center,5.2,63,11,6.7,2.1,1.8,1.3,1,33
+781,Y,type 2,male,58,DAD,NO,12,16,14,0,YES,YES,little,15,NO,NO,YES,NO,YES,diabetic eye complications,NO,NO,YES,NO,YES,NO,YES,YES,NO,NO,average,YES,average,little,north,3.4,48,11.2,4.8,1.4,1.8,1.3,1,32
+782,Y,type 2,male,55,NO,NO,16,17,10,5,YES,NO,much,11,NO,NO,YES,YES,YES,neuropathy,YES,NO,NO,YES,NO,YES,YES,YES,NO,NO,little,YES,never,little,north,7.1,72,12.2,6.9,4.5,1.3,1.4,1,26
+783,Y,type 2,female,54,BOTH,NO,1,1,6,1,YES,YES,little,7,YES,NO,NO,NO,NO,diabetic eye complications,YES,NO,YES,NO,NO,YES,YES,NO,YES,NO,little,YES,average,average,center,5.9,74,12.4,5.5,1.3,1.6,1.7,1.9,27
+784,Y,type 2,male,53,DAD,NO,10,5,12,10,YES,YES,middle,15,NO,NO,NO,YES,NO,nothing,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,never,NO,little,average,center,3.8,59,10.9,5.1,3.2,1.8,2,1,28
+785,Y,type 2,female,61,DAD,YES,12,10,3,10,NO,YES,middle,2,NO,NO,NO,NO,YES,diabetic foot,YES,YES,YES,NO,YES,NO,NO,YES,NO,YES,little,YES,average,profusely,center,4.2,69,10,6.1,6.8,0.8,3.3,2.6,29
+786,Y,type 2,male,52,MOM,NO,6,11,2,7,YES,NO,much,11,YES,NO,NO,NO,YES,cerebrovascular disease,YES,YES,YES,YES,YES,YES,YES,YES,NO,YES,little,YES,profusely,average,center,5.5,62,13.2,4.9,2.2,1.2,2.7,1,29
+787,Y,type 2,female,60,NO,YES,4,8,3,1,NO,NO,little,1,YES,YES,YES,YES,NO,Cardiovascular complications,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES,never,YES,average,average,south,4.6,47,12,5,3.9,1.1,2.4,1.7,30
+788,Y,type 2,female,56,DAD,YES,5,13,8,9,YES,NO,little,5,YES,YES,YES,NO,NO,nothing,YES,NO,YES,YES,NO,NO,NO,YES,NO,YES,profusely,NO,in the past,never,south,4.6,47,12,5,3.9,1.1,2.4,1.7,36.6
+789,Y,Dont know,female,67,MOM,YES,15,2,12,4,NO,YES,never,1,YES,NO,YES,NO,YES,nothing,NO,NO,YES,NO,YES,YES,YES,YES,NO,YES,never,NO,profusely,little,center,5.3,72,14.7,5.8,1.8,1.1,3.9,0.8,31
+790,Y,type 2,male,55,NO,YES,15,8,8,7,YES,YES,much,22,NO,NO,YES,NO,NO,Diabetic nephropathy,NO,YES,NO,YES,YES,NO,YES,YES,YES,YES,in the past,YES,average,never,south,3.9,51,10.7,3.6,1.2,1.4,1.7,0.5,30
+791,Y,Dont know,male,68,NO,NO,0,2,9,6,NO,NO,little,24,YES,YES,NO,NO,YES,diabetic eye complications,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,average,NO,little,average,south,3.9,51,10.7,3.6,1.2,1.4,1.7,0.5,36
+792,Y,type 2,male,61,MOM,NO,3,4,11,2,NO,YES,never,21,YES,NO,NO,YES,YES,diabetic eye complications,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,profusely,NO,never,profusely,north,7.2,78,9.1,6.5,1.5,1.4,0.9,0.5,33
+793,Y,type 2,male,56,BOTH,YES,9,8,1,2,NO,NO,little,9,NO,YES,NO,NO,YES,nothing,YES,NO,YES,NO,YES,YES,YES,YES,YES,YES,never,YES,little,little,north,20.8,800,9,4.6,2,1.2,2.5,0.9,35
+794,Y,Dont know,male,60,NO,NO,16,0,13,4,YES,YES,never,24,NO,YES,YES,NO,YES,neuropathy,YES,NO,YES,NO,YES,YES,YES,YES,YES,NO,average,NO,in the past,average,center,2.1,56,7.2,6.3,3.7,1,3.7,1.7,28
+795,Y,type 2,male,53,MOM,NO,2,10,11,1,YES,YES,little,6,YES,NO,YES,NO,YES,cerebrovascular disease,YES,NO,YES,YES,NO,YES,NO,YES,NO,YES,average,NO,never,profusely,south,4.2,55,8,5,2.5,1.3,2.3,1.6,30
+796,Y,Dont know,male,55,NO,NO,15,1,10,10,YES,YES,never,11,NO,NO,NO,YES,NO,Cardiovascular complications,NO,YES,NO,NO,NO,NO,YES,YES,YES,YES,never,NO,little,profusely,south,9.2,101,8.5,5.6,1.9,1.3,1.2,0.7,28
+797,Y,type 2,male,58,BOTH,NO,0,12,5,1,YES,NO,never,3,NO,YES,NO,NO,YES,diabetic foot,NO,NO,YES,YES,YES,YES,YES,YES,YES,NO,never,YES,in the past,never,south,5.9,67,9.9,5.2,1.8,0.9,3.6,0.6,29
+798,Y,type 2,female,58,MOM,NO,11,13,15,0,YES,NO,middle,18,YES,YES,NO,NO,YES,Cardiovascular complications,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES,in the past,NO,little,profusely,south,6,66,6.9,5.7,1.3,1.4,4.9,0.6,24
+799,Y,type 2,male,55,NO,NO,9,16,8,7,YES,NO,little,16,YES,NO,NO,YES,YES,diabetic eye complications,NO,NO,YES,YES,YES,YES,YES,YES,NO,NO,little,YES,never,little,south,5.8,60,9,4.6,1.9,1.2,2.6,0.8,30
+800,Y,Dont know,female,42,DAD,NO,13,3,11,6,NO,YES,little,22,YES,NO,YES,NO,YES,Diabetic nephropathy,YES,NO,YES,YES,NO,NO,NO,YES,YES,YES,never,YES,little,profusely,south,2.3,52,7,5.2,2.8,3.1,1.3,0.9,24
+801,Y,type 2,male,55,BOTH,NO,6,16,1,1,YES,YES,much,20,YES,NO,YES,NO,YES,cerebrovascular disease,YES,NO,YES,YES,NO,NO,YES,NO,NO,NO,little,NO,little,never,center,3,30,9.1,6.6,2.9,1.1,4.3,1.3,29
+802,Y,type 1,male,55,DAD,NO,9,14,10,10,NO,NO,little,19,NO,YES,YES,NO,YES,diabetic foot,NO,YES,NO,NO,YES,YES,NO,NO,NO,YES,profusely,YES,average,never,south,10.3,198,9.7,4.2,3.8,1.6,3,0.8,32
+803,Y,type 2,female,53,DAD,YES,0,4,9,1,NO,NO,middle,15,YES,NO,NO,NO,NO,diabetic foot,NO,YES,YES,NO,YES,YES,NO,YES,NO,NO,average,NO,profusely,little,north,4.3,44,8.8,5.8,1.7,1.1,3.9,0.9,38
+804,Y,type 2,female,73,BOTH,NO,1,8,6,2,YES,YES,never,0,YES,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,YES,YES,YES,NO,NO,YES,YES,YES,in the past,YES,little,profusely,north,3.1,50,8.9,3.4,1.5,1.2,2.9,1.1,22
+805,Y,Dont know,male,57,MOM,NO,14,11,13,0,NO,NO,much,9,YES,NO,YES,NO,YES,Diabetic nephropathy,YES,NO,NO,YES,NO,NO,YES,NO,NO,YES,in the past,NO,little,little,south,3,60,7.9,4.8,2.4,1.8,2,1.1,27
+806,Y,type 2,male,51,BOTH,NO,1,13,1,1,YES,YES,much,19,YES,YES,YES,NO,YES,Cardiovascular complications,NO,NO,NO,YES,YES,YES,NO,YES,NO,NO,in the past,YES,average,profusely,north,5.5,83,9.4,3.8,0.9,1.5,2,0.2,30
+807,Y,type 2,male,60,DAD,NO,11,3,2,7,NO,YES,little,11,YES,YES,NO,NO,YES,neuropathy,YES,NO,YES,YES,NO,YES,YES,YES,YES,NO,never,YES,in the past,never,north,20.8,800,9,2.3,1.1,0.9,0.9,0.5,33
+808,Y,Dont know,female,44,BOTH,YES,10,5,12,2,NO,YES,middle,3,YES,YES,YES,NO,YES,nothing,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,in the past,YES,profusely,never,south,3.6,59,9.1,5.4,2.4,1.1,3.2,1.1,23
+809,Y,type 2,male,51,NO,NO,9,13,14,7,YES,YES,never,13,YES,YES,YES,NO,NO,Cardiovascular complications,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,profusely,YES,profusely,profusely,south,3.5,72,7,5.4,1.5,1,3.7,0.7,27
+810,Y,type 2,female,30,BOTH,NO,10,2,12,2,YES,YES,never,0,NO,YES,NO,NO,YES,diabetic foot,NO,YES,YES,YES,YES,YES,NO,YES,YES,NO,profusely,NO,average,average,center,3.1,54,7.3,5.9,1.8,1.6,3.5,0.8,21
+811,Y,Dont know,female,45,DAD,NO,7,17,13,9,YES,NO,little,7,NO,YES,YES,NO,YES,Diabetic nephropathy,NO,YES,NO,NO,NO,NO,NO,NO,YES,YES,profusely,NO,never,never,south,2.2,38,9.6,4.1,1.8,1,2.3,0.8,30
+812,Y,type 2,female,60,BOTH,YES,2,12,9,0,NO,YES,little,8,NO,YES,YES,NO,NO,diabetic foot,YES,YES,YES,YES,YES,YES,NO,YES,YES,YES,average,NO,little,little,center,5.4,47,6.9,3.6,0.8,1.8,1.5,0.4,28
+813,Y,Dont know,male,54,NO,NO,14,11,0,3,NO,YES,never,22,YES,YES,YES,YES,YES,diabetic foot,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,never,YES,never,little,south,3.8,62,8.8,5.4,2.2,1.1,7,0.9,30
+814,Y,type 2,female,55,MOM,NO,11,8,2,0,YES,YES,never,7,YES,NO,NO,YES,NO,nothing,YES,NO,NO,NO,YES,NO,YES,YES,YES,YES,never,NO,never,profusely,center,5.8,41,9.7,5,4.5,1.1,2.2,2,28
+815,Y,Dont know,female,55,BOTH,YES,6,5,14,7,NO,YES,middle,25,NO,YES,YES,YES,YES,nothing,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,profusely,YES,profusely,average,south,8.5,59,7.6,3.3,1.7,0.9,1.7,0.8,32
+816,Y,type 2,male,60,MOM,YES,14,14,7,8,YES,YES,little,23,NO,NO,NO,NO,NO,neuropathy,NO,YES,YES,YES,YES,NO,YES,YES,NO,NO,little,NO,never,average,north,7.5,83,7.2,2.8,1.9,1.3,2,0.8,35
+817,Y,Dont know,male,55,DAD,YES,10,16,6,8,YES,YES,little,23,YES,NO,NO,NO,NO,cerebrovascular disease,NO,YES,NO,NO,YES,YES,YES,YES,YES,YES,never,NO,in the past,profusely,center,6.1,80,8.5,5.6,2.1,0.9,3.8,0.4,26
+818,Y,type 2,male,45,NO,NO,9,16,10,3,NO,NO,little,20,YES,NO,YES,NO,NO,cerebrovascular disease,NO,NO,NO,NO,YES,NO,YES,YES,YES,NO,profusely,NO,profusely,little,south,4.3,71,7.2,5.6,2,1.1,3,1,19
+819,Y,Dont know,male,56,NO,NO,12,17,9,10,NO,NO,middle,8,YES,NO,YES,NO,NO,Cardiovascular complications,NO,NO,YES,YES,NO,YES,YES,NO,YES,NO,little,NO,in the past,never,south,3.4,68,9.7,5.6,2.6,0.9,3.7,1.1,29
+820,Y,type 2,female,55,NO,NO,13,12,11,9,YES,NO,middle,10,YES,YES,YES,YES,YES,Diabetic nephropathy,NO,YES,NO,YES,YES,NO,NO,YES,NO,NO,never,YES,in the past,profusely,center,1.8,24,6.7,4.8,0.6,1.9,2.6,1.1,27
+821,Y,type 2,female,59,NO,YES,10,0,11,4,YES,YES,never,2,NO,NO,NO,NO,YES,cerebrovascular disease,NO,YES,NO,NO,YES,NO,YES,NO,YES,NO,in the past,YES,little,never,center,11.2,99,7.4,4,2.7,0.7,2.3,1.2,31
+822,Y,Dont know,female,59,NO,NO,5,11,10,3,YES,YES,little,10,NO,YES,NO,YES,YES,diabetic foot,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,little,NO,average,never,center,4.8,51,7,3.6,0.8,1.8,1.5,0.4,28
+823,Y,type 2,female,54,MOM,NO,9,0,13,7,NO,NO,much,0,NO,NO,NO,YES,NO,cerebrovascular disease,YES,NO,YES,NO,NO,YES,YES,NO,YES,NO,little,YES,never,little,north,7.2,67,6.5,4.1,1.4,1.8,1.7,0.6,29
+824,Y,Dont know,male,76,BOTH,YES,3,12,0,5,NO,YES,little,12,NO,YES,YES,YES,YES,nothing,NO,YES,YES,YES,YES,NO,NO,YES,NO,NO,profusely,NO,average,never,south,4.1,52,7,3.3,1.6,1.2,1.4,0.7,31
+825,Y,type 2,male,54,NO,YES,6,1,7,4,YES,NO,little,16,YES,NO,YES,YES,YES,diabetic foot,NO,NO,YES,NO,NO,YES,YES,NO,NO,NO,little,YES,profusely,never,north,3.3,46,10,4.3,1.6,1.1,2,1.8,35
+826,Y,Dont know,male,54,DAD,YES,7,2,8,6,YES,NO,never,12,NO,NO,YES,NO,YES,cerebrovascular disease,YES,YES,NO,NO,YES,YES,NO,YES,NO,YES,in the past,NO,average,average,north,3.6,46,6.9,4,4.5,1,1.2,2,33
+827,Y,Dont know,female,61,DAD,NO,17,12,3,0,YES,NO,middle,2,YES,NO,NO,NO,YES,Diabetic nephropathy,NO,YES,NO,YES,YES,YES,NO,NO,NO,NO,little,YES,average,never,south,3.7,51,6.5,6.4,1.8,3.2,2.5,0.8,30
+828,Y,type 2,female,52,NO,NO,1,4,9,4,YES,NO,much,0,NO,YES,NO,YES,NO,Diabetic nephropathy,NO,YES,NO,NO,NO,YES,YES,YES,NO,YES,little,NO,little,never,center,4.2,46,6.8,3.6,1.9,1.9,1.6,1.2,36.6
+829,Y,type 2,male,51,BOTH,YES,14,6,7,10,YES,YES,little,18,YES,NO,NO,YES,YES,diabetic foot,YES,NO,NO,YES,YES,NO,YES,NO,YES,NO,little,NO,in the past,never,center,6.7,73,10.4,4.9,6.7,1.6,0.6,3,37
+830,Y,type 2,female,42,BOTH,NO,3,1,4,10,NO,YES,middle,15,YES,YES,YES,YES,NO,diabetic eye complications,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,profusely,NO,little,little,north,4.5,52,8,5,2.5,1.3,2.3,1.6,30
+831,Y,type 2,male,51,NO,YES,12,11,1,2,YES,NO,much,9,YES,YES,YES,YES,NO,Cardiovascular complications,YES,YES,NO,YES,YES,YES,NO,YES,NO,YES,little,NO,in the past,average,south,38.9,58,6.8,5.9,2.6,1.4,3.4,1.2,33
+832,Y,type 2,female,60,DAD,YES,3,8,3,1,NO,NO,never,14,YES,YES,NO,NO,NO,cerebrovascular disease,NO,NO,YES,YES,NO,NO,YES,NO,NO,YES,profusely,YES,in the past,never,center,4.8,44,8,3.5,1.8,1.4,1.4,0.8,27
+833,Y,type 2,male,54,MOM,YES,1,4,5,2,NO,YES,little,21,NO,NO,YES,YES,NO,nothing,YES,NO,YES,YES,NO,NO,NO,YES,YES,NO,average,YES,profusely,average,south,2.8,43,6.9,6.7,2.4,1.1,4.6,1.1,30
+834,Y,Dont know,male,73,DAD,NO,4,6,9,0,NO,YES,much,12,YES,YES,YES,NO,NO,diabetic eye complications,NO,NO,YES,NO,NO,NO,NO,YES,YES,YES,in the past,NO,never,never,center,6.1,83,12,5,3.3,1.3,2.4,1.5,33
+835,Y,type 2,male,55,DAD,NO,16,5,2,7,YES,YES,much,11,NO,YES,NO,YES,NO,cerebrovascular disease,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,little,YES,in the past,average,center,5.6,46,10.3,5.3,3.7,1.1,2.8,1.7,30
+836,Y,type 2,male,60,NO,NO,5,15,10,3,YES,YES,middle,25,NO,YES,YES,YES,YES,Diabetic nephropathy,NO,YES,YES,YES,NO,YES,NO,NO,YES,YES,in the past,YES,never,little,center,4.2,59,8.9,6.8,4.3,1.2,3.9,1.9,30
+837,Y,Dont know,male,60,DAD,YES,9,6,11,0,NO,NO,middle,21,NO,YES,YES,NO,YES,cerebrovascular disease,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,never,YES,little,average,south,6.9,79,8,2.5,1.9,1.3,3.1,0.8,30
+838,Y,type 2,female,56,NO,YES,3,6,9,2,NO,NO,much,23,NO,NO,NO,NO,NO,diabetic foot,NO,NO,YES,NO,YES,YES,NO,NO,NO,NO,average,YES,never,little,center,4,38,7.7,6.1,2.3,1.6,3.6,1,26
+839,Y,type 2,male,55,BOTH,NO,1,1,8,2,YES,YES,much,4,YES,YES,NO,NO,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,NO,YES,NO,NO,NO,little,YES,profusely,never,south,26.4,228,7.1,4.1,1.9,1.3,2,0.9,27
+840,Y,type 2,female,56,MOM,YES,13,16,7,1,NO,YES,never,2,NO,NO,NO,YES,NO,nothing,YES,NO,YES,YES,NO,YES,YES,NO,NO,NO,average,YES,profusely,profusely,south,2.8,51,7,5.3,2.1,1.6,2.9,0.9,21
+841,Y,type 2,male,54,BOTH,NO,10,6,5,1,NO,YES,never,22,YES,YES,NO,YES,NO,cerebrovascular disease,NO,YES,NO,NO,YES,NO,YES,YES,NO,YES,little,NO,profusely,little,south,3,67,7,4.8,1.7,1.3,2.8,0.7,26
+842,Y,type 2,male,56,MOM,NO,5,11,13,9,YES,YES,never,17,NO,YES,YES,NO,YES,diabetic eye complications,NO,NO,YES,YES,NO,NO,NO,YES,YES,NO,little,YES,little,profusely,center,4.9,32,10.7,3.6,3.6,1.3,0.9,1.6,31
+843,Y,type 2,male,61,NO,NO,17,6,5,5,NO,NO,middle,8,YES,NO,YES,YES,YES,Cardiovascular complications,YES,NO,YES,NO,YES,YES,NO,YES,YES,NO,profusely,NO,in the past,average,south,4.1,44,10.3,6.4,11.6,1.1,0.7,5.2,31
+844,Y,type 2,female,61,DAD,NO,11,13,5,3,NO,YES,little,3,NO,YES,NO,YES,YES,diabetic eye complications,YES,YES,YES,YES,NO,NO,NO,NO,NO,YES,in the past,NO,profusely,little,south,8.1,72,16,7.7,3.1,1.6,4.9,1.4,26
+845,Y,type 2,male,59,BOTH,YES,9,3,14,0,NO,NO,little,1,NO,YES,YES,NO,NO,Diabetic nephropathy,YES,YES,NO,YES,NO,YES,YES,YES,NO,YES,never,NO,in the past,never,north,4.6,53,13.3,5.4,3,1.2,3,1.3,29
+846,Y,type 2,female,55,DAD,YES,13,8,13,10,NO,YES,much,4,YES,NO,YES,NO,YES,cerebrovascular disease,YES,YES,YES,YES,NO,NO,YES,YES,NO,YES,profusely,YES,little,little,south,4.4,35,11.7,5,3.5,1.5,2.1,1.5,29
+847,Y,type 2,male,61,DAD,YES,14,5,12,4,NO,NO,never,1,NO,YES,YES,NO,YES,Cardiovascular complications,NO,NO,NO,NO,YES,YES,NO,YES,YES,NO,average,NO,in the past,never,north,6.6,72,8.5,5.6,1.9,1.3,1.2,0.7,28
+848,Y,type 2,female,52,BOTH,YES,12,12,11,8,YES,YES,little,4,YES,YES,YES,NO,YES,Diabetic nephropathy,NO,NO,NO,YES,YES,YES,NO,YES,NO,YES,average,YES,little,average,center,8,56,13.8,5.6,2.5,0.9,3.7,1.1,26
+849,Y,type 2,male,54,NO,NO,9,17,4,4,YES,NO,little,22,NO,NO,NO,NO,YES,Diabetic nephropathy,YES,NO,YES,NO,YES,NO,YES,YES,NO,NO,little,NO,never,average,north,4.5,38,10.7,5,4.4,1.4,1.8,2,31
+850,Y,type 2,male,60,NO,YES,11,12,7,10,YES,NO,never,18,NO,YES,NO,NO,NO,diabetic foot,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,in the past,YES,little,average,south,5.7,55,10.6,3,2.7,0.6,1.2,1.2,33
+851,Y,type 2,female,55,BOTH,YES,4,12,7,7,YES,NO,never,20,NO,YES,YES,YES,YES,Cardiovascular complications,YES,NO,NO,YES,YES,NO,NO,NO,NO,YES,average,NO,little,profusely,south,4.5,42,9.4,3.8,0.9,1.5,2,0.2,30
+852,Y,type 2,female,54,NO,YES,6,11,1,8,YES,YES,much,14,NO,YES,NO,YES,YES,Cardiovascular complications,NO,NO,YES,NO,NO,YES,YES,NO,NO,NO,in the past,YES,little,never,south,3.8,59,9.1,6.5,2.6,1.4,4,1.1,33
+853,Y,type 2,male,55,BOTH,YES,5,1,15,4,NO,YES,little,3,YES,YES,NO,NO,NO,diabetic eye complications,YES,NO,NO,YES,YES,YES,YES,YES,NO,NO,average,YES,average,little,north,2,51,6.5,5.2,2.3,1.2,4.3,1.4,22
+854,Y,type 2,female,56,DAD,YES,11,16,7,6,YES,NO,middle,0,YES,YES,YES,NO,NO,Diabetic nephropathy,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,profusely,YES,in the past,never,north,3,48,7.2,6.5,3.4,0.9,2.6,1.2,33
+855,Y,type 2,female,55,MOM,NO,17,11,5,4,YES,NO,much,25,YES,NO,NO,YES,YES,diabetic foot,YES,YES,YES,YES,NO,NO,YES,NO,NO,NO,profusely,YES,little,profusely,center,3.7,41,10.8,5.4,2.2,1.2,3.3,1,35
+856,Y,type 2,female,76,DAD,YES,1,1,7,9,YES,NO,little,10,NO,NO,YES,NO,YES,Diabetic nephropathy,NO,YES,YES,YES,NO,YES,YES,NO,YES,YES,never,NO,never,average,center,2.4,41,11.3,5.3,1.7,1,3.5,0.8,29
+857,Y,type 2,male,60,MOM,YES,16,12,10,2,YES,YES,little,4,YES,NO,NO,NO,NO,Diabetic nephropathy,YES,NO,YES,YES,YES,YES,NO,YES,YES,NO,little,NO,average,profusely,south,5.4,64,10.4,3.8,1.5,0.8,2.3,0.6,31
+858,Y,type 2,male,56,DAD,NO,8,11,12,5,YES,NO,never,9,NO,NO,NO,YES,NO,neuropathy,NO,NO,NO,NO,NO,NO,YES,YES,YES,NO,profusely,YES,never,profusely,north,5,61,9.2,4.6,1,1.5,1.45,0.7,30
+859,Y,type 2,male,55,NO,YES,8,15,14,8,YES,YES,middle,8,YES,NO,YES,YES,NO,Diabetic nephropathy,NO,NO,YES,NO,YES,NO,NO,YES,NO,NO,average,YES,never,never,north,5.1,70,11,5.2,1.9,1.3,3.1,0.9,31
+860,Y,type 2,female,31,DAD,NO,2,3,5,4,YES,NO,middle,22,YES,YES,YES,YES,NO,nothing,NO,YES,YES,NO,NO,YES,NO,YES,NO,YES,in the past,NO,average,never,north,4.8,52,6.5,5.5,2.1,1,3.6,0.9,33
+861,Y,type 2,female,35,DAD,YES,9,16,2,3,YES,YES,middle,18,YES,NO,NO,NO,YES,Cardiovascular complications,YES,NO,YES,YES,YES,YES,YES,YES,NO,NO,in the past,NO,average,average,south,4.3,49,8.5,7.2,3.6,0.8,5,0.8,21
+862,Y,type 2,female,60,NO,YES,12,6,14,6,YES,YES,never,14,YES,NO,NO,NO,YES,Diabetic nephropathy,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,profusely,YES,little,little,center,8.5,92,6.8,2.1,2.3,0.9,2.8,1.2,30
+863,Y,type 2,female,44,NO,NO,1,5,0,8,YES,YES,much,23,YES,YES,YES,NO,YES,Cardiovascular complications,YES,YES,YES,NO,NO,NO,YES,NO,YES,YES,in the past,NO,average,profusely,north,4.6,54,9.4,6.8,2.9,1.1,4.5,1.3,23
+864,Y,Dont know,female,51,MOM,NO,5,8,4,5,NO,YES,never,0,YES,NO,YES,NO,NO,cerebrovascular disease,YES,YES,NO,NO,YES,YES,YES,YES,NO,YES,never,NO,little,little,south,10.5,111,8.1,3.8,3.2,0.8,1.7,1.4,34
+865,Y,Dont know,female,36,MOM,YES,14,2,8,0,NO,NO,middle,15,NO,YES,NO,NO,YES,neuropathy,NO,YES,YES,NO,YES,YES,YES,YES,NO,YES,little,NO,never,never,north,7.5,82,7.9,5.5,2.5,0.7,4.1,0.6,24
+866,Y,type 2,female,36,BOTH,NO,10,2,12,6,YES,NO,never,6,NO,YES,YES,NO,YES,Diabetic nephropathy,NO,NO,YES,NO,YES,NO,YES,YES,YES,YES,little,NO,in the past,profusely,north,2.8,39,8.6,6.2,3.3,1.5,4.1,1.4,24
+867,Y,type 2,female,56,BOTH,NO,0,0,15,7,NO,NO,middle,18,NO,YES,NO,YES,NO,neuropathy,NO,NO,NO,YES,NO,NO,YES,YES,NO,NO,in the past,NO,profusely,never,south,4.5,57,11.8,3.9,3.1,0.9,1.8,1.4,30
+868,Y,type 2,male,51,NO,NO,9,10,7,5,NO,NO,middle,24,NO,NO,NO,NO,YES,neuropathy,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,in the past,YES,little,profusely,south,4.4,57,11.3,9.8,1.9,1.1,7.9,0.8,37
+869,Y,type 2,female,55,NO,YES,6,3,8,5,YES,YES,much,21,YES,NO,YES,NO,YES,Diabetic nephropathy,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES,never,YES,little,profusely,north,4.3,56,7,3.8,2.6,1,2.1,1.6,30
+870,Y,type 2,male,55,NO,YES,8,14,8,6,YES,NO,never,13,NO,NO,NO,NO,NO,nothing,YES,YES,YES,YES,NO,NO,YES,NO,YES,NO,never,NO,little,never,north,4.7,55,6.8,3.4,1.7,1.2,1.5,0.4,28
+871,Y,type 2,male,55,DAD,NO,0,16,14,5,NO,YES,middle,13,YES,NO,NO,YES,NO,Cardiovascular complications,YES,NO,YES,YES,YES,NO,YES,YES,YES,YES,in the past,NO,profusely,never,center,3.9,46,6.5,6.9,3.5,2,3.5,1.6,26
+872,Y,Dont know,male,58,NO,YES,4,3,14,2,YES,YES,never,10,YES,NO,YES,NO,YES,cerebrovascular disease,YES,NO,YES,YES,NO,YES,YES,NO,YES,NO,average,YES,little,little,north,4,55,7.8,4,3.9,1.5,1.4,1.4,28
+873,Y,Dont know,male,55,MOM,NO,5,8,8,5,NO,YES,much,8,NO,YES,NO,NO,YES,Diabetic nephropathy,NO,YES,YES,NO,YES,YES,YES,YES,NO,YES,never,NO,profusely,little,center,5.4,62,6.8,4.2,3.7,1,1.6,1.7,34
+874,Y,type 2,male,55,BOTH,YES,10,1,14,9,YES,YES,much,13,NO,NO,YES,YES,YES,Diabetic nephropathy,NO,YES,YES,YES,YES,YES,NO,NO,YES,YES,little,YES,never,little,south,4.8,77,11.1,5.7,4,0.9,3.3,1.8,30
+875,Y,type 2,male,62,DAD,NO,15,13,12,4,NO,NO,little,7,NO,YES,YES,YES,YES,Diabetic nephropathy,NO,NO,NO,YES,NO,YES,YES,NO,YES,YES,average,YES,never,profusely,south,6.3,82,6.5,4.3,3.4,0.8,2.1,1.5,31
+876,Y,type 2,male,57,MOM,NO,6,1,1,3,YES,YES,middle,5,NO,YES,NO,YES,NO,Diabetic nephropathy,NO,YES,NO,YES,NO,YES,NO,NO,YES,YES,in the past,YES,never,average,north,4.1,70,9.2,5.4,1.2,1,3.8,0.5,32
+877,Y,type 2,female,55,MOM,YES,15,8,12,2,NO,NO,never,10,NO,YES,NO,YES,YES,neuropathy,NO,NO,NO,YES,NO,YES,NO,NO,YES,YES,profusely,YES,in the past,average,north,4.1,34,13.9,5.4,1.6,1.6,3.1,0.7,33
+878,Y,Dont know,female,55,MOM,NO,8,2,7,9,NO,NO,never,12,YES,YES,YES,YES,NO,cerebrovascular disease,YES,NO,YES,YES,NO,YES,YES,YES,YES,NO,never,NO,little,little,south,3.1,39,8.5,5.9,2.1,1.2,4,1.2,32
+879,Y,type 2,female,55,DAD,YES,2,11,12,4,YES,NO,much,2,YES,YES,YES,NO,NO,Diabetic nephropathy,NO,YES,YES,YES,YES,YES,YES,YES,NO,YES,in the past,NO,little,little,center,5.7,88,7.2,6.5,3.4,0.9,2.6,1.2,33
+880,Y,type 2,male,51,MOM,NO,9,16,9,2,YES,NO,middle,4,NO,YES,YES,YES,NO,Diabetic nephropathy,YES,NO,YES,NO,NO,NO,YES,NO,NO,YES,profusely,NO,profusely,average,south,2.5,55,13,6.3,7.2,1.2,3.3,2.8,35
+881,Y,type 2,male,60,MOM,YES,16,0,13,6,NO,NO,middle,7,NO,NO,YES,NO,YES,Cardiovascular complications,NO,YES,NO,NO,YES,NO,NO,YES,NO,YES,never,YES,never,little,center,5.4,84,8,2.5,1.9,1.3,3.1,0.8,30
+882,Y,Dont know,male,58,MOM,YES,0,15,1,5,NO,YES,never,22,YES,NO,NO,YES,NO,Cardiovascular complications,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES,never,YES,never,little,center,8.2,81,10.4,6,3,1.1,0.8,0.5,35
+883,Y,type 2,female,63,MOM,NO,3,8,2,2,NO,YES,little,14,NO,YES,NO,YES,YES,diabetic foot,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,in the past,NO,little,never,center,4.7,55,12.6,7.9,5,1.3,2.1,0.7,35
+884,Y,Dont know,male,55,BOTH,NO,4,6,6,2,NO,NO,middle,13,YES,NO,YES,YES,NO,diabetic eye complications,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,average,YES,average,profusely,center,6.9,80,9.8,7.3,1.2,1.5,1.6,0.5,29
+885,Y,Dont know,female,55,MOM,YES,16,14,11,2,NO,YES,much,5,YES,NO,NO,NO,YES,diabetic foot,NO,YES,YES,YES,YES,YES,NO,NO,NO,YES,little,YES,little,average,south,2.1,23,9.96,4.1,4.2,1.2,1.4,1.3,29
+886,Y,type 2,male,60,MOM,YES,5,9,4,5,YES,NO,little,0,NO,YES,NO,YES,NO,nothing,YES,NO,NO,YES,NO,YES,NO,YES,NO,NO,in the past,YES,little,profusely,center,5.3,62,10.2,4.1,3.8,1.1,1.35,0.6,31
+887,Y,type 2,female,61,BOTH,NO,2,9,13,0,YES,NO,little,3,YES,YES,NO,YES,NO,cerebrovascular disease,NO,NO,NO,NO,NO,YES,YES,YES,NO,NO,little,NO,in the past,never,center,3.4,38,9.2,3.9,2.8,1.2,1.5,1.3,26
+888,Y,type 2,male,63,DAD,YES,1,0,14,1,NO,NO,little,16,YES,NO,YES,YES,YES,cerebrovascular disease,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,never,YES,average,average,south,3.4,52,8.8,5.8,1.7,1.1,3.9,0.9,38
+889,Y,Dont know,female,61,DAD,YES,16,14,12,1,NO,YES,middle,14,NO,NO,NO,YES,YES,diabetic eye complications,YES,YES,YES,NO,NO,YES,YES,YES,NO,NO,in the past,YES,little,profusely,north,3.8,32,10.3,3.4,0.8,1.4,1.6,0.8,32
+890,Y,type 2,female,51,NO,YES,12,6,11,5,YES,NO,little,9,NO,NO,NO,NO,YES,neuropathy,NO,NO,YES,NO,YES,YES,NO,YES,YES,YES,in the past,YES,in the past,profusely,south,4.1,41,9.1,3.9,1.2,0.8,2.7,0.4,33
+891,Y,type 2,female,53,MOM,NO,13,9,4,8,NO,YES,never,13,YES,NO,YES,NO,NO,nothing,NO,NO,YES,YES,NO,YES,YES,NO,YES,NO,profusely,NO,profusely,profusely,south,10.3,132,12.4,7.1,2.6,1.3,0.9,1,32
+892,Y,type 2,male,51,MOM,YES,2,7,6,2,NO,NO,middle,15,YES,NO,YES,YES,YES,diabetic foot,NO,YES,YES,NO,NO,YES,NO,NO,YES,YES,in the past,YES,average,never,center,4.4,67,6.8,6.7,3.7,0.9,2.9,1.7,32
+893,Y,Dont know,female,62,BOTH,NO,16,4,9,5,NO,NO,never,3,YES,YES,YES,YES,YES,Diabetic nephropathy,YES,YES,NO,YES,NO,NO,NO,YES,NO,NO,never,YES,profusely,never,north,4.8,52,11.8,3.7,0.8,0.8,2.6,0.3,33
+894,Y,type 2,male,60,MOM,YES,13,7,6,6,YES,YES,middle,10,NO,YES,NO,YES,YES,Cardiovascular complications,YES,YES,NO,NO,YES,NO,YES,YES,YES,YES,average,NO,profusely,profusely,center,3.3,59,7.6,3.5,1,1.3,1.5,0.7,30
+895,Y,Dont know,female,60,BOTH,NO,6,13,10,5,YES,YES,much,10,NO,YES,YES,YES,YES,neuropathy,YES,NO,NO,YES,NO,NO,YES,YES,NO,YES,profusely,YES,little,profusely,center,3.4,27,14.7,3.5,1.9,1.3,1.6,1.4,35
+896,Y,type 2,male,61,DAD,NO,0,13,5,7,YES,YES,little,19,YES,NO,NO,YES,YES,Diabetic nephropathy,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,in the past,YES,never,average,south,4.3,70,9.1,6.6,2.9,1.1,4.3,1.3,29
+897,Y,Dont know,male,51,MOM,NO,6,4,4,1,NO,NO,never,0,NO,NO,NO,NO,YES,diabetic foot,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,average,NO,average,profusely,north,3.2,61,13.7,3.5,1,0.9,1.4,2.6,32
+898,Y,type 2,female,55,DAD,YES,8,10,14,7,YES,NO,much,3,NO,NO,NO,NO,NO,Cardiovascular complications,NO,YES,YES,YES,NO,NO,YES,NO,NO,NO,profusely,YES,never,average,north,6.6,168,7,4,2.3,1,2,1,33
+899,Y,type 2,male,50,MOM,YES,17,17,9,8,YES,YES,much,14,YES,YES,NO,NO,YES,Cardiovascular complications,NO,YES,YES,YES,YES,NO,YES,YES,YES,YES,little,YES,never,profusely,north,5,106,6.9,7.3,4,1.1,2.7,1.3,21
+900,Y,type 2,male,26,DAD,YES,10,6,10,4,YES,NO,middle,7,NO,NO,NO,NO,NO,diabetic foot,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES,average,YES,in the past,profusely,north,7.5,79,8.8,3.5,2,2,0.9,0.5,28
+901,Y,Dont know,female,50,NO,NO,12,11,15,7,YES,YES,middle,13,YES,NO,NO,YES,YES,neuropathy,NO,YES,NO,YES,YES,NO,YES,NO,YES,YES,profusely,YES,average,average,north,4.3,61,7.8,6.2,2.3,1.2,4.1,1,23
+902,Y,type 2,female,50,MOM,NO,7,10,14,3,NO,YES,little,18,NO,NO,YES,NO,NO,cerebrovascular disease,YES,YES,NO,YES,NO,YES,YES,NO,NO,NO,never,NO,little,never,south,2.5,79,8.1,7.4,3.3,0.8,4,0.8,22
+903,Y,type 2,male,35,NO,NO,4,14,2,5,YES,YES,never,11,NO,NO,YES,NO,NO,diabetic eye complications,NO,NO,YES,YES,NO,NO,NO,YES,YES,YES,average,YES,never,little,center,6.3,53,6.5,5.5,2.1,1,3.6,0.9,33
+904,Y,type 2,female,34,MOM,YES,6,7,2,3,NO,YES,little,22,YES,NO,YES,YES,NO,Cardiovascular complications,NO,YES,NO,YES,NO,YES,YES,NO,YES,YES,never,NO,in the past,never,south,4.5,61,8.1,3.1,1.6,0.9,1.5,0.7,34
+905,Y,type 1,female,28,MOM,NO,3,1,2,1,NO,NO,much,20,NO,YES,NO,NO,YES,diabetic foot,NO,YES,YES,NO,YES,NO,NO,YES,NO,YES,in the past,NO,in the past,little,north,3.5,61,8.5,5.6,2.1,0.9,3.8,0.4,26
+906,Y,Dont know,female,35,BOTH,YES,2,14,14,5,YES,YES,much,20,YES,NO,YES,NO,NO,cerebrovascular disease,NO,YES,NO,YES,YES,NO,YES,YES,NO,NO,little,YES,average,little,north,9.1,114,7.2,5.6,1.4,1.4,3.6,0.6,20
+907,Y,type 2,female,40,BOTH,YES,16,16,3,10,YES,NO,never,3,YES,YES,NO,YES,NO,diabetic foot,NO,YES,NO,YES,NO,NO,NO,YES,NO,YES,in the past,NO,in the past,profusely,south,5.1,79,7.3,5.7,3.8,1.3,2.8,1.7,20
+908,Y,type 2,male,60,DAD,NO,8,11,15,5,NO,NO,never,25,YES,YES,NO,NO,YES,nothing,YES,YES,YES,YES,YES,YES,NO,NO,YES,NO,profusely,YES,in the past,profusely,south,10,194,7.1,4.6,1.6,0.8,1.8,1.7,26
+909,Y,type 2,female,35,MOM,YES,9,0,0,9,NO,YES,little,9,NO,YES,YES,NO,NO,Cardiovascular complications,YES,NO,NO,YES,NO,YES,NO,NO,YES,YES,average,NO,profusely,never,center,5,79,7.3,6.2,2,1.4,0.9,1.3,27
+910,Y,type 2,female,65,NO,YES,15,1,8,5,YES,NO,much,11,YES,NO,YES,YES,YES,diabetic eye complications,NO,NO,NO,NO,YES,YES,NO,YES,NO,NO,profusely,NO,never,never,south,5,97,7,3.4,1.6,0.7,2,0.7,26
+911,Y,type 2,male,54,MOM,YES,10,2,3,1,YES,NO,middle,17,YES,YES,YES,NO,NO,nothing,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,in the past,YES,little,profusely,south,6.3,106,8.6,5.5,2.9,1.1,1.3,1.1,23
+912,Y,Dont know,male,54,DAD,NO,11,12,14,7,YES,NO,never,11,YES,NO,NO,NO,NO,diabetic eye complications,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,little,NO,profusely,average,south,5,88,6.8,6.7,3.7,0.9,2.9,1.7,32
+913,Y,type 2,male,50,NO,NO,8,7,12,4,YES,YES,little,7,NO,YES,YES,YES,YES,Diabetic nephropathy,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,little,YES,average,little,north,3.3,70,6.8,5.5,1.5,2.2,2.6,0.6,22
+914,Y,type 2,male,30,NO,YES,17,17,9,3,NO,YES,little,22,NO,NO,NO,YES,YES,Cardiovascular complications,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,little,YES,average,little,center,4.6,106,8.1,6.8,3.2,0.7,3.6,1.3,23
+915,Y,type 2,male,64,DAD,YES,4,7,0,0,NO,YES,little,25,NO,NO,YES,YES,NO,diabetic eye complications,NO,YES,YES,YES,NO,NO,YES,YES,NO,NO,average,NO,profusely,little,center,8.8,106,8.2,3.8,3,0.9,1.7,1.3,30
+916,Y,Dont know,male,50,BOTH,NO,13,5,12,10,NO,NO,little,25,NO,YES,YES,YES,YES,diabetic foot,NO,NO,NO,NO,YES,YES,NO,YES,YES,NO,never,NO,profusely,average,center,9,150,6.7,5.4,5.3,0.7,2.7,1.2,21
+917,Y,Dont know,female,60,BOTH,NO,1,16,1,8,YES,NO,never,15,YES,YES,YES,NO,NO,cerebrovascular disease,YES,NO,YES,YES,YES,NO,NO,NO,YES,YES,in the past,NO,profusely,profusely,center,5,70,8.1,8.6,3.5,1.8,5.3,1.6,29
+918,Y,type 2,male,30,BOTH,YES,6,15,8,10,NO,NO,middle,7,YES,NO,YES,YES,NO,cerebrovascular disease,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,little,YES,average,profusely,center,5,53,7.7,5.5,2.1,1,3.6,0.9,24
+919,Y,type 2,male,75,BOTH,YES,0,15,10,6,YES,NO,middle,8,YES,YES,YES,YES,NO,Diabetic nephropathy,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,never,YES,profusely,average,center,10.3,113,8.5,4.5,2.4,1.1,2.5,1.1,30
+920,Y,type 2,male,50,BOTH,YES,14,8,14,8,NO,YES,little,0,YES,NO,YES,NO,YES,neuropathy,YES,YES,YES,NO,NO,NO,YES,NO,YES,YES,never,NO,profusely,average,center,4.8,70,8,5.2,2.7,1.4,2.7,1.2,20
+921,Y,type 1,male,30,MOM,YES,0,6,14,6,YES,YES,never,13,NO,YES,YES,NO,NO,diabetic eye complications,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES,average,NO,profusely,profusely,north,13.2,185,8.1,5,1.1,1.8,4.1,1,21
+922,Y,type 2,male,48,BOTH,YES,8,8,13,5,NO,YES,much,24,NO,YES,YES,YES,YES,neuropathy,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,profusely,YES,profusely,little,south,4.1,79,11.3,6.1,5.7,1.1,2.1,0.7,34
+923,Y,Dont know,female,70,DAD,NO,5,15,4,8,YES,YES,middle,6,NO,YES,YES,YES,YES,neuropathy,NO,NO,YES,NO,NO,YES,YES,YES,NO,YES,average,YES,little,profusely,south,11,53,8.2,7.4,3.3,0.8,4,0.8,22
+924,Y,type 2,male,69,NO,YES,4,13,2,9,YES,NO,little,22,NO,YES,YES,YES,NO,cerebrovascular disease,YES,NO,NO,YES,NO,NO,YES,NO,YES,YES,average,YES,in the past,profusely,center,10.3,185,7.6,4.6,3.2,0.6,2.7,1.4,33
+925,Y,type 2,male,52,DAD,NO,16,4,13,2,YES,NO,little,25,NO,NO,NO,YES,NO,neuropathy,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES,profusely,NO,never,never,north,5.1,70,7,7.5,1.7,1.2,1.8,0.6,30
+926,Y,type 2,female,20,NO,YES,3,12,14,7,NO,NO,middle,23,NO,YES,NO,NO,NO,nothing,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,profusely,NO,never,little,center,4.6,70,9.6,4.1,1.8,1,2.3,0.8,30
+927,Y,type 2,male,51,MOM,YES,1,10,0,6,NO,NO,middle,0,YES,NO,YES,NO,YES,nothing,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,little,YES,profusely,little,north,5.5,83,9.4,6.4,2.3,2.3,3.2,1,33
+928,Y,Dont know,male,65,BOTH,NO,1,8,0,10,NO,YES,never,11,YES,NO,YES,YES,YES,diabetic foot,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,in the past,NO,little,never,south,5,97,7,4.3,4.3,1.4,1.5,2,27
+929,Y,Dont know,female,54,BOTH,NO,7,1,9,1,YES,NO,much,16,YES,YES,YES,NO,YES,nothing,NO,YES,NO,NO,YES,YES,YES,YES,YES,NO,profusely,NO,never,never,center,5,88,6.8,5.1,2.1,1.1,3,1,30
+930,Y,type 2,male,64,BOTH,NO,11,15,4,10,NO,NO,little,8,NO,YES,YES,NO,NO,diabetic eye complications,NO,YES,NO,YES,YES,YES,NO,NO,NO,YES,average,NO,in the past,little,south,8.8,106,8.5,5.9,2.1,1.2,4,1.2,32
+931,Y,Dont know,female,60,DAD,NO,6,4,1,2,NO,NO,much,8,NO,YES,NO,NO,YES,diabetic eye complications,YES,YES,NO,NO,NO,YES,NO,YES,YES,NO,profusely,NO,in the past,average,north,5,70,8.1,5.2,3.3,1.4,0.6,3,27
+932,Y,Dont know,female,75,BOTH,YES,5,16,12,7,YES,NO,middle,17,YES,NO,NO,YES,NO,Diabetic nephropathy,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,little,YES,in the past,never,north,10.3,113,8.6,4.2,1.6,0.9,2.6,0.7,32
+933,Y,Dont know,male,58,DAD,NO,15,15,6,7,NO,NO,middle,17,NO,YES,YES,NO,NO,diabetic foot,YES,YES,YES,NO,YES,NO,NO,YES,NO,NO,in the past,NO,average,profusely,north,4,55,7.9,4.9,2,1.2,1.4,1.1,35
+934,Y,type 2,male,55,MOM,YES,17,4,6,2,YES,NO,middle,19,YES,YES,NO,NO,NO,Diabetic nephropathy,NO,YES,NO,NO,YES,NO,YES,YES,NO,NO,average,NO,never,profusely,south,5.4,62,6.8,5.3,2,1,3.5,0.9,30.1
+935,Y,type 2,male,55,DAD,YES,12,0,6,5,YES,YES,little,4,NO,YES,NO,YES,NO,diabetic eye complications,NO,YES,YES,NO,NO,YES,YES,YES,YES,NO,profusely,NO,average,profusely,south,4.8,88,11.1,5.7,4,0.9,3.3,1.8,30
+936,Y,Dont know,male,62,MOM,YES,1,1,4,2,NO,NO,never,24,YES,YES,YES,YES,NO,Diabetic nephropathy,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,in the past,NO,in the past,little,center,6.3,82,6.7,5.3,2,1,3.5,0.9,30.1
+937,Y,Dont know,female,57,MOM,YES,11,4,9,5,NO,NO,middle,4,YES,YES,NO,NO,NO,diabetic foot,YES,YES,NO,YES,YES,NO,YES,NO,NO,YES,little,YES,profusely,average,center,4.1,70,9.3,5.3,3.3,1,1.4,1.3,29
+938,Y,type 2,female,55,BOTH,YES,0,9,0,6,YES,YES,much,6,YES,NO,YES,NO,YES,cerebrovascular disease,NO,NO,YES,YES,YES,YES,NO,YES,YES,YES,profusely,YES,never,never,south,4.1,34,13.9,5.4,1.6,1.6,3.1,0.7,33
+939,Y,Dont know,male,55,BOTH,NO,13,16,15,5,NO,NO,middle,12,YES,YES,YES,YES,NO,Diabetic nephropathy,NO,YES,NO,NO,NO,YES,NO,YES,YES,NO,little,NO,average,never,center,3.1,39,8.5,5,2.5,1.9,2.9,0.7,27
+940,Y,type 2,male,28,BOTH,YES,5,16,9,7,NO,NO,middle,7,YES,NO,YES,NO,NO,diabetic eye complications,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,average,NO,never,never,south,3.5,61,8.5,4.5,1.9,1.1,2.6,0.8,37
+941,Y,Dont know,male,69,DAD,YES,8,0,11,1,YES,NO,middle,22,NO,YES,NO,YES,NO,nothing,YES,YES,YES,YES,NO,NO,NO,NO,YES,NO,little,YES,profusely,never,north,10.3,185,7.7,4.9,1.9,1.2,3,0.7,37
+942,Y,type 2,male,71,MOM,NO,0,4,6,6,YES,YES,middle,21,NO,YES,NO,YES,YES,Cardiovascular complications,YES,YES,NO,NO,NO,NO,YES,NO,YES,YES,in the past,YES,never,profusely,south,11,97,7,7.5,1.7,1.2,1.8,0.6,30
+943,Y,type 2,male,31,NO,NO,1,5,6,5,NO,NO,little,24,YES,YES,YES,NO,NO,Diabetic nephropathy,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO,profusely,YES,in the past,profusely,north,3,60,12.3,4.1,2.2,0.7,2.4,15.4,37.2
+944,Y,type 2,male,30,BOTH,YES,4,5,14,7,YES,NO,never,10,YES,NO,YES,NO,YES,diabetic foot,YES,NO,NO,YES,NO,NO,NO,YES,NO,YES,never,NO,average,never,south,7.1,81,6.7,4.1,1.1,1.2,2.4,8.1,27.4
+945,Y,Dont know,male,38,BOTH,NO,16,15,1,4,YES,NO,much,23,YES,YES,NO,NO,NO,nothing,YES,YES,YES,NO,NO,YES,NO,NO,YES,NO,in the past,NO,never,average,north,5.8,59,6.7,5.3,2,1.6,2.9,14,40.5
+946,Y,type 2,male,54,BOTH,YES,9,4,10,2,YES,NO,never,25,NO,YES,YES,NO,NO,neuropathy,NO,YES,NO,YES,YES,NO,YES,NO,NO,YES,in the past,NO,never,never,center,5,67,6.9,3.8,1.7,1.1,3,0.7,33
