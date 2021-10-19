@@ -1,0 +1,376 @@
+{% extends "base.html" %} {% block main %}
+<!-- Modal -->
+<div class="modal fade" id="myModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Prediction Results</h5>
+        <button
+          type="button"
+          class="close"
+          data-dismiss="modal"
+          aria-label="Close"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h5 class="pt-3">Prediction Classification:</h5>
+        <div id="prediction"></div>
+        <div id="explainnation"></div>
+      </div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          class="btn btn-secondary"
+          data-dismiss="modal"
+          href="/predict"
+        >
+          Close
+        </button>
+        <a class="btn btn-primary" href="/" role="button">homepage</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="outside">
+  <div class="container pt-5">
+    <div class="col-md-4">
+      <!-- Questionnaire form -->
+      <form action="" id="post-form" name="myform">
+        {% csrf_token %}
+        <h1>Diabetes Prediction</h1>
+        <hr />
+        <br /><br />
+        <label for="gender">Gender:</label>
+        <select name="gender" id="gender">
+          <option value="1">female</option>
+          <option value="0">male</option>
+        </select>
+        <br />
+        <label for="area">Area:</label>
+        <select name="area" id="area">
+          <option value="south">south</option>
+          <option value="north">north</option>
+          <option value="center">center</option>
+        </select>
+        <br />
+        <label for="age">Age :</label>
+        <input
+          type="numeric"
+          step="0.1"
+          id="age"
+          placeholder="Enter your age"
+          required
+        />
+        <br />
+        <label for="height">height :</label>
+        <input
+          type="decimal"
+          name="he"
+          onkeyup="calculate(this.value)"
+          required
+        />
+        <br />
+
+        <label for="weight">weight :</label>
+        <input
+          type="decimal"
+          name="we"
+          onkeyup="calculate(this.value)"
+          required
+        />
+        <br />
+
+        <label for="bmi">BMI :</label>
+        <input type="number" id="bmi" name="bmi" disabled />
+        <br />
+
+        <label for="genetic">Is one of your parents have diabetes?</label>
+        <select name="genetic" id="genetic">
+          <option value="0">no</option>
+          <option value="1">mom</option>
+          <option value="2">dad</option>
+          <option value="3">both</option>
+        </select>
+        <br />
+        <label for="Siblings">Is one of your siblings have diabetes?</label>
+        <select name="Siblings" id="Siblings">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="fast_food"
+          >In a week, eating Fast food more than 3 times in night?</label
+        >
+        <select name="fast_food" id="fast_food">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="sweet"
+          >Eating sweet in a week:
+          <a
+            title="Key:
+          never: Zero times 
+          little: less than 4 times 
+          middle: 4-9 times 
+          much: 10 times and up"
+            ><img
+              src="https://shots.jotform.com/kade/Screenshots/blue_question_mark.png"
+              height="14px" /></a
+        ></label>
+        <select name="sweet" id="sweet">
+          <option value="0">never</option>
+          <option value="1">little</option>
+          <option value="2">middle</option>
+          <option value="3">much</option>
+        </select>
+        <br />
+        <label for="stress"
+          >Suffering from lot of psychological pressures?
+          <a title="psychological pressures: such as anxiety and tension"
+            ><img
+              src="https://shots.jotform.com/kade/Screenshots/blue_question_mark.png"
+              height="14px"
+          /></a>
+        </label>
+        <select name="stress" id="stress">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="wounds">Delayed healing of your wounds:</label>
+        <select name="wounds" id="wounds">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="bruises">Delayed healing of bruises:</label>
+        <select name="bruises" id="bruises">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="Hypertension">Suffering from Hypertension:</label>
+        <select name="Hypertension" id="Hypertension">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="thirst">Do you usually feel very thirsty?</label>
+        <select name="thirst" id="thirst">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="urination">Do you have a need to urinate frequently?</label>
+        <select name="urination" id="urination">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="tired">Do you often feel lack of energy?</label>
+        <select name="tired" id="tired">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="vision">Suffering from blurred vision:</label>
+        <select name="vision" id="vision">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="numbness"
+          >Do you feel numbness or tingling in the hands or feet?</label
+        >
+        <select name="numbness" id="numbness">
+          <option value="1">yes</option>
+          <option value="0">no</option>
+        </select>
+        <br />
+        <label for="smoking"
+          >Do you smoking Cigarettes or hookah:
+          <a
+            title=" Key: 
+          never: Zero times
+          little: less than 14 cigarette in a week
+          middle: 14-20 cigarette in a week
+          much: more than 20 cigarette in a week"
+            ><img
+              src="https://shots.jotform.com/kade/Screenshots/blue_question_mark.png"
+              height="14px" /></a
+        ></label>
+        <select name="smoking" id="smoking">
+          <option value="0">never</option>
+          <option value="1">little</option>
+          <option value="2">middle</option>
+          <option value="3">much</option>
+          <option value="4">in the past</option>
+        </select>
+        <br />
+        <label for="Sport"
+          >Doing Sport:
+          <a
+            title=" Key: 
+          never: training ZERO times a week
+          little: training at least ONE times a week
+          middle: training at least TWO times a week
+          much: training at least THREE times a week"
+            ><img
+              src="https://shots.jotform.com/kade/Screenshots/blue_question_mark.png"
+              height="14px" /></a
+        ></label>
+        <select name="Sport" id="Sport">
+          <option value="0">never</option>
+          <option value="1">little</option>
+          <option value="2">middle</option>
+          <option value="3">much</option>
+        </select>
+        <br />
+        <button
+          type="submit"
+          id="myBtn"
+          value="Submit"
+          class="button btn-success"
+        >
+          Submit
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- Share content -->
+<div class="share-btn-container">
+  <a href="#" class="facebook-btn">
+    <i class="fab fa-facebook"></i>
+  </a>
+  <a href="#" class="whatsapp-btn">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+  <a href="#" class="email-btn">
+    <i class="fa fa-envelope"></i>
+  </a>
+
+  <a href="#" class="twitter-btn">
+    <i class="fab fa-twitter"></i>
+  </a>
+</div>
+<!-- loader -->
+<div id="loader" class="lds-dual-ring hidden overlay"></div>
+
+<!-- show the modal of prediction result -->
+<script>
+  $(document).on("submit", "#post-form", function (e) {
+    e.preventDefault();
+    $.ajax({
+      type: "POST",
+      url: '{% url "submit_prediction" %}',
+      data: {
+        gender: $("#gender").val(),
+        area: $("#area").val(),
+        age: $("#age").val(),
+        genetic: $("#genetic").val(),
+        Siblings: $("#Siblings").val(),
+        fast_food: $("#fast_food").val(),
+        sweet: $("#sweet").val(),
+        Hypertension: $("#Hypertension").val(),
+        stress: $("#stress").val(),
+        wounds: $("#wounds").val(),
+        bruises: $("#bruises").val(),
+        thirst: $("#thirst").val(),
+        urination: $("#urination").val(),
+        tired: $("#tired").val(),
+        vision: $("#vision").val(),
+        numbness: $("#numbness").val(),
+        smoking: $("#smoking").val(),
+        Sport: $("#Sport").val(),
+        bmi: $("#bmi").val(),
+        csrfmiddlewaretoken: $("input[name=csrfmiddlewaretoken]").val(),
+        action: "post",
+      },
+      beforeSend: function () {
+        $("#loader").removeClass("hidden");
+      },
+      success: function (json) {
+        var modal = $("#myModal");
+        modal.modal("show");
+        document.getElementById("prediction").innerHTML = json["result"];
+        document.forms["post-form"].reset();
+        if (json["result"] == "positive") {
+          document.getElementById("prediction").style.background = "#FF0000";
+          document.getElementById("explainnation").innerHTML =
+            "Please consult a doctor to ensure your health. The result is accurate with a percentage of " +
+            json["accuracy"];
+          document.getElementById("explainnation").style.color = "red";
+        } else {
+          document.getElementById("explainnation").innerHTML =
+            "You are not diabetic. The result is accurate with a percentage of " +
+            json["accuracy"];
+          document.getElementById("prediction").style.background = "#4CBB17";
+          document.getElementById("explainnation").style.color = "red";
+        }
+      },
+      complete: function () {
+        $("#loader").addClass("hidden");
+      },
+      error: function (xhr, errmsg, err) {},
+    });
+  });
+</script>
+<!-- calculate BMI -->
+
+<script type="text/javascript">
+  function calculate() {
+    if (
+      isNaN(document.forms["myform"]["he"].value) ||
+      document.forms["myform"]["he"].value == ""
+    ) {
+      var height = 0;
+    } else {
+      var height = parseInt(document.forms["myform"]["he"].value);
+    }
+    if (
+      isNaN(document.forms["myform"]["we"].value) ||
+      document.forms["myform"]["we"].value == ""
+    ) {
+      var weight = 0;
+    } else {
+      var weight = parseFloat(document.forms["myform"]["we"].value);
+    }
+    document.forms["myform"]["bmi"].value = weight / (height / 100) ** 2;
+  }
+
+  // Share Content
+  const facebookBtn = document.querySelector(".facebook-btn");
+  const twitterBtn = document.querySelector(".twitter-btn");
+  const emailBtn = document.querySelector(".email-btn");
+  const whatsappBtn = document.querySelector(".whatsapp-btn");
+
+  //Share URL
+  function init() {
+    let postUrl = encodeURI(document.location.href);
+    let postTitle = encodeURI("Hi everyone, please check this out: ");
+
+    facebookBtn.setAttribute(
+      "href",
+      `https://www.facebook.com/sharer.php?u=${postUrl}`
+    );
+
+    twitterBtn.setAttribute(
+      "href",
+      `https://twitter.com/share?url=${postUrl}&text=${postTitle}`
+    );
+
+    emailBtn.setAttribute("href", `mailto:?body=${postTitle}?url=${postUrl}`);
+
+    whatsappBtn.setAttribute(
+      "href",
+      `https://wa.me/?text=${postTitle} ${postUrl}`
+    );
+  }
+
+  init();
+</script>
+{% endblock %}
